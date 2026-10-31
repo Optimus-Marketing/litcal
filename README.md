@@ -52,7 +52,9 @@ make golden    # rewrite testdata/golden after an intended change
 ## Source
 
 The rules and data are derived from [LiturgicalCalendarAPI](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI)
-(Apache License 2.0). Its English calendars from 1970 to 2068 match this package except for two decrees it declares
+(Apache License 2.0). The Spanish celebration names follow the Calendario Litúrgico-Pastoral of the Spanish Episcopal
+Conference, and some English names were corrected to the Liturgical Calendar of the United States Conference of Catholic
+Bishops. Apart from names, its English calendars from 1970 to 2068 match this package except for two decrees it declares
 but does not apply:
 
 - Saint Mary Magdalene is a feast since 2016.

@@ -110,8 +110,8 @@
 2009-03-17	StPatrick	commemoration	white	Pastors:For a Bishop|Pastors:For Missionaries	LENT	3	B/I			Saint Patrick, Bishop
 2009-03-18	LentWeekday3Wednesday	weekday	purple		LENT	3	B/I		movable	Wednesday of the 3rd Week of Lent
 2009-03-18	StCyrilJerusalem	commemoration	white	Pastors:For a Bishop|Doctors	LENT	3	B/I			Saint Cyril of Jerusalem, Bishop and Doctor of the Church
-2009-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	Saint Joseph Husband of the Blessed Virgin Mary Vigil Mass
-2009-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph Husband of the Blessed Virgin Mary
+2009-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	Saint Joseph, Spouse of the Blessed Virgin Mary Vigil Mass
+2009-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph, Spouse of the Blessed Virgin Mary
 2009-03-20	LentWeekday3Friday	weekday	purple		LENT	3	B/I		movable	Friday of the 3rd Week of Lent
 2009-03-21	LentWeekday3Saturday	weekday	purple		LENT	3	B/I		movable	Saturday of the 3rd Week of Lent
 2009-03-21	Lent4_vigil	higher-solemnity	rose,purple		LENT	4	B/I	Lent4	movable	Fourth Sunday of Lent Vigil Mass
@@ -161,7 +161,7 @@
 2009-04-23	StAdalbert	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	EASTER	2	B/I			Saint Adalbert, Bishop and Martyr
 2009-04-24	EasterWeekday2Friday	weekday	white		EASTER	2	B/I		movable	Friday of the 2nd Week of Easter
 2009-04-24	StFidelisSigmaringen	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For One Pastor	EASTER	2	B/I			Saint Fidelis of Sigmaringen, Priest and Martyr
-2009-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	B/I			Saint Mark the Evangelist
+2009-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	B/I			Saint Mark, Evangelist
 2009-04-25	Easter3_vigil	higher-solemnity	white		EASTER	3	B/I	Easter3	movable	Third Sunday of Easter Vigil Mass
 2009-04-26	Easter3	higher-solemnity	white		EASTER	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Easter
 2009-04-27	EasterWeekday3Monday	weekday	white		EASTER	3	B/I		movable	Monday of the 3rd Week of Easter
@@ -190,7 +190,7 @@
 2009-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	EASTER	1	B/I			Saint Pancras, Martyr
 2009-05-13	EasterWeekday5Wednesday	weekday	white		EASTER	1	B/I		movable	Wednesday of the 5th Week of Easter
 2009-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	EASTER	1	B/I			Our Lady of Fatima
-2009-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			Saint Matthias the Apostle
+2009-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			Saint Matthias, Apostle
 2009-05-15	EasterWeekday5Friday	weekday	white		EASTER	1	B/I		movable	Friday of the 5th Week of Easter
 2009-05-16	EasterWeekday5Saturday	weekday	white		EASTER	1	B/I		movable	Saturday of the 5th Week of Easter
 2009-05-16	Easter6_vigil	higher-solemnity	white		EASTER	2	B/I	Easter6	movable	Sixth Sunday of Easter Vigil Mass
@@ -219,7 +219,7 @@
 2009-05-30	EasterWeekday7Saturday	weekday	white		EASTER	3	B/I		movable	Saturday of the 7th Week of Easter
 2009-05-30	Pentecost_vigil	higher-solemnity	red		EASTER	0	B/I	Pentecost	movable	Pentecost Vigil Mass
 2009-05-31	Pentecost	higher-solemnity	red		EASTER	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Pentecost
-2009-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Justin Martyr
+2009-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Justin, Martyr
 2009-06-02	OrdWeekday9Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 9th Week of Ordinary Time
 2009-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Saints Marcellinus and Peter, Martyrs
 2009-06-03	StsCharlesLwanga	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Charles Lwanga and Companions, Martyrs
@@ -268,7 +268,7 @@
 2009-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			The First Martyrs of the Holy Roman Church
 2009-07-01	OrdWeekday13Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 13th Week of Ordinary Time
 2009-07-02	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 13th Week of Ordinary Time
-2009-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Thomas the Apostle
+2009-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Thomas, Apostle
 2009-07-04	OrdWeekday13Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Saturday of the 13th Week of Ordinary Time
 2009-07-04	StElizabethPortugal	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	B/I			Saint Elizabeth of Portugal
 2009-07-04	SatMemBVM5	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
@@ -304,7 +304,7 @@
 2009-07-23	OrdWeekday16Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Thursday of the 16th Week of Ordinary Time
 2009-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Saint Bridget, Religious
 2009-07-24	OrdWeekday16Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 16th Week of Ordinary Time
-2009-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			Saint Sharbel Makhluf, Hermit
+2009-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			Saint Sharbel Makhlūf, Priest
 2009-07-25	StJamesAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint James, Apostle
 2009-07-25	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday17	movable	17th Sunday of Ordinary Time Vigil Mass
 2009-07-26	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	17th Sunday of Ordinary Time
@@ -454,7 +454,7 @@
 2009-10-31	SatMemBVM14	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
 2009-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	AllSaints	obligation	All Saints Vigil Mass
 2009-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	All Saints
-2009-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	B/I			The Commemoration of all the Faithful Departed (All Souls' Day)
+2009-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	B/I			The Commemoration of All the Faithful Departed (All Souls' Day)
 2009-11-03	OrdWeekday31Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 31st Week of Ordinary Time
 2009-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Saint Martin de Porres, Religious
 2009-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Saint Charles Borromeo, Bishop
@@ -486,7 +486,7 @@
 2009-11-22	ChristKing	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Christ the King
 2009-11-23	OrdWeekday34Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 34th Week of Ordinary Time
 2009-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			Saint Clement I, Pope and Martyr
-2009-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			Saint Columban, Religious
+2009-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			Saint Columban, Abbot
 2009-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs
 2009-11-25	OrdWeekday34Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 34th Week of Ordinary Time
 2009-11-25	StCatherineAlexandria	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	B/I			Saint Catherine of Alexandria, Virgin and Martyr

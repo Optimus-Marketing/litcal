@@ -1,560 +1,560 @@
 # date	key	rank	colors	commons	season	psalter	cycles	vigil for	flags	name
-2026-12-31	MaryMotherOfGod_vigil	solemnity	white		CHRISTMAS	0	B/I	MaryMotherOfGod	obligation	Solemnidad de Santa María, Madre de Dios Misa de la Víspera
-2027-01-01	MaryMotherOfGod	solemnity	white		CHRISTMAS	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Solemnidad de Santa María, Madre de Dios
-2027-01-02	StsBasilGreg	memorial	white	Proper	CHRISTMAS	0	B/I			San Basilio Magno y San Gregorio Nacianceno, obispos y doctores de la Iglesia
-2027-01-02	Christmas2_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	Christmas2	movable	Segundo Domingo de Navidad Misa de la Víspera
-2027-01-03	Christmas2	feast-of-the-lord	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Segundo Domingo de Navidad
-2027-01-04	ChristmasWeekdayJan4	weekday	white		CHRISTMAS	0	B/I		movable	Lunes - Día de la Semana de Navidad
-2027-01-05	ChristmasWeekdayJan5	weekday	white		CHRISTMAS	0	B/I		movable	Martes - Día de la Semana de Navidad
-2027-01-05	Epiphany_vigil	higher-solemnity	white		CHRISTMAS	0	B/I	Epiphany	movable,obligation	Epifanía del Señor Misa de la Víspera
+2026-12-31	MaryMotherOfGod_vigil	solemnity	white		CHRISTMAS	0	B/I	MaryMotherOfGod	obligation	Santa María, Madre de Dios (misa vespertina)
+2027-01-01	MaryMotherOfGod	solemnity	white		CHRISTMAS	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Santa María, Madre de Dios
+2027-01-02	StsBasilGreg	memorial	white	Proper	CHRISTMAS	0	B/I			Santos Basilio Magno y Gregorio Nacianceno, obispos y doctores de la Iglesia
+2027-01-02	Christmas2_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	Christmas2	movable	Domingo segundo después de Navidad (misa vespertina)
+2027-01-03	Christmas2	feast-of-the-lord	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo segundo después de Navidad
+2027-01-04	ChristmasWeekdayJan4	weekday	white		CHRISTMAS	0	B/I		movable	Lunes, feria del tiempo de Navidad
+2027-01-05	ChristmasWeekdayJan5	weekday	white		CHRISTMAS	0	B/I		movable	Martes, feria del tiempo de Navidad
+2027-01-05	Epiphany_vigil	higher-solemnity	white		CHRISTMAS	0	B/I	Epiphany	movable,obligation	Epifanía del Señor (misa vespertina)
 2027-01-06	Epiphany	higher-solemnity	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Epifanía del Señor
-2027-01-07	DayAfterEpiphanyJan7	weekday	white		CHRISTMAS	0	B/I		movable	Jueves - Día de la Semana de Navidad
+2027-01-07	DayAfterEpiphanyJan7	weekday	white		CHRISTMAS	0	B/I		movable	Jueves, feria del tiempo de Navidad
 2027-01-07	StRayPenyafort	optional-memorial	white	Pastors:For One Pastor	CHRISTMAS	0	B/I			San Raimundo de Peñafort, presbítero
-2027-01-08	DayAfterEpiphanyJan8	weekday	white		CHRISTMAS	0	B/I		movable	Viernes - Día de la Semana de Navidad
-2027-01-09	DayAfterEpiphanyJan9	weekday	white		CHRISTMAS	0	B/I		movable	Sábado - Día de la Semana de Navidad
-2027-01-09	BaptismLord_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	BaptismLord	movable	Bautismo del Señor Misa de la Víspera
+2027-01-08	DayAfterEpiphanyJan8	weekday	white		CHRISTMAS	0	B/I		movable	Viernes, feria del tiempo de Navidad
+2027-01-09	DayAfterEpiphanyJan9	weekday	white		CHRISTMAS	0	B/I		movable	Sábado, feria del tiempo de Navidad
+2027-01-09	BaptismLord_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	BaptismLord	movable	Bautismo del Señor (misa vespertina)
 2027-01-10	BaptismLord	feast-of-the-lord	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Bautismo del Señor
-2027-01-11	OrdWeekday1Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la Primera Semana del Tiempo Ordinario
-2027-01-12	OrdWeekday1Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la Primera Semana del Tiempo Ordinario
-2027-01-13	OrdWeekday1Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Primera Semana del Tiempo Ordinario
+2027-01-11	OrdWeekday1Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la I semana del tiempo ordinario
+2027-01-12	OrdWeekday1Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la I semana del tiempo ordinario
+2027-01-13	OrdWeekday1Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la I semana del tiempo ordinario
 2027-01-13	StHilaryPoitiers	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			San Hilario, obispo y doctor de la Iglesia
-2027-01-14	OrdWeekday1Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la Primera Semana del Tiempo Ordinario
-2027-01-15	OrdWeekday1Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la Primera Semana del Tiempo Ordinario
-2027-01-16	OrdWeekday1Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la Primera Semana del Tiempo Ordinario
-2027-01-16	SatMemBVM1	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-01-16	OrdSunday2_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday2	movable	Domingo II del Tiempo Ordinario Misa de la Víspera
-2027-01-17	OrdSunday2	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo II del Tiempo Ordinario
-2027-01-18	OrdWeekday2Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la Segunda Semana del Tiempo Ordinario
-2027-01-19	OrdWeekday2Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Segunda Semana del Tiempo Ordinario
-2027-01-20	OrdWeekday2Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la Segunda Semana del Tiempo Ordinario
+2027-01-14	OrdWeekday1Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la I semana del tiempo ordinario
+2027-01-15	OrdWeekday1Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la I semana del tiempo ordinario
+2027-01-16	OrdWeekday1Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la I semana del tiempo ordinario
+2027-01-16	SatMemBVM1	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Santa María en sábado
+2027-01-16	OrdSunday2_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday2	movable	Domingo II del tiempo ordinario (misa vespertina)
+2027-01-17	OrdSunday2	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo II del tiempo ordinario
+2027-01-18	OrdWeekday2Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la II semana del tiempo ordinario
+2027-01-19	OrdWeekday2Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la II semana del tiempo ordinario
+2027-01-20	OrdWeekday2Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la II semana del tiempo ordinario
 2027-01-20	StFabianPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			San Fabián, papa y mártir
 2027-01-20	StSebastian	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			San Sebastián, mártir
 2027-01-21	StAgnes	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Santa Inés, virgen y mártir
-2027-01-22	OrdWeekday2Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la Segunda Semana del Tiempo Ordinario
+2027-01-22	OrdWeekday2Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la II semana del tiempo ordinario
 2027-01-22	StVincentDeacon	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			San Vicente, diácono y mártir
-2027-01-23	OrdWeekday2Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Segunda Semana del Tiempo Ordinario
-2027-01-23	SatMemBVM2	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-01-23	OrdSunday3_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday3	movable	Domingo III del Tiempo Ordinario Misa de la Víspera
-2027-01-24	OrdSunday3	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo III del Tiempo Ordinario
-2027-01-25	ConversionStPaul	feast	white	Proper	ORDINARY_TIME	0	B/I			Conversión de San Pablo, Apóstol
+2027-01-23	OrdWeekday2Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la II semana del tiempo ordinario
+2027-01-23	SatMemBVM2	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-01-23	OrdSunday3_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday3	movable	Domingo III del tiempo ordinario (misa vespertina)
+2027-01-24	OrdSunday3	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo III del tiempo ordinario
+2027-01-25	ConversionStPaul	feast	white	Proper	ORDINARY_TIME	0	B/I			Conversión de San Pablo, apóstol
 2027-01-26	StsTimothyTitus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santos Timoteo y Tito, obispos
-2027-01-27	OrdWeekday3Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la Tercera Semana del Tiempo Ordinario
+2027-01-27	OrdWeekday3Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la III semana del tiempo ordinario
 2027-01-27	StAngelaMerici	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Educators	ORDINARY_TIME	3	B/I			Santa Ángela de Mérici, virgen
 2027-01-28	StThomasAquinas	memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	0	B/I			Santo Tomás de Aquino, presbítero y doctor de la Iglesia
-2027-01-29	OrdWeekday3Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Tercera Semana del Tiempo Ordinario
-2027-01-30	OrdWeekday3Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Tercera Semana del Tiempo Ordinario
-2027-01-30	SatMemBVM3	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-01-30	OrdSunday4_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday4	movable	Domingo IV del Tiempo Ordinario Misa de la Víspera
-2027-01-31	OrdSunday4	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IV del Tiempo Ordinario
-2027-02-01	OrdWeekday4Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la Cuarta Semana del Tiempo Ordinario
+2027-01-29	OrdWeekday3Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la III semana del tiempo ordinario
+2027-01-30	OrdWeekday3Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la III semana del tiempo ordinario
+2027-01-30	SatMemBVM3	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-01-30	OrdSunday4_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday4	movable	Domingo IV del tiempo ordinario (misa vespertina)
+2027-01-31	OrdSunday4	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IV del tiempo ordinario
+2027-02-01	OrdWeekday4Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la IV semana del tiempo ordinario
 2027-02-02	Presentation	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			Presentación del Señor
-2027-02-03	OrdWeekday4Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la Cuarta Semana del Tiempo Ordinario
+2027-02-03	OrdWeekday4Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la IV semana del tiempo ordinario
 2027-02-03	StBlase	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	B/I			San Blas, obispo y mártir
-2027-02-03	StAnsgar	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	4	B/I			San Ansgario, obispo
-2027-02-04	OrdWeekday4Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Jueves de la Cuarta Semana del Tiempo Ordinario
+2027-02-03	StAnsgar	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	4	B/I			San Óscar, obispo
+2027-02-04	OrdWeekday4Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Jueves de la IV semana del tiempo ordinario
 2027-02-05	StAgatha	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Santa Águeda, virgen y mártir
-2027-02-06	StsPaulMiki	memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	0	B/I			San Pablo Miki y compañeros, mártires
-2027-02-06	OrdSunday5_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday5	movable	Domingo V del Tiempo Ordinario Misa de la Víspera
-2027-02-07	OrdSunday5	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo V del Tiempo Ordinario
-2027-02-08	OrdWeekday5Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la Quinta Semana del Tiempo Ordinario
+2027-02-06	StsPaulMiki	memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	0	B/I			Santos Pablo Miki y compañeros, mártires
+2027-02-06	OrdSunday5_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday5	movable	Domingo V del tiempo ordinario (misa vespertina)
+2027-02-07	OrdSunday5	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo V del tiempo ordinario
+2027-02-08	OrdWeekday5Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la V semana del tiempo ordinario
 2027-02-08	StJeromeEmiliani	optional-memorial	white	Holy Men and Women:For Educators	ORDINARY_TIME	1	B/I			San Jerónimo Emiliani
 2027-02-08	StJosephineBakhita	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	B/I			Santa Josefina Bakhita, virgen
-2027-02-09	OrdWeekday5Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la Quinta Semana del Tiempo Ordinario
+2027-02-09	OrdWeekday5Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la V semana del tiempo ordinario
 2027-02-10	AshWednesday	higher-solemnity	purple		LENT	0	B/I		movable	Miércoles de Ceniza
-2027-02-11	ThursdayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Jueves después del Miércoles de Ceniza
+2027-02-11	ThursdayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Jueves después de Ceniza
 2027-02-11	OurLadyOfLourdes	optional-memorial	white	Blessed Virgin Mary	LENT	0	B/I			Bienaventurada Virgen María de Lourdes
-2027-02-12	FridayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Viernes después del Miércoles de Ceniza
-2027-02-13	SaturdayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Sábado después del Miércoles de Ceniza
-2027-02-13	Lent1_vigil	higher-solemnity	purple		LENT	1	B/I	Lent1	movable	Domingo I de Cuaresma Misa de la Víspera
+2027-02-12	FridayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Viernes después de Ceniza
+2027-02-13	SaturdayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Sábado después de Ceniza
+2027-02-13	Lent1_vigil	higher-solemnity	purple		LENT	1	B/I	Lent1	movable	Domingo I de Cuaresma (misa vespertina)
 2027-02-14	Lent1	higher-solemnity	purple		LENT	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo I de Cuaresma
-2027-02-15	LentWeekday1Monday	weekday	purple		LENT	1	B/I		movable	Lunes de la Primera Semana de Cuaresma
-2027-02-16	LentWeekday1Tuesday	weekday	purple		LENT	1	B/I		movable	Martes de la Primera Semana de Cuaresma
-2027-02-17	LentWeekday1Wednesday	weekday	purple		LENT	1	B/I		movable	Miércoles de la Primera Semana de Cuaresma
+2027-02-15	LentWeekday1Monday	weekday	purple		LENT	1	B/I		movable	Lunes de la I semana de Cuaresma
+2027-02-16	LentWeekday1Tuesday	weekday	purple		LENT	1	B/I		movable	Martes de la I semana de Cuaresma
+2027-02-17	LentWeekday1Wednesday	weekday	purple		LENT	1	B/I		movable	Miércoles de la I semana de Cuaresma
 2027-02-17	SevenHolyFounders	commemoration	white	Holy Men and Women:For Religious	LENT	1	B/I			Los Siete Fundadores de la Orden de los Siervos de la Bienaventurada Virgen María
-2027-02-18	LentWeekday1Thursday	weekday	purple		LENT	1	B/I		movable	Jueves de la Primera Semana de Cuaresma
-2027-02-19	LentWeekday1Friday	weekday	purple		LENT	1	B/I		movable	Viernes de la Primera Semana de Cuaresma
-2027-02-20	LentWeekday1Saturday	weekday	purple		LENT	1	B/I		movable	Sábado de la Primera Semana de Cuaresma
-2027-02-20	Lent2_vigil	higher-solemnity	purple		LENT	2	B/I	Lent2	movable	Domingo II de Cuaresma Misa de la Víspera
+2027-02-18	LentWeekday1Thursday	weekday	purple		LENT	1	B/I		movable	Jueves de la I semana de Cuaresma
+2027-02-19	LentWeekday1Friday	weekday	purple		LENT	1	B/I		movable	Viernes de la I semana de Cuaresma
+2027-02-20	LentWeekday1Saturday	weekday	purple		LENT	1	B/I		movable	Sábado de la I semana de Cuaresma
+2027-02-20	Lent2_vigil	higher-solemnity	purple		LENT	2	B/I	Lent2	movable	Domingo II de Cuaresma (misa vespertina)
 2027-02-21	Lent2	higher-solemnity	purple		LENT	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo II de Cuaresma
-2027-02-22	LentWeekday2Monday	weekday	purple		LENT	2	B/I		movable	Lunes de la Segunda Semana de Cuaresma
-2027-02-22	ChairStPeter	feast	white	Proper	LENT	0	B/I			Cátedra de San Pedro, Apóstol
-2027-02-23	LentWeekday2Tuesday	weekday	purple		LENT	2	B/I		movable	Martes de la Segunda Semana de Cuaresma
+2027-02-22	LentWeekday2Monday	weekday	purple		LENT	2	B/I		movable	Lunes de la II semana de Cuaresma
+2027-02-22	ChairStPeter	feast	white	Proper	LENT	0	B/I			Cátedra de San Pedro, apóstol
+2027-02-23	LentWeekday2Tuesday	weekday	purple		LENT	2	B/I		movable	Martes de la II semana de Cuaresma
 2027-02-23	StPolycarp	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	LENT	2	B/I			San Policarpo, obispo y mártir
-2027-02-24	LentWeekday2Wednesday	weekday	purple		LENT	2	B/I		movable	Miércoles de la Segunda Semana de Cuaresma
-2027-02-25	LentWeekday2Thursday	weekday	purple		LENT	2	B/I		movable	Jueves de la Segunda Semana de Cuaresma
-2027-02-26	LentWeekday2Friday	weekday	purple		LENT	2	B/I		movable	Viernes de la Segunda Semana de Cuaresma
-2027-02-27	LentWeekday2Saturday	weekday	purple		LENT	2	B/I		movable	Sábado de la Segunda Semana de Cuaresma
-2027-02-27	StGregoryNarek	optional-memorial	white	Holy Men and Women:For an Abbot|Doctors	LENT	2	B/I			San Gregorio de Narek, Abad y Doctor de la Iglesia
-2027-02-27	Lent3_vigil	higher-solemnity	purple		LENT	3	B/I	Lent3	movable	Domingo III de Cuaresma Misa de la Víspera
+2027-02-24	LentWeekday2Wednesday	weekday	purple		LENT	2	B/I		movable	Miércoles de la II semana de Cuaresma
+2027-02-25	LentWeekday2Thursday	weekday	purple		LENT	2	B/I		movable	Jueves de la II semana de Cuaresma
+2027-02-26	LentWeekday2Friday	weekday	purple		LENT	2	B/I		movable	Viernes de la II semana de Cuaresma
+2027-02-27	LentWeekday2Saturday	weekday	purple		LENT	2	B/I		movable	Sábado de la II semana de Cuaresma
+2027-02-27	StGregoryNarek	optional-memorial	white	Holy Men and Women:For an Abbot|Doctors	LENT	2	B/I			San Gregorio de Narek, abad y doctor de la Iglesia
+2027-02-27	Lent3_vigil	higher-solemnity	purple		LENT	3	B/I	Lent3	movable	Domingo III de Cuaresma (misa vespertina)
 2027-02-28	Lent3	higher-solemnity	purple		LENT	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo III de Cuaresma
-2027-03-01	LentWeekday3Monday	weekday	purple		LENT	3	B/I		movable	Lunes de la Tercera Semana de Cuaresma
-2027-03-02	LentWeekday3Tuesday	weekday	purple		LENT	3	B/I		movable	Martes de la Tercera Semana de Cuaresma
-2027-03-03	LentWeekday3Wednesday	weekday	purple		LENT	3	B/I		movable	Miércoles de la Tercera Semana de Cuaresma
-2027-03-04	LentWeekday3Thursday	weekday	purple		LENT	3	B/I		movable	Jueves de la Tercera Semana de Cuaresma
+2027-03-01	LentWeekday3Monday	weekday	purple		LENT	3	B/I		movable	Lunes de la III semana de Cuaresma
+2027-03-02	LentWeekday3Tuesday	weekday	purple		LENT	3	B/I		movable	Martes de la III semana de Cuaresma
+2027-03-03	LentWeekday3Wednesday	weekday	purple		LENT	3	B/I		movable	Miércoles de la III semana de Cuaresma
+2027-03-04	LentWeekday3Thursday	weekday	purple		LENT	3	B/I		movable	Jueves de la III semana de Cuaresma
 2027-03-04	StCasimir	commemoration	white	Holy Men and Women:For One Saint	LENT	3	B/I			San Casimiro
-2027-03-05	LentWeekday3Friday	weekday	purple		LENT	3	B/I		movable	Viernes de la Tercera Semana de Cuaresma
-2027-03-06	LentWeekday3Saturday	weekday	purple		LENT	3	B/I		movable	Sábado de la Tercera Semana de Cuaresma
-2027-03-06	Lent4_vigil	higher-solemnity	rose,purple		LENT	4	B/I	Lent4	movable	Domingo IV de Cuaresma Misa de la Víspera
-2027-03-07	Lent4	higher-solemnity	rose,purple		LENT	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IV de Cuaresma
-2027-03-08	LentWeekday4Monday	weekday	purple		LENT	4	B/I		movable	Lunes de la Cuarta Semana de Cuaresma
+2027-03-05	LentWeekday3Friday	weekday	purple		LENT	3	B/I		movable	Viernes de la III semana de Cuaresma
+2027-03-06	LentWeekday3Saturday	weekday	purple		LENT	3	B/I		movable	Sábado de la III semana de Cuaresma
+2027-03-06	Lent4_vigil	higher-solemnity	rose,purple		LENT	4	B/I	Lent4	movable	Domingo IV de Cuaresma «Laetare» (misa vespertina)
+2027-03-07	Lent4	higher-solemnity	rose,purple		LENT	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IV de Cuaresma «Laetare»
+2027-03-08	LentWeekday4Monday	weekday	purple		LENT	4	B/I		movable	Lunes de la IV semana de Cuaresma
 2027-03-08	StJohnGod	commemoration	white	Holy Men and Women:For Religious|Holy Men and Women:For Those Who Practiced Works of Mercy	LENT	4	B/I			San Juan de Dios, religioso
-2027-03-09	LentWeekday4Tuesday	weekday	purple		LENT	4	B/I		movable	Martes de la Cuarta Semana de Cuaresma
+2027-03-09	LentWeekday4Tuesday	weekday	purple		LENT	4	B/I		movable	Martes de la IV semana de Cuaresma
 2027-03-09	StFrancesRome	commemoration	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	LENT	4	B/I			Santa Francisca Romana, religiosa
-2027-03-10	LentWeekday4Wednesday	weekday	purple		LENT	4	B/I		movable	Miércoles de la Cuarta Semana de Cuaresma
-2027-03-11	LentWeekday4Thursday	weekday	purple		LENT	4	B/I		movable	Jueves de la Cuarta Semana de Cuaresma
-2027-03-12	LentWeekday4Friday	weekday	purple		LENT	4	B/I		movable	Viernes de la Cuarta Semana de Cuaresma
-2027-03-13	LentWeekday4Saturday	weekday	purple		LENT	4	B/I		movable	Sábado de la Cuarta Semana de Cuaresma
-2027-03-13	Lent5_vigil	higher-solemnity	purple		LENT	1	B/I	Lent5	movable	Domingo V de Cuaresma Misa de la Víspera
+2027-03-10	LentWeekday4Wednesday	weekday	purple		LENT	4	B/I		movable	Miércoles de la IV semana de Cuaresma
+2027-03-11	LentWeekday4Thursday	weekday	purple		LENT	4	B/I		movable	Jueves de la IV semana de Cuaresma
+2027-03-12	LentWeekday4Friday	weekday	purple		LENT	4	B/I		movable	Viernes de la IV semana de Cuaresma
+2027-03-13	LentWeekday4Saturday	weekday	purple		LENT	4	B/I		movable	Sábado de la IV semana de Cuaresma
+2027-03-13	Lent5_vigil	higher-solemnity	purple		LENT	1	B/I	Lent5	movable	Domingo V de Cuaresma (misa vespertina)
 2027-03-14	Lent5	higher-solemnity	purple		LENT	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo V de Cuaresma
-2027-03-15	LentWeekday5Monday	weekday	purple		LENT	1	B/I		movable	Lunes de la Quinta Semana de Cuaresma
-2027-03-16	LentWeekday5Tuesday	weekday	purple		LENT	1	B/I		movable	Martes de la Quinta Semana de Cuaresma
-2027-03-17	LentWeekday5Wednesday	weekday	purple		LENT	1	B/I		movable	Miércoles de la Quinta Semana de Cuaresma
+2027-03-15	LentWeekday5Monday	weekday	purple		LENT	1	B/I		movable	Lunes de la V semana de Cuaresma
+2027-03-16	LentWeekday5Tuesday	weekday	purple		LENT	1	B/I		movable	Martes de la V semana de Cuaresma
+2027-03-17	LentWeekday5Wednesday	weekday	purple		LENT	1	B/I		movable	Miércoles de la V semana de Cuaresma
 2027-03-17	StPatrick	commemoration	white	Pastors:For a Bishop|Pastors:For Missionaries	LENT	1	B/I			San Patricio, obispo
-2027-03-18	LentWeekday5Thursday	weekday	purple		LENT	1	B/I		movable	Jueves de la Quinta Semana de Cuaresma
+2027-03-18	LentWeekday5Thursday	weekday	purple		LENT	1	B/I		movable	Jueves de la V semana de Cuaresma
 2027-03-18	StCyrilJerusalem	commemoration	white	Pastors:For a Bishop|Doctors	LENT	1	B/I			San Cirilo de Jerusalén, obispo y doctor de la Iglesia
-2027-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	San José, Esposo de la Bienaventurada Virgen María Misa de la Víspera
-2027-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	San José, Esposo de la Bienaventurada Virgen María
-2027-03-20	LentWeekday5Saturday	weekday	purple		LENT	1	B/I		movable	Sábado de la Quinta Semana de Cuaresma
-2027-03-20	PalmSun_vigil	higher-solemnity	red		LENT	0	B/I	PalmSun	movable	Domingo de Ramos Misa de la Víspera
-2027-03-21	PalmSun	higher-solemnity	red		LENT	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo de Ramos
-2027-03-22	MonHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	feria II de la Semana Santa
-2027-03-23	TueHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	feria III de la Semana Santa
-2027-03-24	WedHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	feria IV de la Semana Santa
-2027-03-25	HolyThurs	higher-solemnity	white		EASTER_TRIDUUM	0	B/I		movable	Jueves Santo
-2027-03-25	HolyThursChrism	higher-solemnity	white		LENT	0	B/I		movable	Misa Crismal
-2027-03-26	GoodFri	higher-solemnity	red		EASTER_TRIDUUM	0	B/I		movable	Viernes Santo
-2027-03-27	EasterVigil	higher-solemnity	white		EASTER_TRIDUUM	0	B/I		movable	Vigilia Pascual
+2027-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	San José, esposo de la Bienaventurada Virgen María (misa vespertina)
+2027-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	San José, esposo de la Bienaventurada Virgen María
+2027-03-20	LentWeekday5Saturday	weekday	purple		LENT	1	B/I		movable	Sábado de la V semana de Cuaresma
+2027-03-20	PalmSun_vigil	higher-solemnity	red		LENT	0	B/I	PalmSun	movable	Domingo de Ramos en la Pasión del Señor (misa vespertina)
+2027-03-21	PalmSun	higher-solemnity	red		LENT	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo de Ramos en la Pasión del Señor
+2027-03-22	MonHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	Lunes Santo
+2027-03-23	TueHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	Martes Santo
+2027-03-24	WedHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	Miércoles Santo
+2027-03-25	HolyThurs	higher-solemnity	white		EASTER_TRIDUUM	0	B/I		movable	Jueves Santo en la Cena del Señor
+2027-03-25	HolyThursChrism	higher-solemnity	white		LENT	0	B/I		movable	Misa crismal
+2027-03-26	GoodFri	higher-solemnity	red		EASTER_TRIDUUM	0	B/I		movable	Viernes Santo de la Pasión del Señor
+2027-03-27	EasterVigil	higher-solemnity	white		EASTER_TRIDUUM	0	B/I		movable	Vigilia pascual en la noche santa
 2027-03-28	Easter	higher-solemnity	white		EASTER	0	B/I		movable	Domingo de Pascua de la Resurrección del Señor
-2027-03-29	MonOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	feria II de la Octava de Pascua
-2027-03-30	TueOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	feria III de la Octava de Pascua
-2027-03-31	WedOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	feria IV de la Octava de Pascua
-2027-04-01	ThuOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	feria V de la Octava de Pascua
-2027-04-02	FriOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	feria VI de la Octava de Pascua
+2027-03-29	MonOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Lunes de la Octava de Pascua
+2027-03-30	TueOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Martes de la Octava de Pascua
+2027-03-31	WedOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Miércoles de la Octava de Pascua
+2027-04-01	ThuOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Jueves de la Octava de Pascua
+2027-04-02	FriOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Viernes de la Octava de Pascua
 2027-04-03	SatOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Sábado de la Octava de Pascua
-2027-04-03	Easter2_vigil	higher-solemnity	white		EASTER	2	B/I	Easter2	movable	Domingo II de Pascua o domingo de la Misericordia divina Misa de la Víspera
-2027-04-04	Easter2	higher-solemnity	white		EASTER	2	B/I		movable,vigil-mass,first-vespers	Domingo II de Pascua o domingo de la Misericordia divina
-2027-04-04	Annunciation_vigil	solemnity	white	Proper	EASTER	0	B/I	Annunciation		Anunciación del Señor Misa de la Víspera
+2027-04-03	Easter2_vigil	higher-solemnity	white		EASTER	2	B/I	Easter2	movable	Domingo II de Pascua o de la Divina Misericordia (misa vespertina)
+2027-04-04	Easter2	higher-solemnity	white		EASTER	2	B/I		movable,vigil-mass,first-vespers	Domingo II de Pascua o de la Divina Misericordia
+2027-04-04	Annunciation_vigil	solemnity	white	Proper	EASTER	0	B/I	Annunciation		Anunciación del Señor (misa vespertina)
 2027-04-05	Annunciation	solemnity	white	Proper	EASTER	0	B/I		vigil-mass,first-vespers,second-vespers	Anunciación del Señor
-2027-04-06	EasterWeekday2Tuesday	weekday	white		EASTER	2	B/I		movable	Martes de la Segunda Semana de Pascua
-2027-04-07	StJohnBaptistDeLaSalle	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	EASTER	0	B/I			San Juan Bautista de la Salle, presbítero
-2027-04-08	EasterWeekday2Thursday	weekday	white		EASTER	2	B/I		movable	Jueves de la Segunda Semana de Pascua
-2027-04-09	EasterWeekday2Friday	weekday	white		EASTER	2	B/I		movable	Viernes de la Segunda Semana de Pascua
-2027-04-10	EasterWeekday2Saturday	weekday	white		EASTER	2	B/I		movable	Sábado de la Segunda Semana de Pascua
-2027-04-10	Easter3_vigil	higher-solemnity	white		EASTER	3	B/I	Easter3	movable	Domingo III de Pascua Misa de la Víspera
+2027-04-06	EasterWeekday2Tuesday	weekday	white		EASTER	2	B/I		movable	Martes de la II semana de Pascua
+2027-04-07	StJohnBaptistDeLaSalle	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	EASTER	0	B/I			San Juan Bautista de La Salle, presbítero
+2027-04-08	EasterWeekday2Thursday	weekday	white		EASTER	2	B/I		movable	Jueves de la II semana de Pascua
+2027-04-09	EasterWeekday2Friday	weekday	white		EASTER	2	B/I		movable	Viernes de la II semana de Pascua
+2027-04-10	EasterWeekday2Saturday	weekday	white		EASTER	2	B/I		movable	Sábado de la II semana de Pascua
+2027-04-10	Easter3_vigil	higher-solemnity	white		EASTER	3	B/I	Easter3	movable	Domingo III de Pascua (misa vespertina)
 2027-04-11	Easter3	higher-solemnity	white		EASTER	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo III de Pascua
-2027-04-12	EasterWeekday3Monday	weekday	white		EASTER	3	B/I		movable	Lunes de la Tercera Semana de Pascua
-2027-04-13	EasterWeekday3Tuesday	weekday	white		EASTER	3	B/I		movable	Martes de la Tercera Semana de Pascua
+2027-04-12	EasterWeekday3Monday	weekday	white		EASTER	3	B/I		movable	Lunes de la III semana de Pascua
+2027-04-13	EasterWeekday3Tuesday	weekday	white		EASTER	3	B/I		movable	Martes de la III semana de Pascua
 2027-04-13	StMartinPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	EASTER	3	B/I			San Martín I, papa y mártir
-2027-04-14	EasterWeekday3Wednesday	weekday	white		EASTER	3	B/I		movable	Miércoles de la Tercera Semana de Pascua
-2027-04-15	EasterWeekday3Thursday	weekday	white		EASTER	3	B/I		movable	Jueves de la Tercera Semana de Pascua
-2027-04-16	EasterWeekday3Friday	weekday	white		EASTER	3	B/I		movable	Viernes de la Tercera Semana de Pascua
-2027-04-17	EasterWeekday3Saturday	weekday	white		EASTER	3	B/I		movable	Sábado de la Tercera Semana de Pascua
-2027-04-17	Easter4_vigil	higher-solemnity	white		EASTER	4	B/I	Easter4	movable	Domingo IV de Pascua Misa de la Víspera
+2027-04-14	EasterWeekday3Wednesday	weekday	white		EASTER	3	B/I		movable	Miércoles de la III semana de Pascua
+2027-04-15	EasterWeekday3Thursday	weekday	white		EASTER	3	B/I		movable	Jueves de la III semana de Pascua
+2027-04-16	EasterWeekday3Friday	weekday	white		EASTER	3	B/I		movable	Viernes de la III semana de Pascua
+2027-04-17	EasterWeekday3Saturday	weekday	white		EASTER	3	B/I		movable	Sábado de la III semana de Pascua
+2027-04-17	Easter4_vigil	higher-solemnity	white		EASTER	4	B/I	Easter4	movable	Domingo IV de Pascua (misa vespertina)
 2027-04-18	Easter4	higher-solemnity	white		EASTER	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IV de Pascua
-2027-04-19	EasterWeekday4Monday	weekday	white		EASTER	4	B/I		movable	Lunes de la Cuarta Semana de Pascua
-2027-04-20	EasterWeekday4Tuesday	weekday	white		EASTER	4	B/I		movable	Martes de la Cuarta Semana de Pascua
-2027-04-21	EasterWeekday4Wednesday	weekday	white		EASTER	4	B/I		movable	Miércoles de la Cuarta Semana de Pascua
+2027-04-19	EasterWeekday4Monday	weekday	white		EASTER	4	B/I		movable	Lunes de la IV semana de Pascua
+2027-04-20	EasterWeekday4Tuesday	weekday	white		EASTER	4	B/I		movable	Martes de la IV semana de Pascua
+2027-04-21	EasterWeekday4Wednesday	weekday	white		EASTER	4	B/I		movable	Miércoles de la IV semana de Pascua
 2027-04-21	StAnselm	optional-memorial	white	Pastors:For a Bishop|Doctors	EASTER	4	B/I			San Anselmo, obispo y doctor de la Iglesia
-2027-04-22	EasterWeekday4Thursday	weekday	white		EASTER	4	B/I		movable	Jueves de la Cuarta Semana de Pascua
-2027-04-23	EasterWeekday4Friday	weekday	white		EASTER	4	B/I		movable	Viernes de la Cuarta Semana de Pascua
+2027-04-22	EasterWeekday4Thursday	weekday	white		EASTER	4	B/I		movable	Jueves de la IV semana de Pascua
+2027-04-23	EasterWeekday4Friday	weekday	white		EASTER	4	B/I		movable	Viernes de la IV semana de Pascua
 2027-04-23	StGeorge	optional-memorial	red	Martyrs:For One Martyr	EASTER	4	B/I			San Jorge, mártir
 2027-04-23	StAdalbert	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	EASTER	4	B/I			San Adalberto, obispo y mártir
-2027-04-24	EasterWeekday4Saturday	weekday	white		EASTER	4	B/I		movable	Sábado de la Cuarta Semana de Pascua
+2027-04-24	EasterWeekday4Saturday	weekday	white		EASTER	4	B/I		movable	Sábado de la IV semana de Pascua
 2027-04-24	StFidelisSigmaringen	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For One Pastor	EASTER	4	B/I			San Fidel de Sigmaringa, presbítero y mártir
-2027-04-24	Easter5_vigil	higher-solemnity	white		EASTER	1	B/I	Easter5	movable	Domingo V de Pascua Misa de la Víspera
+2027-04-24	Easter5_vigil	higher-solemnity	white		EASTER	1	B/I	Easter5	movable	Domingo V de Pascua (misa vespertina)
 2027-04-25	Easter5	higher-solemnity	white		EASTER	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo V de Pascua
-2027-04-26	EasterWeekday5Monday	weekday	white		EASTER	1	B/I		movable	Lunes de la Quinta Semana de Pascua
-2027-04-27	EasterWeekday5Tuesday	weekday	white		EASTER	1	B/I		movable	Martes de la Quinta Semana de Pascua
-2027-04-28	EasterWeekday5Wednesday	weekday	white		EASTER	1	B/I		movable	Miércoles de la Quinta Semana de Pascua
+2027-04-26	EasterWeekday5Monday	weekday	white		EASTER	1	B/I		movable	Lunes de la V semana de Pascua
+2027-04-27	EasterWeekday5Tuesday	weekday	white		EASTER	1	B/I		movable	Martes de la V semana de Pascua
+2027-04-28	EasterWeekday5Wednesday	weekday	white		EASTER	1	B/I		movable	Miércoles de la V semana de Pascua
 2027-04-28	StPeterChanel	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	EASTER	1	B/I			San Pedro Chanel, presbítero y mártir
 2027-04-28	StLouisGrignionMontfort	optional-memorial	white	Pastors:For One Pastor	EASTER	1	B/I			San Luis María Grignion de Montfort, presbítero
-2027-04-29	StCatherineSiena	memorial	white	Proper	EASTER	0	B/I			Santa Catalina de Siena, virgen
-2027-04-30	EasterWeekday5Friday	weekday	white		EASTER	1	B/I		movable	Viernes de la Quinta Semana de Pascua
+2027-04-29	StCatherineSiena	memorial	white	Proper	EASTER	0	B/I			Santa Catalina de Siena, virgen y doctora de la Iglesia
+2027-04-30	EasterWeekday5Friday	weekday	white		EASTER	1	B/I		movable	Viernes de la V semana de Pascua
 2027-04-30	StPiusV	optional-memorial	white	Pastors:For a Pope	EASTER	1	B/I			San Pío V, papa
-2027-05-01	EasterWeekday5Saturday	weekday	white		EASTER	1	B/I		movable	Sábado de la Quinta Semana de Pascua
-2027-05-01	StJosephWorker	optional-memorial	white	Proper	EASTER	1	B/I			San José obrero
-2027-05-01	Easter6_vigil	higher-solemnity	white		EASTER	2	B/I	Easter6	movable	Domingo VI de Pascua Misa de la Víspera
+2027-05-01	EasterWeekday5Saturday	weekday	white		EASTER	1	B/I		movable	Sábado de la V semana de Pascua
+2027-05-01	StJosephWorker	optional-memorial	white	Proper	EASTER	1	B/I			San José Obrero
+2027-05-01	Easter6_vigil	higher-solemnity	white		EASTER	2	B/I	Easter6	movable	Domingo VI de Pascua (misa vespertina)
 2027-05-02	Easter6	higher-solemnity	white		EASTER	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo VI de Pascua
-2027-05-03	StsPhilipJames	feast	red	Proper	EASTER	0	B/I			Santos Felipe y Santiago, Apóstoles
-2027-05-04	EasterWeekday6Tuesday	weekday	white		EASTER	2	B/I		movable	Martes de la Sexta Semana de Pascua
-2027-05-05	EasterWeekday6Wednesday	weekday	white		EASTER	2	B/I		movable	Miércoles de la Sexta Semana de Pascua
-2027-05-05	Ascension_vigil	higher-solemnity	white		EASTER	0	B/I	Ascension	movable,obligation	Ascensión del Señor Misa de la Víspera
+2027-05-03	StsPhilipJames	feast	red	Proper	EASTER	0	B/I			Santos Felipe y Santiago, apóstoles
+2027-05-04	EasterWeekday6Tuesday	weekday	white		EASTER	2	B/I		movable	Martes de la VI semana de Pascua
+2027-05-05	EasterWeekday6Wednesday	weekday	white		EASTER	2	B/I		movable	Miércoles de la VI semana de Pascua
+2027-05-05	Ascension_vigil	higher-solemnity	white		EASTER	0	B/I	Ascension	movable,obligation	Ascensión del Señor (misa vespertina)
 2027-05-06	Ascension	higher-solemnity	white		EASTER	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Ascensión del Señor
-2027-05-07	EasterWeekday6Friday	weekday	white		EASTER	2	B/I		movable	Viernes de la Sexta Semana de Pascua
-2027-05-08	EasterWeekday6Saturday	weekday	white		EASTER	2	B/I		movable	Sábado de la Sexta Semana de Pascua
-2027-05-08	Easter7_vigil	higher-solemnity	white		EASTER	3	B/I	Easter7	movable	Domingo VII de Pascua Misa de la Víspera
+2027-05-07	EasterWeekday6Friday	weekday	white		EASTER	2	B/I		movable	Viernes de la VI semana de Pascua
+2027-05-08	EasterWeekday6Saturday	weekday	white		EASTER	2	B/I		movable	Sábado de la VI semana de Pascua
+2027-05-08	Easter7_vigil	higher-solemnity	white		EASTER	3	B/I	Easter7	movable	Domingo VII de Pascua (misa vespertina)
 2027-05-09	Easter7	higher-solemnity	white		EASTER	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo VII de Pascua
-2027-05-10	EasterWeekday7Monday	weekday	white		EASTER	3	B/I		movable	Lunes de la Séptima Semana de Pascua
-2027-05-10	StJohnAvila	optional-memorial	white	Pastors:For One Pastor|Doctors	EASTER	3	B/I			San Juan de Ávila, Sacerdote y Doctor de la Iglesia
-2027-05-11	EasterWeekday7Tuesday	weekday	white		EASTER	3	B/I		movable	Martes de la Séptima Semana de Pascua
-2027-05-12	EasterWeekday7Wednesday	weekday	white		EASTER	3	B/I		movable	Miércoles de la Séptima Semana de Pascua
-2027-05-12	StsNereusAchilleus	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	3	B/I			Santos Nereo y Aquiles , mártires
+2027-05-10	EasterWeekday7Monday	weekday	white		EASTER	3	B/I		movable	Lunes de la VII semana de Pascua
+2027-05-10	StJohnAvila	optional-memorial	white	Pastors:For One Pastor|Doctors	EASTER	3	B/I			San Juan de Ávila, presbítero y doctor de la Iglesia
+2027-05-11	EasterWeekday7Tuesday	weekday	white		EASTER	3	B/I		movable	Martes de la VII semana de Pascua
+2027-05-12	EasterWeekday7Wednesday	weekday	white		EASTER	3	B/I		movable	Miércoles de la VII semana de Pascua
+2027-05-12	StsNereusAchilleus	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	3	B/I			Santos Nereo y Aquiles, mártires
 2027-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	EASTER	3	B/I			San Pancracio, mártir
-2027-05-13	EasterWeekday7Thursday	weekday	white		EASTER	3	B/I		movable	Jueves de la Séptima Semana de Pascua
-2027-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	EASTER	3	B/I			Beata María Virgen de Fátima
-2027-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			San Matías, Apóstol
-2027-05-15	EasterWeekday7Saturday	weekday	white		EASTER	3	B/I		movable	Sábado de la Séptima Semana de Pascua
-2027-05-15	Pentecost_vigil	higher-solemnity	red		EASTER	0	B/I	Pentecost	movable	Domingo de Pentecostés Misa de la Víspera
+2027-05-13	EasterWeekday7Thursday	weekday	white		EASTER	3	B/I		movable	Jueves de la VII semana de Pascua
+2027-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	EASTER	3	B/I			Bienaventurada Virgen María de Fátima
+2027-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			San Matías, apóstol
+2027-05-15	EasterWeekday7Saturday	weekday	white		EASTER	3	B/I		movable	Sábado de la VII semana de Pascua
+2027-05-15	Pentecost_vigil	higher-solemnity	red		EASTER	0	B/I	Pentecost	movable	Domingo de Pentecostés (misa vespertina)
 2027-05-16	Pentecost	higher-solemnity	red		EASTER	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo de Pentecostés
-2027-05-17	MaryMotherChurch	memorial	white	Proper	ORDINARY_TIME	0	B/I		movable	Santa Virgen María, Madre de la Iglesia
-2027-05-18	OrdWeekday7Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la Séptima Semana del Tiempo Ordinario
+2027-05-17	MaryMotherChurch	memorial	white	Proper	ORDINARY_TIME	0	B/I		movable	Bienaventurada Virgen María, Madre de la Iglesia
+2027-05-18	OrdWeekday7Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la VII semana del tiempo ordinario
 2027-05-18	StJohnIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	3	B/I			San Juan I, papa y mártir
-2027-05-19	OrdWeekday7Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la Séptima Semana del Tiempo Ordinario
-2027-05-20	OrdWeekday7Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la Séptima Semana del Tiempo Ordinario
+2027-05-19	OrdWeekday7Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la VII semana del tiempo ordinario
+2027-05-20	OrdWeekday7Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la VII semana del tiempo ordinario
 2027-05-20	StBernardineSiena	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			San Bernardino de Siena, presbítero
-2027-05-21	OrdWeekday7Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Séptima Semana del Tiempo Ordinario
-2027-05-21	StChristopherMagallanes	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	3	B/I			San Cristóbal Magallanes, presbítero, y sus compañeros, mártires
-2027-05-22	OrdWeekday7Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Séptima Semana del Tiempo Ordinario
+2027-05-21	OrdWeekday7Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la VII semana del tiempo ordinario
+2027-05-21	StChristopherMagallanes	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	3	B/I			Santos Cristóbal Magallanes, presbítero, y compañeros, mártires
+2027-05-22	OrdWeekday7Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la VII semana del tiempo ordinario
 2027-05-22	StRitaCascia	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Santa Rita de Casia, religiosa
-2027-05-22	SatMemBVM4	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-05-22	Trinity_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	Trinity	movable	Domingo de la Santísima Trinidad Misa de la Víspera
-2027-05-23	Trinity	higher-solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo de la Santísima Trinidad
-2027-05-24	OrdWeekday8Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la Octava Semana del Tiempo Ordinario
-2027-05-25	OrdWeekday8Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la Octava Semana del Tiempo Ordinario
+2027-05-22	SatMemBVM4	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-05-22	Trinity_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	Trinity	movable	Santísima Trinidad (misa vespertina)
+2027-05-23	Trinity	higher-solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Santísima Trinidad
+2027-05-24	OrdWeekday8Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la VIII semana del tiempo ordinario
+2027-05-25	OrdWeekday8Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la VIII semana del tiempo ordinario
 2027-05-25	StBedeVenerable	optional-memorial	white	Doctors|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			San Beda el Venerable, presbítero y doctor de la Iglesia
 2027-05-25	StGregoryVII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Gregorio VII, papa
 2027-05-25	StMaryMagdalenePazzi	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Religious	ORDINARY_TIME	4	B/I			Santa María Magdalena de Pazzi, virgen
 2027-05-26	StPhilipNeri	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Felipe Neri, presbítero
-2027-05-26	CorpusChristi_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	CorpusChristi	movable,obligation	Santísimo Cuerpo y Sangre de Cristo Misa de la Víspera
+2027-05-26	CorpusChristi_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	CorpusChristi	movable,obligation	Santísimo Cuerpo y Sangre de Cristo (misa vespertina)
 2027-05-27	CorpusChristi	higher-solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Santísimo Cuerpo y Sangre de Cristo
-2027-05-28	OrdWeekday8Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la Octava Semana del Tiempo Ordinario
-2027-05-29	OrdWeekday8Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la Octava Semana del Tiempo Ordinario
-2027-05-29	StPaulVI	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Pablo VI, Papa
-2027-05-29	SatMemBVM5	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-05-29	OrdSunday9_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday9	movable	Domingo IX del Tiempo Ordinario Misa de la Víspera
-2027-05-30	OrdSunday9	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IX del Tiempo Ordinario
-2027-05-31	Visitation	feast	white	Proper	ORDINARY_TIME	0	B/I			En la Visitación de la Bendita Virgen María
+2027-05-28	OrdWeekday8Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la VIII semana del tiempo ordinario
+2027-05-29	OrdWeekday8Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la VIII semana del tiempo ordinario
+2027-05-29	StPaulVI	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Pablo VI, papa
+2027-05-29	SatMemBVM5	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Santa María en sábado
+2027-05-29	OrdSunday9_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday9	movable	Domingo IX del tiempo ordinario (misa vespertina)
+2027-05-30	OrdSunday9	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo IX del tiempo ordinario
+2027-05-31	Visitation	feast	white	Proper	ORDINARY_TIME	0	B/I			Visitación de la Bienaventurada Virgen María
 2027-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	B/I			San Justino, mártir
-2027-06-02	OrdWeekday9Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Novena Semana del Tiempo Ordinario
-2027-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			San Marcelino y San Pedro, mártires
-2027-06-03	StsCharlesLwanga	memorial	red	Proper	ORDINARY_TIME	0	B/I			San Carlos Lwanga y sus compañeros, mártires
-2027-06-03	SacredHeart_vigil	solemnity	white		ORDINARY_TIME	0	B/I	SacredHeart	movable	Santísimo Corazón de Jesús Misa de la Víspera
-2027-06-04	SacredHeart	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Santísimo Corazón de Jesús
-2027-06-05	ImmaculateHeart	optional-memorial	white		ORDINARY_TIME	0	B/I		movable	Inmaculado Corazón de María
+2027-06-02	OrdWeekday9Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la IX semana del tiempo ordinario
+2027-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Santos Marcelino y Pedro, mártires
+2027-06-03	StsCharlesLwanga	memorial	red	Proper	ORDINARY_TIME	0	B/I			Santos Carlos Luanga y compañeros, mártires
+2027-06-03	SacredHeart_vigil	solemnity	white		ORDINARY_TIME	0	B/I	SacredHeart	movable	Sagrado Corazón de Jesús (misa vespertina)
+2027-06-04	SacredHeart	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Sagrado Corazón de Jesús
+2027-06-05	ImmaculateHeart	optional-memorial	white		ORDINARY_TIME	0	B/I		movable	Inmaculado Corazón de la Bienaventurada Virgen María
 2027-06-05	StBoniface	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	ORDINARY_TIME	0	B/I			San Bonifacio, obispo y mártir
-2027-06-05	OrdSunday10_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday10	movable	Domingo X del Tiempo Ordinario Misa de la Víspera
-2027-06-06	OrdSunday10	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo X del Tiempo Ordinario
-2027-06-07	OrdWeekday10Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la Décima Semana del Tiempo Ordinario
-2027-06-08	OrdWeekday10Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Décima Semana del Tiempo Ordinario
-2027-06-09	OrdWeekday10Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la Décima Semana del Tiempo Ordinario
-2027-06-09	StEphrem	optional-memorial	white	Doctors	ORDINARY_TIME	2	B/I			San Efrén, diácono y Doctor de la Iglesia
-2027-06-10	OrdWeekday10Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la Décima Semana del Tiempo Ordinario
-2027-06-11	StBarnabasAp	memorial	red	Proper	ORDINARY_TIME	0	B/I			San Barnabé, apóstol
-2027-06-12	OrdWeekday10Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Décima Semana del Tiempo Ordinario
-2027-06-12	SatMemBVM6	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-06-12	OrdSunday11_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday11	movable	Domingo XI del Tiempo Ordinario Misa de la Víspera
-2027-06-13	OrdSunday11	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XI del Tiempo Ordinario
-2027-06-14	OrdWeekday11Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la Decimoprimera Semana del Tiempo Ordinario
-2027-06-15	OrdWeekday11Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la Decimoprimera Semana del Tiempo Ordinario
-2027-06-16	OrdWeekday11Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la Decimoprimera Semana del Tiempo Ordinario
-2027-06-17	OrdWeekday11Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la Decimoprimera Semana del Tiempo Ordinario
-2027-06-18	OrdWeekday11Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Decimoprimera Semana del Tiempo Ordinario
-2027-06-19	OrdWeekday11Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Decimoprimera Semana del Tiempo Ordinario
+2027-06-05	OrdSunday10_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday10	movable	Domingo X del tiempo ordinario (misa vespertina)
+2027-06-06	OrdSunday10	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo X del tiempo ordinario
+2027-06-07	OrdWeekday10Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la X semana del tiempo ordinario
+2027-06-08	OrdWeekday10Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la X semana del tiempo ordinario
+2027-06-09	OrdWeekday10Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la X semana del tiempo ordinario
+2027-06-09	StEphrem	optional-memorial	white	Doctors	ORDINARY_TIME	2	B/I			San Efrén, diácono y doctor de la Iglesia
+2027-06-10	OrdWeekday10Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la X semana del tiempo ordinario
+2027-06-11	StBarnabasAp	memorial	red	Proper	ORDINARY_TIME	0	B/I			San Bernabé, apóstol
+2027-06-12	OrdWeekday10Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la X semana del tiempo ordinario
+2027-06-12	SatMemBVM6	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-06-12	OrdSunday11_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday11	movable	Domingo XI del tiempo ordinario (misa vespertina)
+2027-06-13	OrdSunday11	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XI del tiempo ordinario
+2027-06-14	OrdWeekday11Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la XI semana del tiempo ordinario
+2027-06-15	OrdWeekday11Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la XI semana del tiempo ordinario
+2027-06-16	OrdWeekday11Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la XI semana del tiempo ordinario
+2027-06-17	OrdWeekday11Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la XI semana del tiempo ordinario
+2027-06-18	OrdWeekday11Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la XI semana del tiempo ordinario
+2027-06-19	OrdWeekday11Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la XI semana del tiempo ordinario
 2027-06-19	StRomuald	optional-memorial	white	Holy Men and Women:For an Abbot	ORDINARY_TIME	3	B/I			San Romualdo, abad
-2027-06-19	SatMemBVM7	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-06-19	OrdSunday12_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday12	movable	Domingo XII del Tiempo Ordinario Misa de la Víspera
-2027-06-20	OrdSunday12	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XII del Tiempo Ordinario
+2027-06-19	SatMemBVM7	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-06-19	OrdSunday12_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday12	movable	Domingo XII del tiempo ordinario (misa vespertina)
+2027-06-20	OrdSunday12	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XII del tiempo ordinario
 2027-06-21	StAloysiusGonzaga	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Luis Gonzaga, religioso
-2027-06-22	OrdWeekday12Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la Decimosegunda Semana del Tiempo Ordinario
-2027-06-22	StPaulinusNola	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	4	B/I			San Pablo de Nola, obispo
-2027-06-22	StsJohnFisherThomasMore	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	4	B/I			San Juan Fisher, obispo y Tomás Moro, mártires
-2027-06-23	OrdWeekday12Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la Decimosegunda Semana del Tiempo Ordinario
-2027-06-23	NativityJohnBaptist_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	NativityJohnBaptist		En la Natividad de San Juan Bautista Misa de la Víspera
-2027-06-24	NativityJohnBaptist	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers	En la Natividad de San Juan Bautista
-2027-06-25	OrdWeekday12Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la Decimosegunda Semana del Tiempo Ordinario
-2027-06-26	OrdWeekday12Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la Decimosegunda Semana del Tiempo Ordinario
-2027-06-26	SatMemBVM8	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-06-26	OrdSunday13_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday13	movable	Domingo XIII del Tiempo Ordinario Misa de la Víspera
-2027-06-27	OrdSunday13	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XIII del Tiempo Ordinario
-2027-06-28	StIrenaeus	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			San Ireneo, Obispo, Mártir y Doctor de la Iglesia
-2027-06-28	StsPeterPaulAp_vigil	solemnity	red	Proper	ORDINARY_TIME	0	B/I	StsPeterPaulAp	obligation	San Pedro y San Pablo, Apóstoles Misa de la Víspera
-2027-06-29	StsPeterPaulAp	solemnity	red	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	San Pedro y San Pablo, Apóstoles
-2027-06-30	OrdWeekday13Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Decimotercera Semana del Tiempo Ordinario
-2027-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Proto-mártires de la Santa Iglesia Romana
-2027-07-01	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la Decimotercera Semana del Tiempo Ordinario
-2027-07-02	OrdWeekday13Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la Decimotercera Semana del Tiempo Ordinario
-2027-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			San Tomás Apóstol
-2027-07-03	OrdSunday14_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday14	movable	Domingo XIV del Tiempo Ordinario Misa de la Víspera
-2027-07-04	OrdSunday14	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XIV del Tiempo Ordinario
-2027-07-05	OrdWeekday14Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la Decimocuarta Semana del Tiempo Ordinario
-2027-07-05	StAnthonyZaccaria	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious|Holy Men and Women:For Educators	ORDINARY_TIME	2	B/I			San Antonio María Zaccaria, presbítero
-2027-07-06	OrdWeekday14Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Decimocuarta Semana del Tiempo Ordinario
+2027-06-22	OrdWeekday12Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la XII semana del tiempo ordinario
+2027-06-22	StPaulinusNola	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	4	B/I			San Paulino de Nola, obispo
+2027-06-22	StsJohnFisherThomasMore	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	4	B/I			Santos Juan Fisher, obispo, y Tomás Moro, mártires
+2027-06-23	OrdWeekday12Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la XII semana del tiempo ordinario
+2027-06-23	NativityJohnBaptist_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	NativityJohnBaptist		Natividad de San Juan Bautista (misa vespertina)
+2027-06-24	NativityJohnBaptist	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers	Natividad de San Juan Bautista
+2027-06-25	OrdWeekday12Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la XII semana del tiempo ordinario
+2027-06-26	OrdWeekday12Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la XII semana del tiempo ordinario
+2027-06-26	SatMemBVM8	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Santa María en sábado
+2027-06-26	OrdSunday13_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday13	movable	Domingo XIII del tiempo ordinario (misa vespertina)
+2027-06-27	OrdSunday13	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XIII del tiempo ordinario
+2027-06-28	StIrenaeus	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			San Ireneo, obispo, mártir y doctor de la Iglesia
+2027-06-28	StsPeterPaulAp_vigil	solemnity	red	Proper	ORDINARY_TIME	0	B/I	StsPeterPaulAp	obligation	Santos Pedro y Pablo, apóstoles (misa vespertina)
+2027-06-29	StsPeterPaulAp	solemnity	red	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Santos Pedro y Pablo, apóstoles
+2027-06-30	OrdWeekday13Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la XIII semana del tiempo ordinario
+2027-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Santos Protomártires de la Santa Iglesia Romana
+2027-07-01	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la XIII semana del tiempo ordinario
+2027-07-02	OrdWeekday13Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la XIII semana del tiempo ordinario
+2027-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Santo Tomás, apóstol
+2027-07-03	OrdSunday14_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday14	movable	Domingo XIV del tiempo ordinario (misa vespertina)
+2027-07-04	OrdSunday14	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XIV del tiempo ordinario
+2027-07-05	OrdWeekday14Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la XIV semana del tiempo ordinario
+2027-07-05	StAnthonyZaccaria	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious|Holy Men and Women:For Educators	ORDINARY_TIME	2	B/I			San Antonio María Zaccaría, presbítero
+2027-07-06	OrdWeekday14Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la XIV semana del tiempo ordinario
 2027-07-06	StMariaGoretti	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	B/I			Santa María Goretti, virgen y mártir
-2027-07-07	OrdWeekday14Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la Decimocuarta Semana del Tiempo Ordinario
-2027-07-08	OrdWeekday14Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la Decimocuarta Semana del Tiempo Ordinario
-2027-07-09	OrdWeekday14Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la Decimocuarta Semana del Tiempo Ordinario
-2027-07-09	StAugustineZhaoRong	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			San Agustín Zhao Rong, presbítero y sus compañeros, mártires
-2027-07-10	OrdWeekday14Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Decimocuarta Semana del Tiempo Ordinario
-2027-07-10	SatMemBVM9	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-07-10	OrdSunday15_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday15	movable	Domingo XV del Tiempo Ordinario Misa de la Víspera
-2027-07-11	OrdSunday15	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XV del Tiempo Ordinario
-2027-07-12	OrdWeekday15Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la Decimoquinta Semana del Tiempo Ordinario
-2027-07-13	OrdWeekday15Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la Decimoquinta Semana del Tiempo Ordinario
+2027-07-07	OrdWeekday14Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la XIV semana del tiempo ordinario
+2027-07-08	OrdWeekday14Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la XIV semana del tiempo ordinario
+2027-07-09	OrdWeekday14Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la XIV semana del tiempo ordinario
+2027-07-09	StAugustineZhaoRong	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			Santos Agustín Zhao Rong, presbítero, y compañeros, mártires
+2027-07-10	OrdWeekday14Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la XIV semana del tiempo ordinario
+2027-07-10	SatMemBVM9	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-07-10	OrdSunday15_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday15	movable	Domingo XV del tiempo ordinario (misa vespertina)
+2027-07-11	OrdSunday15	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XV del tiempo ordinario
+2027-07-12	OrdWeekday15Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la XV semana del tiempo ordinario
+2027-07-13	OrdWeekday15Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la XV semana del tiempo ordinario
 2027-07-13	StHenry	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	3	B/I			San Enrique
-2027-07-14	OrdWeekday15Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la Decimoquinta Semana del Tiempo Ordinario
-2027-07-14	StCamillusDeLellis	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			San Camilo de Lellis, presbítero
-2027-07-15	StBonaventure	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	B/I			San Bonaventura, obispo y Doctor de la Iglesia
-2027-07-16	OrdWeekday15Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Decimoquinta Semana del Tiempo Ordinario
+2027-07-14	OrdWeekday15Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la XV semana del tiempo ordinario
+2027-07-14	StCamillusDeLellis	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			San Camilo de Lelis, presbítero
+2027-07-15	StBonaventure	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	B/I			San Buenaventura, obispo y doctor de la Iglesia
+2027-07-16	OrdWeekday15Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la XV semana del tiempo ordinario
 2027-07-16	OurLadyOfMountCarmel	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I			Bienaventurada Virgen María del Monte Carmelo
-2027-07-17	OrdWeekday15Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Decimoquinta Semana del Tiempo Ordinario
-2027-07-17	SatMemBVM10	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-07-17	OrdSunday16_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday16	movable	Domingo XVI del Tiempo Ordinario Misa de la Víspera
-2027-07-18	OrdSunday16	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XVI del Tiempo Ordinario
-2027-07-19	OrdWeekday16Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la Decimosexta Semana del Tiempo Ordinario
-2027-07-20	OrdWeekday16Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la Decimosexta Semana del Tiempo Ordinario
-2027-07-20	StApollinaris	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	B/I			San Apolinario, obispo y mártir
-2027-07-21	OrdWeekday16Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la Decimosexta Semana del Tiempo Ordinario
-2027-07-21	StLawrenceBrindisi	optional-memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	4	B/I			San Lorenzo de Brindisi, presbítero y Doctor de la Iglesia
+2027-07-17	OrdWeekday15Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la XV semana del tiempo ordinario
+2027-07-17	SatMemBVM10	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-07-17	OrdSunday16_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday16	movable	Domingo XVI del tiempo ordinario (misa vespertina)
+2027-07-18	OrdSunday16	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XVI del tiempo ordinario
+2027-07-19	OrdWeekday16Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la XVI semana del tiempo ordinario
+2027-07-20	OrdWeekday16Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la XVI semana del tiempo ordinario
+2027-07-20	StApollinaris	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	B/I			San Apolinar, obispo y mártir
+2027-07-21	OrdWeekday16Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la XVI semana del tiempo ordinario
+2027-07-21	StLawrenceBrindisi	optional-memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	4	B/I			San Lorenzo de Brindis, presbítero y doctor de la Iglesia
 2027-07-22	StMaryMagdalene	feast	white	Proper	ORDINARY_TIME	0	B/I			Santa María Magdalena
-2027-07-23	OrdWeekday16Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la Decimosexta Semana del Tiempo Ordinario
+2027-07-23	OrdWeekday16Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la XVI semana del tiempo ordinario
 2027-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Santa Brígida, religiosa
-2027-07-24	OrdWeekday16Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la Decimosexta Semana del Tiempo Ordinario
-2027-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			San Charbel Makhlouf, presbítero
-2027-07-24	SatMemBVM11	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-07-24	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday17	movable	Domingo XVII del Tiempo Ordinario Misa de la Víspera
-2027-07-25	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XVII del Tiempo Ordinario
-2027-07-26	StsJoachimAnne	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Joaquín y Santa Ana, padres de la Virgen María
-2027-07-27	OrdWeekday17Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la Decimoséptima Semana del Tiempo Ordinario
-2027-07-28	OrdWeekday17Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Decimoséptima Semana del Tiempo Ordinario
-2027-07-29	StMartha	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santa Marta, María y Lázaro
-2027-07-30	OrdWeekday17Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la Decimoséptima Semana del Tiempo Ordinario
-2027-07-30	StPeterChrysologus	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			San Pedro Crisólogo, obispo y Doctor de la Iglesia
+2027-07-24	OrdWeekday16Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la XVI semana del tiempo ordinario
+2027-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			San Sarbelio Makhlûf, presbítero
+2027-07-24	SatMemBVM11	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Santa María en sábado
+2027-07-24	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday17	movable	Domingo XVII del tiempo ordinario (misa vespertina)
+2027-07-25	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XVII del tiempo ordinario
+2027-07-26	StsJoachimAnne	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santos Joaquín y Ana, padres de la bienaventurada Virgen María
+2027-07-27	OrdWeekday17Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la XVII semana del tiempo ordinario
+2027-07-28	OrdWeekday17Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la XVII semana del tiempo ordinario
+2027-07-29	StMartha	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santos Marta, María y Lázaro
+2027-07-30	OrdWeekday17Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la XVII semana del tiempo ordinario
+2027-07-30	StPeterChrysologus	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			San Pedro Crisólogo, obispo y doctor de la Iglesia
 2027-07-31	StIgnatiusLoyola	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Ignacio de Loyola, presbítero
-2027-07-31	OrdSunday18_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday18	movable	Domingo XVIII del Tiempo Ordinario Misa de la Víspera
-2027-08-01	OrdSunday18	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XVIII del Tiempo Ordinario
-2027-08-02	OrdWeekday18Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la Decimoctava Semana del Tiempo Ordinario
+2027-07-31	OrdSunday18_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday18	movable	Domingo XVIII del tiempo ordinario (misa vespertina)
+2027-08-01	OrdSunday18	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XVIII del tiempo ordinario
+2027-08-02	OrdWeekday18Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la XVIII semana del tiempo ordinario
 2027-08-02	StEusebius	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	2	B/I			San Eusebio de Vercelli, obispo
 2027-08-02	StPeterJulianEymard	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	2	B/I			San Pedro Julián Eymard, presbítero
-2027-08-03	OrdWeekday18Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Decimoctava Semana del Tiempo Ordinario
+2027-08-03	OrdWeekday18Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la XVIII semana del tiempo ordinario
 2027-08-04	StJeanVianney	memorial	white	Pastors:For One Pastor	ORDINARY_TIME	0	B/I			San Juan María Vianney, presbítero
-2027-08-05	OrdWeekday18Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la Decimoctava Semana del Tiempo Ordinario
-2027-08-05	DedicationStMaryMajor	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I			En la dedicación de la Basílica de Santa María
-2027-08-06	Transfiguration	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			En la Transfiguración del Señor
-2027-08-07	OrdWeekday18Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Decimoctava Semana del Tiempo Ordinario
-2027-08-07	StSixtusIIPope	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			San Sixto II, papa y compañeros, mártires
+2027-08-05	OrdWeekday18Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la XVIII semana del tiempo ordinario
+2027-08-05	DedicationStMaryMajor	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I			Dedicación de la Basílica de Santa María
+2027-08-06	Transfiguration	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			Transfiguración del Señor
+2027-08-07	OrdWeekday18Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la XVIII semana del tiempo ordinario
+2027-08-07	StSixtusIIPope	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			Santos Sixto II, papa, y compañeros, mártires
 2027-08-07	StCajetan	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	2	B/I			San Cayetano, presbítero
-2027-08-07	SatMemBVM12	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-08-07	OrdSunday19_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday19	movable	Domingo XIX del Tiempo Ordinario Misa de la Víspera
-2027-08-08	OrdSunday19	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XIX del Tiempo Ordinario
-2027-08-09	OrdWeekday19Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la Decimonovena Semana del Tiempo Ordinario
+2027-08-07	SatMemBVM12	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-08-07	OrdSunday19_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday19	movable	Domingo XIX del tiempo ordinario (misa vespertina)
+2027-08-08	OrdSunday19	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XIX del tiempo ordinario
+2027-08-09	OrdWeekday19Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la XIX semana del tiempo ordinario
 2027-08-09	StEdithStein	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	3	B/I			Santa Teresa Benedicta de la Cruz, virgen y mártir
-2027-08-10	StLawrenceDeacon	feast	white,red	Proper	ORDINARY_TIME	0	B/I			San Lorenzo, díacono y mártir
+2027-08-10	StLawrenceDeacon	feast	white,red	Proper	ORDINARY_TIME	0	B/I			San Lorenzo, diácono y mártir
 2027-08-11	StClare	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	B/I			Santa Clara, virgen
-2027-08-12	OrdWeekday19Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la Decimonovena Semana del Tiempo Ordinario
-2027-08-12	StJaneFrancesDeChantal	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Santa Juana de Chantal, religiosa
-2027-08-13	OrdWeekday19Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Decimonovena Semana del Tiempo Ordinario
-2027-08-13	StsPontianHippolytus	optional-memorial	white,red	Martyrs:For Several Martyrs|Pastors:For Several Pastors	ORDINARY_TIME	3	B/I			San Pontiano, papa y Hipólito, presbítero, mártires
+2027-08-12	OrdWeekday19Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la XIX semana del tiempo ordinario
+2027-08-12	StJaneFrancesDeChantal	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Santa Juana Francisca de Chantal, religiosa
+2027-08-13	OrdWeekday19Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la XIX semana del tiempo ordinario
+2027-08-13	StsPontianHippolytus	optional-memorial	white,red	Martyrs:For Several Martyrs|Pastors:For Several Pastors	ORDINARY_TIME	3	B/I			Santos Ponciano, papa, e Hipólito, presbítero, mártires
 2027-08-14	StMaximilianKolbe	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			San Maximiliano María Kolbe, presbítero y mártir
-2027-08-14	Assumption_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	Assumption	obligation	En la Asunción de la Bienaventurada Virgen María Misa de la Víspera
-2027-08-15	Assumption	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	En la Asunción de la Bienaventurada Virgen María
-2027-08-16	OrdWeekday20Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la Vigésima Semana del Tiempo Ordinario
+2027-08-14	Assumption_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	Assumption	obligation	Asunción de la Bienaventurada Virgen María (misa vespertina)
+2027-08-15	Assumption	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Asunción de la Bienaventurada Virgen María
+2027-08-16	OrdWeekday20Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la XX semana del tiempo ordinario
 2027-08-16	StStephenHungary	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	4	B/I			San Esteban de Hungría
-2027-08-17	OrdWeekday20Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la Vigésima Semana del Tiempo Ordinario
-2027-08-18	OrdWeekday20Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la Vigésima Semana del Tiempo Ordinario
-2027-08-19	OrdWeekday20Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Jueves de la Vigésima Semana del Tiempo Ordinario
+2027-08-17	OrdWeekday20Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la XX semana del tiempo ordinario
+2027-08-18	OrdWeekday20Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la XX semana del tiempo ordinario
+2027-08-19	OrdWeekday20Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Jueves de la XX semana del tiempo ordinario
 2027-08-19	StJohnEudes	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	4	B/I			San Juan Eudes, presbítero
-2027-08-20	StBernardClairvaux	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Bernardo de Clairvaux, abad y Doctor de la Iglesia
+2027-08-20	StBernardClairvaux	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Bernardo, abad y doctor de la Iglesia
 2027-08-21	StPiusX	memorial	white	Pastors:For a Pope	ORDINARY_TIME	0	B/I			San Pío X, papa
-2027-08-21	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday21	movable	Domingo XXI del Tiempo Ordinario Misa de la Víspera
-2027-08-22	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXI del Tiempo Ordinario
-2027-08-23	OrdWeekday21Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la Vigésima primera Semana del Tiempo Ordinario
+2027-08-21	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday21	movable	Domingo XXI del tiempo ordinario (misa vespertina)
+2027-08-22	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXI del tiempo ordinario
+2027-08-23	OrdWeekday21Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la XXI semana del tiempo ordinario
 2027-08-23	StRoseLima	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	B/I			Santa Rosa de Lima, virgen
-2027-08-24	StBartholomewAp	feast	red	Proper	ORDINARY_TIME	0	B/I			San Bartolomé, Apóstol
-2027-08-25	OrdWeekday21Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Vigésima primera Semana del Tiempo Ordinario
-2027-08-25	StLouis	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	1	B/I			San Luis
+2027-08-24	StBartholomewAp	feast	red	Proper	ORDINARY_TIME	0	B/I			San Bartolomé, apóstol
+2027-08-25	OrdWeekday21Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la XXI semana del tiempo ordinario
+2027-08-25	StLouis	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	1	B/I			San Luis de Francia
 2027-08-25	StJosephCalasanz	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	1	B/I			San José de Calasanz, presbítero
-2027-08-26	OrdWeekday21Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la Vigésima primera Semana del Tiempo Ordinario
+2027-08-26	OrdWeekday21Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la XXI semana del tiempo ordinario
 2027-08-27	StMonica	memorial	white	Holy Men and Women:For Holy Women	ORDINARY_TIME	0	B/I			Santa Mónica
-2027-08-28	StAugustineHippo	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Agustín, obispo y Doctor de la Iglesia
-2027-08-28	OrdSunday22_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday22	movable	Domingo XXII del Tiempo Ordinario Misa de la Víspera
-2027-08-29	OrdSunday22	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXII del Tiempo Ordinario
-2027-08-30	OrdWeekday22Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la Vigésima segunda Semana del Tiempo Ordinario
-2027-08-31	OrdWeekday22Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Vigésima segunda Semana del Tiempo Ordinario
-2027-09-01	OrdWeekday22Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la Vigésima segunda Semana del Tiempo Ordinario
-2027-09-02	OrdWeekday22Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la Vigésima segunda Semana del Tiempo Ordinario
-2027-09-03	StGregoryGreat	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Gregorio Magno, papa y Doctor de la Iglesia
-2027-09-04	OrdWeekday22Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Vigésima segunda Semana del Tiempo Ordinario
-2027-09-04	SatMemBVM13	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-09-04	OrdSunday23_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday23	movable	Domingo XXIII del Tiempo Ordinario Misa de la Víspera
-2027-09-05	OrdSunday23	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIII del Tiempo Ordinario
-2027-09-06	OrdWeekday23Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la Vigésima tercera Semana del Tiempo Ordinario
-2027-09-07	OrdWeekday23Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la Vigésima tercera Semana del Tiempo Ordinario
-2027-09-08	NativityVirginMary	feast	white	Proper	ORDINARY_TIME	0	B/I			En la Natividad de la Bienaventurada Virgen María
-2027-09-09	OrdWeekday23Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la Vigésima tercera Semana del Tiempo Ordinario
+2027-08-28	StAugustineHippo	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Agustín, obispo y doctor de la Iglesia
+2027-08-28	OrdSunday22_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday22	movable	Domingo XXII del tiempo ordinario (misa vespertina)
+2027-08-29	OrdSunday22	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXII del tiempo ordinario
+2027-08-30	OrdWeekday22Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la XXII semana del tiempo ordinario
+2027-08-31	OrdWeekday22Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la XXII semana del tiempo ordinario
+2027-09-01	OrdWeekday22Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la XXII semana del tiempo ordinario
+2027-09-02	OrdWeekday22Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la XXII semana del tiempo ordinario
+2027-09-03	StGregoryGreat	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Gregorio Magno, papa y doctor de la Iglesia
+2027-09-04	OrdWeekday22Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la XXII semana del tiempo ordinario
+2027-09-04	SatMemBVM13	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-09-04	OrdSunday23_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday23	movable	Domingo XXIII del tiempo ordinario (misa vespertina)
+2027-09-05	OrdSunday23	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIII del tiempo ordinario
+2027-09-06	OrdWeekday23Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Lunes de la XXIII semana del tiempo ordinario
+2027-09-07	OrdWeekday23Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la XXIII semana del tiempo ordinario
+2027-09-08	NativityVirginMary	feast	white	Proper	ORDINARY_TIME	0	B/I			Natividad de la Bienaventurada Virgen María
+2027-09-09	OrdWeekday23Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Jueves de la XXIII semana del tiempo ordinario
 2027-09-09	StPeterClaver	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			San Pedro Claver, presbítero
-2027-09-10	OrdWeekday23Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Vigésima tercera Semana del Tiempo Ordinario
-2027-09-11	OrdWeekday23Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Vigésima tercera Semana del Tiempo Ordinario
-2027-09-11	SatMemBVM14	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-09-11	OrdSunday24_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday24	movable	Domingo XXIV del Tiempo Ordinario Misa de la Víspera
-2027-09-12	OrdSunday24	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIV del Tiempo Ordinario
-2027-09-13	StJohnChrysostom	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Juan Crisóstomo, obispo y Doctor de la Iglesia
-2027-09-14	ExaltationCross	feast-of-the-lord	red	Proper	ORDINARY_TIME	0	B/I			En la Exaltación de la Santa Cruz
-2027-09-15	OurLadyOfSorrows	memorial	white	Proper	ORDINARY_TIME	0	B/I			Nuestra Señora de los Dolores
-2027-09-16	StsCorneliusCyprian	memorial	white,red	Martyrs:For Several Martyrs|Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Santos Cornelio y Cipriano, papas y obispos, mártires
-2027-09-17	OrdWeekday24Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la Vigésima cuarta Semana del Tiempo Ordinario
-2027-09-17	StRobertBellarmine	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	B/I			San Roberto Belarmino, obispo y Doctor de la Iglesia
-2027-09-17	StHildegardBingen	optional-memorial	white	Virgins:For One Virgin|Doctors	ORDINARY_TIME	4	B/I			Santa Hildegarda de Bingen, Virgen y Doctora de la Iglesia
-2027-09-18	OrdWeekday24Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la Vigésima cuarta Semana del Tiempo Ordinario
-2027-09-18	SatMemBVM15	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-09-18	OrdSunday25_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday25	movable	Domingo XXV del Tiempo Ordinario Misa de la Víspera
-2027-09-19	OrdSunday25	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXV del Tiempo Ordinario
-2027-09-20	StAndrewKimTaegon	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Andrés Kim Taegon, presbítero y Paúl Chong Hasang y sus compañeros, mártires
+2027-09-10	OrdWeekday23Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la XXIII semana del tiempo ordinario
+2027-09-11	OrdWeekday23Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la XXIII semana del tiempo ordinario
+2027-09-11	SatMemBVM14	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-09-11	OrdSunday24_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday24	movable	Domingo XXIV del tiempo ordinario (misa vespertina)
+2027-09-12	OrdSunday24	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIV del tiempo ordinario
+2027-09-13	StJohnChrysostom	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Juan Crisóstomo, obispo y doctor de la Iglesia
+2027-09-14	ExaltationCross	feast-of-the-lord	red	Proper	ORDINARY_TIME	0	B/I			Exaltación de la Santa Cruz
+2027-09-15	OurLadyOfSorrows	memorial	white	Proper	ORDINARY_TIME	0	B/I			Bienaventurada Virgen María de los Dolores
+2027-09-16	StsCorneliusCyprian	memorial	white,red	Martyrs:For Several Martyrs|Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Santos Cornelio, papa, y Cipriano, obispo, mártires
+2027-09-17	OrdWeekday24Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Viernes de la XXIV semana del tiempo ordinario
+2027-09-17	StRobertBellarmine	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	B/I			San Roberto Belarmino, obispo y doctor de la Iglesia
+2027-09-17	StHildegardBingen	optional-memorial	white	Virgins:For One Virgin|Doctors	ORDINARY_TIME	4	B/I			Santa Hildegarda de Bingen, virgen y doctora de la Iglesia
+2027-09-18	OrdWeekday24Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la XXIV semana del tiempo ordinario
+2027-09-18	SatMemBVM15	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Santa María en sábado
+2027-09-18	OrdSunday25_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday25	movable	Domingo XXV del tiempo ordinario (misa vespertina)
+2027-09-19	OrdSunday25	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXV del tiempo ordinario
+2027-09-20	StAndrewKimTaegon	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santos Andrés Kim Taegon, presbítero, Pablo Chong Hasang, y compañeros, mártires
 2027-09-21	StMatthewEvangelist	feast	red	Proper	ORDINARY_TIME	0	B/I			San Mateo, apóstol y evangelista
-2027-09-22	OrdWeekday25Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Vigésima quinta Semana del Tiempo Ordinario
+2027-09-22	OrdWeekday25Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la XXV semana del tiempo ordinario
 2027-09-23	StPioPietrelcina	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	0	B/I			San Pío de Pietrelcina, presbítero
-2027-09-24	OrdWeekday25Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la Vigésima quinta Semana del Tiempo Ordinario
-2027-09-25	OrdWeekday25Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la Vigésima quinta Semana del Tiempo Ordinario
-2027-09-25	SatMemBVM16	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-09-25	OrdSunday26_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday26	movable	Domingo XXVI del Tiempo Ordinario Misa de la Víspera
-2027-09-26	OrdSunday26	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVI del Tiempo Ordinario
+2027-09-24	OrdWeekday25Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la XXV semana del tiempo ordinario
+2027-09-25	OrdWeekday25Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la XXV semana del tiempo ordinario
+2027-09-25	SatMemBVM16	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Santa María en sábado
+2027-09-25	OrdSunday26_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday26	movable	Domingo XXVI del tiempo ordinario (misa vespertina)
+2027-09-26	OrdSunday26	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVI del tiempo ordinario
 2027-09-27	StVincentDePaul	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Vicente de Paúl, presbítero
-2027-09-28	OrdWeekday26Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Vigésima sexta Semana del Tiempo Ordinario
-2027-09-28	StWenceslaus	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			San Venceslao, mártir
-2027-09-28	StsLawrenceRuiz	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			San Lorenzo Ruiz y sus compañeros, mártires
-2027-09-29	StsArchangels	feast	white	Proper	ORDINARY_TIME	0	B/I			San Miguel, Gabriel y Rafael, arcángeles
-2027-09-30	StJerome	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Jerónimo, presbítero y Doctor de la Iglesia
-2027-10-01	StThereseChildJesus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santa Teresa del Niño Jesús, Virgen y Doctora de la Iglesia
-2027-10-02	GuardianAngels	memorial	white	Proper	ORDINARY_TIME	0	B/I			Ángeles custodios
-2027-10-02	OrdSunday27_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday27	movable	Domingo XXVII del Tiempo Ordinario Misa de la Víspera
-2027-10-03	OrdSunday27	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVII del Tiempo Ordinario
+2027-09-28	OrdWeekday26Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la XXVI semana del tiempo ordinario
+2027-09-28	StWenceslaus	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			San Wenceslao, mártir
+2027-09-28	StsLawrenceRuiz	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			Santos Lorenzo Ruiz y compañeros, mártires
+2027-09-29	StsArchangels	feast	white	Proper	ORDINARY_TIME	0	B/I			Santos Arcángeles Miguel, Gabriel y Rafael
+2027-09-30	StJerome	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Jerónimo, presbítero y doctor de la Iglesia
+2027-10-01	StThereseChildJesus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santa Teresa del Niño Jesús, virgen y doctora de la Iglesia
+2027-10-02	GuardianAngels	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santos Ángeles Custodios
+2027-10-02	OrdSunday27_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday27	movable	Domingo XXVII del tiempo ordinario (misa vespertina)
+2027-10-03	OrdSunday27	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVII del tiempo ordinario
 2027-10-04	StFrancisAssisi	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Francisco de Asís
-2027-10-05	OrdWeekday27Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la Vigésima séptima Semana del Tiempo Ordinario
-2027-10-05	StFaustinaKowalska	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Santa Faustina Kowalska
-2027-10-06	OrdWeekday27Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la Vigésima séptima Semana del Tiempo Ordinario
+2027-10-05	OrdWeekday27Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Martes de la XXVII semana del tiempo ordinario
+2027-10-05	StFaustinaKowalska	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Santa Faustina Kowalska, virgen
+2027-10-06	OrdWeekday27Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la XXVII semana del tiempo ordinario
 2027-10-06	StBruno	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	3	B/I			San Bruno, presbítero
-2027-10-07	OurLadyOfTheRosary	memorial	white	Proper	ORDINARY_TIME	0	B/I			Nuestra Señora del Rosario
-2027-10-08	OrdWeekday27Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Vigésima séptima Semana del Tiempo Ordinario
-2027-10-09	OrdWeekday27Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Vigésima séptima Semana del Tiempo Ordinario
-2027-10-09	StDenis	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	3	B/I			Santos Dionisio, obispo y sus compañeros, mártires
+2027-10-07	OurLadyOfTheRosary	memorial	white	Proper	ORDINARY_TIME	0	B/I			Bienaventurada Virgen María del Rosario
+2027-10-08	OrdWeekday27Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la XXVII semana del tiempo ordinario
+2027-10-09	OrdWeekday27Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la XXVII semana del tiempo ordinario
+2027-10-09	StDenis	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	3	B/I			Santos Dionisio, obispo, y compañeros, mártires
 2027-10-09	StJohnLeonardi	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			San Juan Leonardi, presbítero
-2027-10-09	StJohnNewman	optional-memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	3	B/I			San Juan Enrique Newman, Presbítero y Doctor de la Iglesia
-2027-10-09	SatMemBVM17	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-10-09	OrdSunday28_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday28	movable	Domingo XXVIII del Tiempo Ordinario Misa de la Víspera
-2027-10-10	OrdSunday28	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVIII del Tiempo Ordinario
-2027-10-11	OrdWeekday28Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la Vigésima octava Semana del Tiempo Ordinario
-2027-10-11	StJohnXXIII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Juan XXIII, Papa
-2027-10-12	OrdWeekday28Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la Vigésima octava Semana del Tiempo Ordinario
-2027-10-13	OrdWeekday28Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la Vigésima octava Semana del Tiempo Ordinario
-2027-10-14	OrdWeekday28Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Jueves de la Vigésima octava Semana del Tiempo Ordinario
-2027-10-14	StCallistusIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Calisto I, papa y mártir
-2027-10-15	StTeresaJesus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santa Teresa de Ávila, virgen
-2027-10-16	OrdWeekday28Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la Vigésima octava Semana del Tiempo Ordinario
-2027-10-16	StHedwig	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Santa Hedvigis, religiosa
+2027-10-09	StJohnNewman	optional-memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	3	B/I			San Juan Enrique Newman, presbítero y doctor de la Iglesia
+2027-10-09	SatMemBVM17	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-10-09	OrdSunday28_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday28	movable	Domingo XXVIII del tiempo ordinario (misa vespertina)
+2027-10-10	OrdSunday28	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVIII del tiempo ordinario
+2027-10-11	OrdWeekday28Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la XXVIII semana del tiempo ordinario
+2027-10-11	StJohnXXIII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Juan XXIII, papa
+2027-10-12	OrdWeekday28Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Martes de la XXVIII semana del tiempo ordinario
+2027-10-13	OrdWeekday28Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Miércoles de la XXVIII semana del tiempo ordinario
+2027-10-14	OrdWeekday28Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Jueves de la XXVIII semana del tiempo ordinario
+2027-10-14	StCallistusIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	4	B/I			San Calixto I, papa y mártir
+2027-10-15	StTeresaJesus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Santa Teresa de Jesús, virgen y doctora de la Iglesia
+2027-10-16	OrdWeekday28Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la XXVIII semana del tiempo ordinario
+2027-10-16	StHedwig	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Santa Eduvigis, religiosa
 2027-10-16	StMargaretAlacoque	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	4	B/I			Santa Margarita María de Alacoque, virgen
-2027-10-16	SatMemBVM18	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-10-16	OrdSunday29_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday29	movable	Domingo XXIX del Tiempo Ordinario Misa de la Víspera
-2027-10-17	OrdSunday29	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIX del Tiempo Ordinario
+2027-10-16	SatMemBVM18	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Santa María en sábado
+2027-10-16	OrdSunday29_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday29	movable	Domingo XXIX del tiempo ordinario (misa vespertina)
+2027-10-17	OrdSunday29	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIX del tiempo ordinario
 2027-10-18	StLukeEvangelist	feast	red	Proper	ORDINARY_TIME	0	B/I			San Lucas, evangelista
-2027-10-19	OrdWeekday29Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la Vigésima novena Semana del Tiempo Ordinario
-2027-10-19	StsJeanBrebeuf	optional-memorial	red	Martyrs:For Missionary Martyrs	ORDINARY_TIME	1	B/I			San Juan de Brébeuf e Isaac Jogues, presbíteros y compañeros, mártires
+2027-10-19	OrdWeekday29Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la XXIX semana del tiempo ordinario
+2027-10-19	StsJeanBrebeuf	optional-memorial	red	Martyrs:For Missionary Martyrs	ORDINARY_TIME	1	B/I			Santos Juan de Brébeuf e Isaac Jogues, presbíteros, y compañeros, mártires
 2027-10-19	StPaulCross	optional-memorial	white	Proper	ORDINARY_TIME	1	B/I			San Pablo de la Cruz, presbítero
-2027-10-20	OrdWeekday29Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la Vigésima novena Semana del Tiempo Ordinario
-2027-10-21	OrdWeekday29Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la Vigésima novena Semana del Tiempo Ordinario
-2027-10-22	OrdWeekday29Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la Vigésima novena Semana del Tiempo Ordinario
-2027-10-22	StJohnPaulII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	1	B/I			San Juan Pablo II, Papa
-2027-10-23	OrdWeekday29Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la Vigésima novena Semana del Tiempo Ordinario
+2027-10-20	OrdWeekday29Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Miércoles de la XXIX semana del tiempo ordinario
+2027-10-21	OrdWeekday29Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la XXIX semana del tiempo ordinario
+2027-10-22	OrdWeekday29Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la XXIX semana del tiempo ordinario
+2027-10-22	StJohnPaulII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	1	B/I			San Juan Pablo II, papa
+2027-10-23	OrdWeekday29Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la XXIX semana del tiempo ordinario
 2027-10-23	StJohnCapistrano	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	ORDINARY_TIME	1	B/I			San Juan de Capistrano, presbítero
-2027-10-23	SatMemBVM19	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-10-23	OrdSunday30_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday30	movable	Domingo XXX del Tiempo Ordinario Misa de la Víspera
-2027-10-24	OrdSunday30	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXX del Tiempo Ordinario
-2027-10-25	OrdWeekday30Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la Trigésima Semana del Tiempo Ordinario
-2027-10-26	OrdWeekday30Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Trigésima Semana del Tiempo Ordinario
-2027-10-27	OrdWeekday30Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la Trigésima Semana del Tiempo Ordinario
-2027-10-28	StSimonStJudeAp	feast	red	Proper	ORDINARY_TIME	0	B/I			San Simón y Judas, apóstoles
-2027-10-29	OrdWeekday30Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la Trigésima Semana del Tiempo Ordinario
-2027-10-30	OrdWeekday30Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Trigésima Semana del Tiempo Ordinario
-2027-10-30	SatMemBVM20	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-10-30	OrdSunday31_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday31	movable	Domingo XXXI del Tiempo Ordinario Misa de la Víspera
-2027-10-31	OrdSunday31	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXI del Tiempo Ordinario
-2027-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	AllSaints	obligation	Todos los Santos Misa de la Víspera
+2027-10-23	SatMemBVM19	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Santa María en sábado
+2027-10-23	OrdSunday30_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday30	movable	Domingo XXX del tiempo ordinario (misa vespertina)
+2027-10-24	OrdSunday30	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXX del tiempo ordinario
+2027-10-25	OrdWeekday30Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Lunes de la XXX semana del tiempo ordinario
+2027-10-26	OrdWeekday30Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la XXX semana del tiempo ordinario
+2027-10-27	OrdWeekday30Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Miércoles de la XXX semana del tiempo ordinario
+2027-10-28	StSimonStJudeAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Santos Simón y Judas, apóstoles
+2027-10-29	OrdWeekday30Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la XXX semana del tiempo ordinario
+2027-10-30	OrdWeekday30Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la XXX semana del tiempo ordinario
+2027-10-30	SatMemBVM20	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-10-30	OrdSunday31_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday31	movable	Domingo XXXI del tiempo ordinario (misa vespertina)
+2027-10-31	OrdSunday31	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXI del tiempo ordinario
+2027-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	AllSaints	obligation	Todos los Santos (misa vespertina)
 2027-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Todos los Santos
 2027-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	B/I			Conmemoración de Todos los Fieles Difuntos
-2027-11-03	OrdWeekday31Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la Trigésima primera Semana del Tiempo Ordinario
+2027-11-03	OrdWeekday31Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Miércoles de la XXXI semana del tiempo ordinario
 2027-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			San Martín de Porres, religioso
 2027-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	B/I			San Carlos Borromeo, obispo
-2027-11-05	OrdWeekday31Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la Trigésima primera Semana del Tiempo Ordinario
-2027-11-06	OrdWeekday31Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la Trigésima primera Semana del Tiempo Ordinario
-2027-11-06	SatMemBVM21	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-11-06	OrdSunday32_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday32	movable	Domingo XXXII del Tiempo Ordinario Misa de la Víspera
-2027-11-07	OrdSunday32	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXII del Tiempo Ordinario
-2027-11-08	OrdWeekday32Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la Trigésima segunda Semana del Tiempo Ordinario
-2027-11-09	DedicationLateran	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			En la Dedicación de la Basílica Lateranense
-2027-11-10	StLeoGreat	memorial	white	Proper	ORDINARY_TIME	0	B/I			San León Magno, papa y Doctor de la Iglesia
+2027-11-05	OrdWeekday31Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Viernes de la XXXI semana del tiempo ordinario
+2027-11-06	OrdWeekday31Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Sábado de la XXXI semana del tiempo ordinario
+2027-11-06	SatMemBVM21	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Santa María en sábado
+2027-11-06	OrdSunday32_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday32	movable	Domingo XXXII del tiempo ordinario (misa vespertina)
+2027-11-07	OrdSunday32	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXII del tiempo ordinario
+2027-11-08	OrdWeekday32Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Lunes de la XXXII semana del tiempo ordinario
+2027-11-09	DedicationLateran	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			Dedicación de la Basílica de Letrán
+2027-11-10	StLeoGreat	memorial	white	Proper	ORDINARY_TIME	0	B/I			San León Magno, papa y doctor de la Iglesia
 2027-11-11	StMartinTours	memorial	white	Proper	ORDINARY_TIME	0	B/I			San Martín de Tours, obispo
 2027-11-12	StJosaphat	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			San Josafat, obispo y mártir
-2027-11-13	OrdWeekday32Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la Trigésima segunda Semana del Tiempo Ordinario
-2027-11-13	SatMemBVM22	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-11-13	OrdSunday33_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday33	movable	Domingo XXXIII del Tiempo Ordinario Misa de la Víspera
-2027-11-14	OrdSunday33	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXIII del Tiempo Ordinario
-2027-11-15	OrdWeekday33Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la Trigésima tercera Semana del Tiempo Ordinario
-2027-11-15	StAlbertGreat	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			San Alberto Magno, obispo y Doctor de la Iglesia
-2027-11-16	OrdWeekday33Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la Trigésima tercera Semana del Tiempo Ordinario
+2027-11-13	OrdWeekday32Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Sábado de la XXXII semana del tiempo ordinario
+2027-11-13	SatMemBVM22	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Santa María en sábado
+2027-11-13	OrdSunday33_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday33	movable	Domingo XXXIII del tiempo ordinario (misa vespertina)
+2027-11-14	OrdSunday33	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXIII del tiempo ordinario
+2027-11-15	OrdWeekday33Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Lunes de la XXXIII semana del tiempo ordinario
+2027-11-15	StAlbertGreat	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			San Alberto Magno, obispo y doctor de la Iglesia
+2027-11-16	OrdWeekday33Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Martes de la XXXIII semana del tiempo ordinario
 2027-11-16	StMargaretScotland	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	B/I			Santa Margarita de Escocia
 2027-11-16	StGertrudeGreat	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	1	B/I			Santa Gertrudis, virgen
-2027-11-17	StElizabethHungary	memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	0	B/I			Santa Isabel de Hungría
-2027-11-18	OrdWeekday33Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la Trigésima tercera Semana del Tiempo Ordinario
-2027-11-18	DedicationStsPeterPaul	optional-memorial	white	Proper	ORDINARY_TIME	1	B/I			En la dedicación de las basílicas de San Pedro y San Pablo, apóstoles.
-2027-11-19	OrdWeekday33Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la Trigésima tercera Semana del Tiempo Ordinario
-2027-11-20	OrdWeekday33Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la Trigésima tercera Semana del Tiempo Ordinario
-2027-11-20	SatMemBVM23	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-11-20	ChristKing_vigil	solemnity	white		ORDINARY_TIME	0	B/I	ChristKing	movable	Señor Jesucristo, Rey del Universo Misa de la Víspera
-2027-11-21	ChristKing	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Señor Jesucristo, Rey del Universo
-2027-11-22	StCecilia	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Santa Cecilia, virgen y mártir.
-2027-11-23	OrdWeekday34Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la Trigésima cuarta Semana del Tiempo Ordinario
-2027-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			San Clemente I, papa y mártir.
-2027-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			San Columbano, abad.
-2027-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	B/I			San Andrés Dung-Lac, presbítero y sus compañeros, mártires
-2027-11-25	OrdWeekday34Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la Trigésima cuarta Semana del Tiempo Ordinario
+2027-11-17	StElizabethHungary	memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	0	B/I			Santa Isabel de Hungría, religiosa
+2027-11-18	OrdWeekday33Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Jueves de la XXXIII semana del tiempo ordinario
+2027-11-18	DedicationStsPeterPaul	optional-memorial	white	Proper	ORDINARY_TIME	1	B/I			Dedicación de las Basílicas de los Santos Pedro y Pablo, apóstoles
+2027-11-19	OrdWeekday33Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Viernes de la XXXIII semana del tiempo ordinario
+2027-11-20	OrdWeekday33Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Sábado de la XXXIII semana del tiempo ordinario
+2027-11-20	SatMemBVM23	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Santa María en sábado
+2027-11-20	ChristKing_vigil	solemnity	white		ORDINARY_TIME	0	B/I	ChristKing	movable	Nuestro Señor Jesucristo, Rey del Universo (misa vespertina)
+2027-11-21	ChristKing	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Nuestro Señor Jesucristo, Rey del Universo
+2027-11-22	StCecilia	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Santa Cecilia, virgen y mártir
+2027-11-23	OrdWeekday34Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Martes de la XXXIV semana del tiempo ordinario
+2027-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			San Clemente I, papa y mártir
+2027-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			San Columbano, abad
+2027-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	B/I			Santos Andrés Dung-Lac, presbítero, y compañeros, mártires
+2027-11-25	OrdWeekday34Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Jueves de la XXXIV semana del tiempo ordinario
 2027-11-25	StCatherineAlexandria	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	B/I			Santa Catalina de Alejandría, virgen y mártir
-2027-11-26	OrdWeekday34Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la Trigésima cuarta Semana del Tiempo Ordinario
-2027-11-27	OrdWeekday34Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la Trigésima cuarta Semana del Tiempo Ordinario
-2027-11-27	SatMemBVM24	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Memoria del sábado de la Bienaventurada Virgen María
-2027-11-27	Advent1_vigil	higher-solemnity	purple		ADVENT	1	C/II	Advent1	movable	Primer Domingo de Adviento Misa de la Víspera
-2027-11-28	Advent1	higher-solemnity	purple		ADVENT	1	C/II		movable,vigil-mass,first-vespers,second-vespers	Primer Domingo de Adviento
-2027-11-29	AdventWeekday1Monday	weekday	purple		ADVENT	1	C/II		movable	Lunes de la Primera Semana de Adviento
-2027-11-30	StAndrewAp	feast	red	Proper	ADVENT	0	C/II			San Andrés, apóstol.
-2027-12-01	AdventWeekday1Wednesday	weekday	purple		ADVENT	1	C/II		movable	Miércoles de la Primera Semana de Adviento
-2027-12-02	AdventWeekday1Thursday	weekday	purple		ADVENT	1	C/II		movable	Jueves de la Primera Semana de Adviento
-2027-12-03	StFrancisXavier	memorial	white	Proper	ADVENT	1	C/II			San Francisco Javier, presbítero.
-2027-12-04	AdventWeekday1Saturday	weekday	purple		ADVENT	1	C/II		movable	Sábado de la Primera Semana de Adviento
-2027-12-04	StJohnDamascene	optional-memorial	white	Pastors:For One Pastor|Doctors	ADVENT	1	C/II			San Juan de Damasco, presbítero y Doctor de la Iglesia.
-2027-12-04	Advent2_vigil	higher-solemnity	purple		ADVENT	2	C/II	Advent2	movable	Segundo Domingo de Adviento Misa de la Víspera
-2027-12-05	Advent2	higher-solemnity	purple		ADVENT	2	C/II		movable,vigil-mass,first-vespers,second-vespers	Segundo Domingo de Adviento
-2027-12-06	AdventWeekday2Monday	weekday	purple		ADVENT	2	C/II		movable	Lunes de la Segunda Semana de Adviento
-2027-12-06	StNicholas	optional-memorial	white	Pastors:For a Bishop	ADVENT	2	C/II			San Nicolás, obispo.
-2027-12-07	StAmbrose	memorial	white	Proper	ADVENT	2	C/II			San Ambrosio, obispo y Doctor de la Iglesia.
-2027-12-07	ImmaculateConception_vigil	solemnity	white	Proper	ADVENT	0	C/II	ImmaculateConception	obligation	En la Inmaculada Concepción de la Bienaventurada Virgen María. Misa de la Víspera
-2027-12-08	ImmaculateConception	solemnity	white	Proper	ADVENT	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	En la Inmaculada Concepción de la Bienaventurada Virgen María.
-2027-12-09	AdventWeekday2Thursday	weekday	purple		ADVENT	2	C/II		movable	Jueves de la Segunda Semana de Adviento
+2027-11-26	OrdWeekday34Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Viernes de la XXXIV semana del tiempo ordinario
+2027-11-27	OrdWeekday34Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Sábado de la XXXIV semana del tiempo ordinario
+2027-11-27	SatMemBVM24	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Santa María en sábado
+2027-11-27	Advent1_vigil	higher-solemnity	purple		ADVENT	1	C/II	Advent1	movable	Domingo I de Adviento (misa vespertina)
+2027-11-28	Advent1	higher-solemnity	purple		ADVENT	1	C/II		movable,vigil-mass,first-vespers,second-vespers	Domingo I de Adviento
+2027-11-29	AdventWeekday1Monday	weekday	purple		ADVENT	1	C/II		movable	Lunes de la I semana de Adviento
+2027-11-30	StAndrewAp	feast	red	Proper	ADVENT	0	C/II			San Andrés, apóstol
+2027-12-01	AdventWeekday1Wednesday	weekday	purple		ADVENT	1	C/II		movable	Miércoles de la I semana de Adviento
+2027-12-02	AdventWeekday1Thursday	weekday	purple		ADVENT	1	C/II		movable	Jueves de la I semana de Adviento
+2027-12-03	StFrancisXavier	memorial	white	Proper	ADVENT	1	C/II			San Francisco Javier, presbítero
+2027-12-04	AdventWeekday1Saturday	weekday	purple		ADVENT	1	C/II		movable	Sábado de la I semana de Adviento
+2027-12-04	StJohnDamascene	optional-memorial	white	Pastors:For One Pastor|Doctors	ADVENT	1	C/II			San Juan Damasceno, presbítero y doctor de la Iglesia
+2027-12-04	Advent2_vigil	higher-solemnity	purple		ADVENT	2	C/II	Advent2	movable	Domingo II de Adviento (misa vespertina)
+2027-12-05	Advent2	higher-solemnity	purple		ADVENT	2	C/II		movable,vigil-mass,first-vespers,second-vespers	Domingo II de Adviento
+2027-12-06	AdventWeekday2Monday	weekday	purple		ADVENT	2	C/II		movable	Lunes de la II semana de Adviento
+2027-12-06	StNicholas	optional-memorial	white	Pastors:For a Bishop	ADVENT	2	C/II			San Nicolás, obispo
+2027-12-07	StAmbrose	memorial	white	Proper	ADVENT	2	C/II			San Ambrosio, obispo y doctor de la Iglesia
+2027-12-07	ImmaculateConception_vigil	solemnity	white	Proper	ADVENT	0	C/II	ImmaculateConception	obligation	Inmaculada Concepción de la Bienaventurada Virgen María (misa vespertina)
+2027-12-08	ImmaculateConception	solemnity	white	Proper	ADVENT	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	Inmaculada Concepción de la Bienaventurada Virgen María
+2027-12-09	AdventWeekday2Thursday	weekday	purple		ADVENT	2	C/II		movable	Jueves de la II semana de Adviento
 2027-12-09	JuanDiego	optional-memorial	white	Holy Men and Women:For One Saint	ADVENT	2	C/II			San Juan Diego Cuauhtlatoatzin
-2027-12-10	AdventWeekday2Friday	weekday	purple		ADVENT	2	C/II		movable	Viernes de la Segunda Semana de Adviento
-2027-12-10	OurLadyOfLoreto	optional-memorial	white	Blessed Virgin Mary	ADVENT	2	C/II			Santa Virgen María de Loreto
-2027-12-11	AdventWeekday2Saturday	weekday	purple		ADVENT	2	C/II		movable	Sábado de la Segunda Semana de Adviento
-2027-12-11	StDamasusIPope	optional-memorial	white	Pastors:For a Pope	ADVENT	2	C/II			San Dámaso I, papa.
-2027-12-11	Advent3_vigil	higher-solemnity	rose,purple		ADVENT	3	C/II	Advent3	movable	Tercer Domingo de Adviento (Gaudete) Misa de la Víspera
-2027-12-12	Advent3	higher-solemnity	rose,purple		ADVENT	3	C/II		movable,vigil-mass,first-vespers,second-vespers	Tercer Domingo de Adviento (Gaudete)
-2027-12-13	StLucySyracuse	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ADVENT	3	C/II			Santa Lucía, virgen y mártir.
-2027-12-14	StJohnCross	memorial	white	Proper	ADVENT	3	C/II			San Juan de la Cruz, presbítero y Doctor de la Iglesia.
-2027-12-15	AdventWeekday3Wednesday	weekday	purple		ADVENT	3	C/II		movable	Miércoles de la Tercera Semana de Adviento
-2027-12-16	AdventWeekday3Thursday	weekday	purple		ADVENT	3	C/II		movable	Jueves de la Tercera Semana de Adviento
-2027-12-17	AdventWeekdayDec17	weekday	purple		ADVENT	3	C/II		movable	Viernes de la Tercera Semana de Adviento
-2027-12-18	AdventWeekdayDec18	weekday	purple		ADVENT	3	C/II		movable	Sábado de la Tercera Semana de Adviento
-2027-12-18	Advent4_vigil	higher-solemnity	purple		ADVENT	4	C/II	Advent4	movable	Cuarto Domingo de Adviento Misa de la Víspera
-2027-12-19	Advent4	higher-solemnity	purple		ADVENT	4	C/II		movable,vigil-mass,first-vespers,second-vespers	Cuarto Domingo de Adviento
-2027-12-20	AdventWeekdayDec20	weekday	purple		ADVENT	4	C/II		movable	Lunes de la Cuarta Semana de Adviento
-2027-12-21	AdventWeekdayDec21	weekday	purple		ADVENT	4	C/II		movable	Martes de la Cuarta Semana de Adviento
-2027-12-21	StPeterCanisius	commemoration	white	Pastors:For One Pastor|Doctors	ADVENT	4	C/II			San Pedro Canisio, presbítero y Doctor de la Iglesia.
-2027-12-22	AdventWeekdayDec22	weekday	purple		ADVENT	4	C/II		movable	Miércoles de la Cuarta Semana de Adviento
-2027-12-23	AdventWeekdayDec23	weekday	purple		ADVENT	4	C/II		movable	Jueves de la Cuarta Semana de Adviento
-2027-12-23	StJohnKanty	commemoration	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ADVENT	4	C/II			San Juan de Kenty, presbítero.
-2027-12-24	AdventWeekdayDec24	weekday	purple		ADVENT	4	C/II		movable	Viernes de la Cuarta Semana de Adviento
-2027-12-24	Christmas_vigil	higher-solemnity	white		CHRISTMAS	0	C/II	Christmas	obligation	Natividad del Señor Misa de la Víspera
+2027-12-10	AdventWeekday2Friday	weekday	purple		ADVENT	2	C/II		movable	Viernes de la II semana de Adviento
+2027-12-10	OurLadyOfLoreto	optional-memorial	white	Blessed Virgin Mary	ADVENT	2	C/II			Bienaventurada Virgen María de Loreto
+2027-12-11	AdventWeekday2Saturday	weekday	purple		ADVENT	2	C/II		movable	Sábado de la II semana de Adviento
+2027-12-11	StDamasusIPope	optional-memorial	white	Pastors:For a Pope	ADVENT	2	C/II			San Dámaso I, papa
+2027-12-11	Advent3_vigil	higher-solemnity	rose,purple		ADVENT	3	C/II	Advent3	movable	Domingo III de Adviento «Gaudete» (misa vespertina)
+2027-12-12	Advent3	higher-solemnity	rose,purple		ADVENT	3	C/II		movable,vigil-mass,first-vespers,second-vespers	Domingo III de Adviento «Gaudete»
+2027-12-13	StLucySyracuse	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ADVENT	3	C/II			Santa Lucía, virgen y mártir
+2027-12-14	StJohnCross	memorial	white	Proper	ADVENT	3	C/II			San Juan de la Cruz, presbítero y doctor de la Iglesia
+2027-12-15	AdventWeekday3Wednesday	weekday	purple		ADVENT	3	C/II		movable	Miércoles de la III semana de Adviento
+2027-12-16	AdventWeekday3Thursday	weekday	purple		ADVENT	3	C/II		movable	Jueves de la III semana de Adviento
+2027-12-17	AdventWeekdayDec17	weekday	purple		ADVENT	3	C/II		movable	Viernes de la III semana de Adviento
+2027-12-18	AdventWeekdayDec18	weekday	purple		ADVENT	3	C/II		movable	Sábado de la III semana de Adviento
+2027-12-18	Advent4_vigil	higher-solemnity	purple		ADVENT	4	C/II	Advent4	movable	Domingo IV de Adviento (misa vespertina)
+2027-12-19	Advent4	higher-solemnity	purple		ADVENT	4	C/II		movable,vigil-mass,first-vespers,second-vespers	Domingo IV de Adviento
+2027-12-20	AdventWeekdayDec20	weekday	purple		ADVENT	4	C/II		movable	Lunes de la IV semana de Adviento
+2027-12-21	AdventWeekdayDec21	weekday	purple		ADVENT	4	C/II		movable	Martes de la IV semana de Adviento
+2027-12-21	StPeterCanisius	commemoration	white	Pastors:For One Pastor|Doctors	ADVENT	4	C/II			San Pedro Canisio, presbítero y doctor de la Iglesia
+2027-12-22	AdventWeekdayDec22	weekday	purple		ADVENT	4	C/II		movable	Miércoles de la IV semana de Adviento
+2027-12-23	AdventWeekdayDec23	weekday	purple		ADVENT	4	C/II		movable	Jueves de la IV semana de Adviento
+2027-12-23	StJohnKanty	commemoration	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ADVENT	4	C/II			San Juan de Kety, presbítero
+2027-12-24	AdventWeekdayDec24	weekday	purple		ADVENT	4	C/II		movable	Viernes de la IV semana de Adviento
+2027-12-24	Christmas_vigil	higher-solemnity	white		CHRISTMAS	0	C/II	Christmas	obligation	Natividad del Señor (misa vespertina)
 2027-12-25	Christmas	higher-solemnity	white		CHRISTMAS	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	Natividad del Señor
-2027-12-26	HolyFamily	feast-of-the-lord	white		CHRISTMAS	0	C/II		movable,second-vespers	Sagrada Familia de Jesús, María y José
+2027-12-26	HolyFamily	feast-of-the-lord	white		CHRISTMAS	0	C/II		movable,second-vespers	Sagrada Familia: Jesús, María y José
 2027-12-27	StJohnEvangelist	feast	white	Proper	CHRISTMAS	0	C/II			San Juan, apóstol y evangelista
-2027-12-28	HolyInnocents	feast	red	Proper	CHRISTMAS	0	C/II			Santos Inocentes, mártires
-2027-12-29	ChristmasWeekdayDec29	weekday	white		CHRISTMAS	0	C/II		movable	Quinto Día de la Octava de Navidad
-2027-12-29	StThomasBecket	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	CHRISTMAS	0	C/II			San Tomás Becket, obispo y mártir
-2027-12-30	ChristmasWeekdayDec30	weekday	white		CHRISTMAS	0	C/II		movable	Sexto Día de la Octava de Navidad
-2027-12-31	ChristmasWeekdayDec31	weekday	white		CHRISTMAS	0	C/II		movable	Séptimo Día de la Octava de Navidad
+2027-12-28	HolyInnocents	feast	red	Proper	CHRISTMAS	0	C/II			Los Santos Inocentes, mártires
+2027-12-29	ChristmasWeekdayDec29	weekday	white		CHRISTMAS	0	C/II		movable	Día V dentro de la Octava de la Natividad del Señor
+2027-12-29	StThomasBecket	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	CHRISTMAS	0	C/II			Santo Tomás Becket, obispo y mártir
+2027-12-30	ChristmasWeekdayDec30	weekday	white		CHRISTMAS	0	C/II		movable	Día VI dentro de la Octava de la Natividad del Señor
+2027-12-31	ChristmasWeekdayDec31	weekday	white		CHRISTMAS	0	C/II		movable	Día VII dentro de la Octava de la Natividad del Señor
 2027-12-31	StSylvesterIPope	commemoration	white	Pastors:For a Pope	CHRISTMAS	0	C/II			San Silvestre I, papa

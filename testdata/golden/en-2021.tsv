@@ -57,7 +57,7 @@
 2021-02-06	OrdSunday5_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday5	movable	5th Sunday of Ordinary Time Vigil Mass
 2021-02-07	OrdSunday5	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	5th Sunday of Ordinary Time
 2021-02-08	OrdWeekday5Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 5th Week of Ordinary Time
-2021-02-08	StJeromeEmiliani	optional-memorial	white	Holy Men and Women:For Educators	ORDINARY_TIME	1	B/I			Saint Jerome Emiliani, Priest
+2021-02-08	StJeromeEmiliani	optional-memorial	white	Holy Men and Women:For Educators	ORDINARY_TIME	1	B/I			Saint Jerome Emiliani
 2021-02-08	StJosephineBakhita	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	B/I			Saint Josephine Bakhita, Virgin
 2021-02-09	OrdWeekday5Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 5th Week of Ordinary Time
 2021-02-10	StScholastica	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	B/I			Saint Scholastica, Virgin
@@ -112,8 +112,8 @@
 2021-03-17	StPatrick	commemoration	white	Pastors:For a Bishop|Pastors:For Missionaries	LENT	4	B/I			Saint Patrick, Bishop
 2021-03-18	LentWeekday4Thursday	weekday	purple		LENT	4	B/I		movable	Thursday of the 4th Week of Lent
 2021-03-18	StCyrilJerusalem	commemoration	white	Pastors:For a Bishop|Doctors	LENT	4	B/I			Saint Cyril of Jerusalem, Bishop and Doctor of the Church
-2021-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	Saint Joseph Husband of the Blessed Virgin Mary Vigil Mass
-2021-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph Husband of the Blessed Virgin Mary
+2021-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	Saint Joseph, Spouse of the Blessed Virgin Mary Vigil Mass
+2021-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph, Spouse of the Blessed Virgin Mary
 2021-03-20	LentWeekday4Saturday	weekday	purple		LENT	4	B/I		movable	Saturday of the 4th Week of Lent
 2021-03-20	Lent5_vigil	higher-solemnity	purple		LENT	1	B/I	Lent5	movable	Fifth Sunday of Lent Vigil Mass
 2021-03-21	Lent5	higher-solemnity	purple		LENT	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Fifth Sunday of Lent
@@ -192,7 +192,7 @@
 2021-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	EASTER	2	B/I			Saint Pancras, Martyr
 2021-05-12	Ascension_vigil	higher-solemnity	white		EASTER	0	B/I	Ascension	movable,obligation	Ascension Vigil Mass
 2021-05-13	Ascension	higher-solemnity	white		EASTER	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Ascension
-2021-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			Saint Matthias the Apostle
+2021-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			Saint Matthias, Apostle
 2021-05-15	EasterWeekday6Saturday	weekday	white		EASTER	2	B/I		movable	Saturday of the 6th Week of Easter
 2021-05-15	Easter7_vigil	higher-solemnity	white		EASTER	3	B/I	Easter7	movable	Seventh Sunday of Easter Vigil Mass
 2021-05-16	Easter7	higher-solemnity	white		EASTER	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Seventh Sunday of Easter
@@ -223,7 +223,7 @@
 2021-05-29	Trinity_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	Trinity	movable	Holy Trinity Sunday Vigil Mass
 2021-05-30	Trinity	higher-solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Holy Trinity Sunday
 2021-05-31	Visitation	feast	white	Proper	ORDINARY_TIME	0	B/I			Visitation of the Blessed Virgin Mary
-2021-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Justin Martyr
+2021-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Justin, Martyr
 2021-06-02	OrdWeekday9Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 9th Week of Ordinary Time
 2021-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Saints Marcellinus and Peter, Martyrs
 2021-06-02	CorpusChristi_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	CorpusChristi	movable,obligation	Corpus Christi Vigil Mass
@@ -271,7 +271,7 @@
 2021-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			The First Martyrs of the Holy Roman Church
 2021-07-01	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 13th Week of Ordinary Time
 2021-07-02	OrdWeekday13Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Friday of the 13th Week of Ordinary Time
-2021-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Thomas the Apostle
+2021-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Thomas, Apostle
 2021-07-03	OrdSunday14_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday14	movable	14th Sunday of Ordinary Time Vigil Mass
 2021-07-04	OrdSunday14	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	14th Sunday of Ordinary Time
 2021-07-05	OrdWeekday14Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 14th Week of Ordinary Time
@@ -307,7 +307,7 @@
 2021-07-23	OrdWeekday16Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 16th Week of Ordinary Time
 2021-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Saint Bridget, Religious
 2021-07-24	OrdWeekday16Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Saturday of the 16th Week of Ordinary Time
-2021-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			Saint Sharbel Makhluf, Hermit
+2021-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			Saint Sharbel Makhlūf, Priest
 2021-07-24	SatMemBVM10	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
 2021-07-24	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday17	movable	17th Sunday of Ordinary Time Vigil Mass
 2021-07-25	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	17th Sunday of Ordinary Time
@@ -356,7 +356,7 @@
 2021-08-21	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday21	movable	21st Sunday of Ordinary Time Vigil Mass
 2021-08-22	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	21st Sunday of Ordinary Time
 2021-08-23	OrdWeekday21Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 21st Week of Ordinary Time
-2021-08-23	StRoseLima	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	B/I			Saint Rose of Lima, virgin
+2021-08-23	StRoseLima	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	B/I			Saint Rose of Lima, Virgin
 2021-08-24	StBartholomewAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Bartholomew, Apostle
 2021-08-25	OrdWeekday21Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 21st Week of Ordinary Time
 2021-08-25	StLouis	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	1	B/I			Saint Louis
@@ -417,7 +417,7 @@
 2021-10-03	OrdSunday27	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	27th Sunday of Ordinary Time
 2021-10-04	StFrancisAssisi	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Francis of Assisi
 2021-10-05	OrdWeekday27Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 27th Week of Ordinary Time
-2021-10-05	StFaustinaKowalska	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Saint Faustina Kowalska
+2021-10-05	StFaustinaKowalska	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Saint Faustina Kowalska, Virgin
 2021-10-06	OrdWeekday27Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Wednesday of the 27th Week of Ordinary Time
 2021-10-06	StBruno	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	3	B/I			Saint Bruno, Priest
 2021-10-07	OurLadyOfTheRosary	memorial	white	Proper	ORDINARY_TIME	0	B/I			Our Lady of the Rosary
@@ -465,7 +465,7 @@
 2021-10-31	OrdSunday31	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	31st Sunday of Ordinary Time
 2021-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	AllSaints	obligation	All Saints Vigil Mass
 2021-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	All Saints
-2021-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	B/I			The Commemoration of all the Faithful Departed (All Souls' Day)
+2021-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	B/I			The Commemoration of All the Faithful Departed (All Souls' Day)
 2021-11-03	OrdWeekday31Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Wednesday of the 31st Week of Ordinary Time
 2021-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Saint Martin de Porres, Religious
 2021-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Saint Charles Borromeo, Bishop
@@ -499,7 +499,7 @@
 2021-11-22	StCecilia	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Saint Cecilia, Virgin and Martyr
 2021-11-23	OrdWeekday34Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 34th Week of Ordinary Time
 2021-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			Saint Clement I, Pope and Martyr
-2021-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			Saint Columban, Religious
+2021-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			Saint Columban, Abbot
 2021-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs
 2021-11-25	OrdWeekday34Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Thursday of the 34th Week of Ordinary Time
 2021-11-25	StCatherineAlexandria	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	B/I			Saint Catherine of Alexandria, Virgin and Martyr

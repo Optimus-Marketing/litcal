@@ -48,7 +48,7 @@
 2008-02-06	AshWednesday	higher-solemnity	purple		LENT	0	A/II		movable	Ash Wednesday
 2008-02-07	ThursdayAfterAshWednesday	weekday	purple		LENT	0	A/II		movable	Thursday after Ash Wednesday
 2008-02-08	FridayAfterAshWednesday	weekday	purple		LENT	0	A/II		movable	Friday after Ash Wednesday
-2008-02-08	StJeromeEmiliani	optional-memorial	white	Holy Men and Women:For Educators	LENT	0	A/II			Saint Jerome Emiliani, Priest
+2008-02-08	StJeromeEmiliani	optional-memorial	white	Holy Men and Women:For Educators	LENT	0	A/II			Saint Jerome Emiliani
 2008-02-08	StJosephineBakhita	optional-memorial	white	Virgins:For One Virgin	LENT	0	A/II			Saint Josephine Bakhita, Virgin
 2008-02-09	SaturdayAfterAshWednesday	weekday	purple		LENT	0	A/II		movable	Saturday after Ash Wednesday
 2008-02-09	Lent1_vigil	higher-solemnity	purple		LENT	1	A/II	Lent1	movable	First Sunday of Lent Vigil Mass
@@ -98,8 +98,8 @@
 2008-03-12	LentWeekday5Wednesday	weekday	purple		LENT	1	A/II		movable	Wednesday of the 5th Week of Lent
 2008-03-13	LentWeekday5Thursday	weekday	purple		LENT	1	A/II		movable	Thursday of the 5th Week of Lent
 2008-03-14	LentWeekday5Friday	weekday	purple		LENT	1	A/II		movable	Friday of the 5th Week of Lent
-2008-03-14	StJoseph_vigil	solemnity	white	Proper	LENT	0	A/II	StJoseph	obligation	Saint Joseph Husband of the Blessed Virgin Mary Vigil Mass
-2008-03-15	StJoseph	solemnity	white	Proper	LENT	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph Husband of the Blessed Virgin Mary
+2008-03-14	StJoseph_vigil	solemnity	white	Proper	LENT	0	A/II	StJoseph	obligation	Saint Joseph, Spouse of the Blessed Virgin Mary Vigil Mass
+2008-03-15	StJoseph	solemnity	white	Proper	LENT	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph, Spouse of the Blessed Virgin Mary
 2008-03-15	PalmSun_vigil	higher-solemnity	red		LENT	0	A/II	PalmSun	movable	Palm Sunday Vigil Mass
 2008-03-16	PalmSun	higher-solemnity	red		LENT	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Palm Sunday
 2008-03-17	MonHolyWeek	higher-solemnity	purple		LENT	0	A/II		movable	Monday of Holy Week
@@ -154,7 +154,7 @@
 2008-04-23	StAdalbert	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	EASTER	1	A/II			Saint Adalbert, Bishop and Martyr
 2008-04-24	EasterWeekday5Thursday	weekday	white		EASTER	1	A/II		movable	Thursday of the 5th Week of Easter
 2008-04-24	StFidelisSigmaringen	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For One Pastor	EASTER	1	A/II			Saint Fidelis of Sigmaringen, Priest and Martyr
-2008-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	A/II			Saint Mark the Evangelist
+2008-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	A/II			Saint Mark, Evangelist
 2008-04-26	EasterWeekday5Saturday	weekday	white		EASTER	1	A/II		movable	Saturday of the 5th Week of Easter
 2008-04-26	Easter6_vigil	higher-solemnity	white		EASTER	2	A/II	Easter6	movable	Sixth Sunday of Easter Vigil Mass
 2008-04-27	Easter6	higher-solemnity	white		EASTER	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Sixth Sunday of Easter
@@ -183,7 +183,7 @@
 2008-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	A/II			Saint Pancras, Martyr
 2008-05-13	OrdWeekday6Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Tuesday of the 6th Week of Ordinary Time
 2008-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	A/II			Our Lady of Fatima
-2008-05-14	StMatthiasAp	feast	red	Proper	ORDINARY_TIME	0	A/II			Saint Matthias the Apostle
+2008-05-14	StMatthiasAp	feast	red	Proper	ORDINARY_TIME	0	A/II			Saint Matthias, Apostle
 2008-05-15	OrdWeekday6Thursday	weekday	green		ORDINARY_TIME	2	A/II		movable	Thursday of the 6th Week of Ordinary Time
 2008-05-16	OrdWeekday6Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Friday of the 6th Week of Ordinary Time
 2008-05-17	OrdWeekday6Saturday	weekday	green		ORDINARY_TIME	2	A/II		movable	Saturday of the 6th Week of Ordinary Time
@@ -226,7 +226,7 @@
 2008-06-09	OrdWeekday10Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Monday of the 10th Week of Ordinary Time
 2008-06-09	StEphrem	optional-memorial	white	Doctors	ORDINARY_TIME	2	A/II			Saint Ephrem, Deacon and Doctor of the Church
 2008-06-10	OrdWeekday10Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Tuesday of the 10th Week of Ordinary Time
-2008-06-11	StBarnabasAp	memorial	red	Proper	ORDINARY_TIME	0	A/II			Saint Barnabas the Apostle
+2008-06-11	StBarnabasAp	memorial	red	Proper	ORDINARY_TIME	0	A/II			Saint Barnabas, Apostle
 2008-06-12	OrdWeekday10Thursday	weekday	green		ORDINARY_TIME	2	A/II		movable	Thursday of the 10th Week of Ordinary Time
 2008-06-13	StAnthonyPadua	memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	0	A/II			Saint Anthony of Padua, Priest and Doctor of the Church
 2008-06-14	OrdWeekday10Saturday	weekday	green		ORDINARY_TIME	2	A/II		movable	Saturday of the 10th Week of Ordinary Time
@@ -256,7 +256,7 @@
 2008-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	A/II			The First Martyrs of the Holy Roman Church
 2008-07-01	OrdWeekday13Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Tuesday of the 13th Week of Ordinary Time
 2008-07-02	OrdWeekday13Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Wednesday of the 13th Week of Ordinary Time
-2008-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	A/II			Saint Thomas the Apostle
+2008-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	A/II			Saint Thomas, Apostle
 2008-07-04	OrdWeekday13Friday	weekday	green		ORDINARY_TIME	1	A/II		movable	Friday of the 13th Week of Ordinary Time
 2008-07-04	StElizabethPortugal	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	A/II			Saint Elizabeth of Portugal
 2008-07-05	OrdWeekday13Saturday	weekday	green		ORDINARY_TIME	1	A/II		movable	Saturday of the 13th Week of Ordinary Time
@@ -291,7 +291,7 @@
 2008-07-23	OrdWeekday16Wednesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Wednesday of the 16th Week of Ordinary Time
 2008-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	A/II			Saint Bridget, Religious
 2008-07-24	OrdWeekday16Thursday	weekday	green		ORDINARY_TIME	4	A/II		movable	Thursday of the 16th Week of Ordinary Time
-2008-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	A/II			Saint Sharbel Makhluf, Hermit
+2008-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	A/II			Saint Sharbel Makhlūf, Priest
 2008-07-25	StJamesAp	feast	red	Proper	ORDINARY_TIME	0	A/II			Saint James, Apostle
 2008-07-26	StsJoachimAnne	memorial	white	Proper	ORDINARY_TIME	0	A/II			Saints Joachim and Anne, Parents of the Blessed Virgin Mary
 2008-07-26	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday17	movable	17th Sunday of Ordinary Time Vigil Mass
@@ -341,7 +341,7 @@
 2008-08-21	StPiusX	memorial	white	Pastors:For a Pope	ORDINARY_TIME	0	A/II			Saint Pius X, Pope
 2008-08-22	QueenshipMary	memorial	white	Proper	ORDINARY_TIME	0	A/II			The Queenship of the Blessed Virgin Mary
 2008-08-23	OrdWeekday20Saturday	weekday	green		ORDINARY_TIME	4	A/II		movable	Saturday of the 20th Week of Ordinary Time
-2008-08-23	StRoseLima	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	4	A/II			Saint Rose of Lima, virgin
+2008-08-23	StRoseLima	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	4	A/II			Saint Rose of Lima, Virgin
 2008-08-23	SatMemBVM12	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	A/II		movable	Saturday Memorial of the Blessed Virgin Mary
 2008-08-23	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday21	movable	21st Sunday of Ordinary Time Vigil Mass
 2008-08-24	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	21st Sunday of Ordinary Time
@@ -443,7 +443,7 @@
 2008-10-31	OrdWeekday30Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Friday of the 30th Week of Ordinary Time
 2008-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	A/II	AllSaints	obligation	All Saints Vigil Mass
 2008-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	All Saints
-2008-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	A/II			The Commemoration of all the Faithful Departed (All Souls' Day)
+2008-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	A/II			The Commemoration of All the Faithful Departed (All Souls' Day)
 2008-11-03	OrdWeekday31Monday	weekday	green		ORDINARY_TIME	3	A/II		movable	Monday of the 31st Week of Ordinary Time
 2008-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	A/II			Saint Martin de Porres, Religious
 2008-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	A/II			Saint Charles Borromeo, Bishop
