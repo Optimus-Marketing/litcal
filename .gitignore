@@ -1,0 +1,13 @@
+coverage.out
+*.test
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+vendor/
+build/
+dist/
+bin/
+tmp/
+log/
+*.env

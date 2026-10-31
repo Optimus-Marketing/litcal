@@ -1,0 +1,551 @@
+# date	key	rank	colors	commons	season	psalter	cycles	vigil for	flags	name
+2025-12-31	MaryMotherOfGod_vigil	solemnity	white		CHRISTMAS	0	A/II	MaryMotherOfGod	obligation	Solemnidad de Santa María, Madre de Dios Misa de la Víspera
+2026-01-01	MaryMotherOfGod	solemnity	white		CHRISTMAS	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	Solemnidad de Santa María, Madre de Dios
+2026-01-02	StsBasilGreg	memorial	white	Proper	CHRISTMAS	0	A/II			San Basilio Magno y San Gregorio Nacianceno, obispos y doctores de la Iglesia
+2026-01-03	ChristmasWeekdayJan3	weekday	white		CHRISTMAS	0	A/II		movable	Sábado - Día de la Semana de Navidad
+2026-01-03	NameJesus	optional-memorial	white	Proper	CHRISTMAS	0	A/II			Santísimo Nombre de Jesús
+2026-01-03	Christmas2_vigil	feast-of-the-lord	white		CHRISTMAS	0	A/II	Christmas2	movable	Segundo Domingo de Navidad Misa de la Víspera
+2026-01-04	Christmas2	feast-of-the-lord	white		CHRISTMAS	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Segundo Domingo de Navidad
+2026-01-05	ChristmasWeekdayJan5	weekday	white		CHRISTMAS	0	A/II		movable	Lunes - Día de la Semana de Navidad
+2026-01-05	Epiphany_vigil	higher-solemnity	white		CHRISTMAS	0	A/II	Epiphany	movable,obligation	Epifanía del Señor Misa de la Víspera
+2026-01-06	Epiphany	higher-solemnity	white		CHRISTMAS	0	A/II		movable,vigil-mass,first-vespers,second-vespers,obligation	Epifanía del Señor
+2026-01-07	DayAfterEpiphanyJan7	weekday	white		CHRISTMAS	0	A/II		movable	Miércoles - Día de la Semana de Navidad
+2026-01-07	StRayPenyafort	optional-memorial	white	Pastors:For One Pastor	CHRISTMAS	0	A/II			San Raimundo de Peñafort, presbítero
+2026-01-08	DayAfterEpiphanyJan8	weekday	white		CHRISTMAS	0	A/II		movable	Jueves - Día de la Semana de Navidad
+2026-01-09	DayAfterEpiphanyJan9	weekday	white		CHRISTMAS	0	A/II		movable	Viernes - Día de la Semana de Navidad
+2026-01-10	DayAfterEpiphanyJan10	weekday	white		CHRISTMAS	0	A/II		movable	Sábado - Día de la Semana de Navidad
+2026-01-10	BaptismLord_vigil	feast-of-the-lord	white		CHRISTMAS	0	A/II	BaptismLord	movable	Bautismo del Señor Misa de la Víspera
+2026-01-11	BaptismLord	feast-of-the-lord	white		CHRISTMAS	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Bautismo del Señor
+2026-01-12	OrdWeekday1Monday	weekday	green		ORDINARY_TIME	1	A/II		movable	Lunes de la Primera Semana del Tiempo Ordinario
+2026-01-13	OrdWeekday1Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Primera Semana del Tiempo Ordinario
+2026-01-13	StHilaryPoitiers	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	A/II			San Hilario, obispo y doctor de la Iglesia
+2026-01-14	OrdWeekday1Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Miércoles de la Primera Semana del Tiempo Ordinario
+2026-01-15	OrdWeekday1Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Primera Semana del Tiempo Ordinario
+2026-01-16	OrdWeekday1Friday	weekday	green		ORDINARY_TIME	1	A/II		movable	Viernes de la Primera Semana del Tiempo Ordinario
+2026-01-17	StAnthonyEgypt	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Antonio, abad
+2026-01-17	OrdSunday2_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday2	movable	Domingo II del Tiempo Ordinario Misa de la Víspera
+2026-01-18	OrdSunday2	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo II del Tiempo Ordinario
+2026-01-19	OrdWeekday2Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Segunda Semana del Tiempo Ordinario
+2026-01-20	OrdWeekday2Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Martes de la Segunda Semana del Tiempo Ordinario
+2026-01-20	StFabianPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	A/II			San Fabián, papa y mártir
+2026-01-20	StSebastian	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	A/II			San Sebastián, mártir
+2026-01-21	StAgnes	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	A/II			Santa Inés, virgen y mártir
+2026-01-22	OrdWeekday2Thursday	weekday	green		ORDINARY_TIME	2	A/II		movable	Jueves de la Segunda Semana del Tiempo Ordinario
+2026-01-22	StVincentDeacon	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	A/II			San Vicente, diácono y mártir
+2026-01-23	OrdWeekday2Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Viernes de la Segunda Semana del Tiempo Ordinario
+2026-01-24	StFrancisDeSales	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	A/II			San Francisco de Sales, obispo y doctor de la Iglesia
+2026-01-24	OrdSunday3_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	A/II	OrdSunday3	movable	Domingo III del Tiempo Ordinario Misa de la Víspera
+2026-01-25	OrdSunday3	feast-of-the-lord	green		ORDINARY_TIME	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo III del Tiempo Ordinario
+2026-01-26	StsTimothyTitus	memorial	white	Proper	ORDINARY_TIME	0	A/II			Santos Timoteo y Tito, obispos
+2026-01-27	OrdWeekday3Tuesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Martes de la Tercera Semana del Tiempo Ordinario
+2026-01-27	StAngelaMerici	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Educators	ORDINARY_TIME	3	A/II			Santa Ángela de Mérici, virgen
+2026-01-28	StThomasAquinas	memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	0	A/II			Santo Tomás de Aquino, presbítero y doctor de la Iglesia
+2026-01-29	OrdWeekday3Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Tercera Semana del Tiempo Ordinario
+2026-01-30	OrdWeekday3Friday	weekday	green		ORDINARY_TIME	3	A/II		movable	Viernes de la Tercera Semana del Tiempo Ordinario
+2026-01-31	StJohnBosco	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	0	A/II			San Juan Bosco, presbítero
+2026-01-31	OrdSunday4_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	A/II	OrdSunday4	movable	Domingo IV del Tiempo Ordinario Misa de la Víspera
+2026-02-01	OrdSunday4	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo IV del Tiempo Ordinario
+2026-02-02	Presentation	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	A/II			Presentación del Señor
+2026-02-03	OrdWeekday4Tuesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Martes de la Cuarta Semana del Tiempo Ordinario
+2026-02-03	StBlase	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	A/II			San Blas, obispo y mártir
+2026-02-03	StAnsgar	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	4	A/II			San Ansgario, obispo
+2026-02-04	OrdWeekday4Wednesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Miércoles de la Cuarta Semana del Tiempo Ordinario
+2026-02-05	StAgatha	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	A/II			Santa Águeda, virgen y mártir
+2026-02-06	StsPaulMiki	memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	0	A/II			San Pablo Miki y compañeros, mártires
+2026-02-07	OrdWeekday4Saturday	weekday	green		ORDINARY_TIME	4	A/II		movable	Sábado de la Cuarta Semana del Tiempo Ordinario
+2026-02-07	SatMemBVM1	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-02-07	OrdSunday5_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday5	movable	Domingo V del Tiempo Ordinario Misa de la Víspera
+2026-02-08	OrdSunday5	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo V del Tiempo Ordinario
+2026-02-09	OrdWeekday5Monday	weekday	green		ORDINARY_TIME	1	A/II		movable	Lunes de la Quinta Semana del Tiempo Ordinario
+2026-02-10	StScholastica	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	A/II			Santa Escolástica, virgen
+2026-02-11	OrdWeekday5Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Miércoles de la Quinta Semana del Tiempo Ordinario
+2026-02-11	OurLadyOfLourdes	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	A/II			Bienaventurada Virgen María de Lourdes
+2026-02-12	OrdWeekday5Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Quinta Semana del Tiempo Ordinario
+2026-02-13	OrdWeekday5Friday	weekday	green		ORDINARY_TIME	1	A/II		movable	Viernes de la Quinta Semana del Tiempo Ordinario
+2026-02-14	StsCyrilMethodius	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Cirilo, monje, y San Metodio, obispo
+2026-02-14	OrdSunday6_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday6	movable	Domingo VI del Tiempo Ordinario Misa de la Víspera
+2026-02-15	OrdSunday6	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo VI del Tiempo Ordinario
+2026-02-16	OrdWeekday6Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Sexta Semana del Tiempo Ordinario
+2026-02-17	OrdWeekday6Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Martes de la Sexta Semana del Tiempo Ordinario
+2026-02-17	SevenHolyFounders	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	2	A/II			Los Siete Fundadores de la Orden de los Siervos de la Bienaventurada Virgen María
+2026-02-18	AshWednesday	higher-solemnity	purple		LENT	0	A/II		movable	Miércoles de Ceniza
+2026-02-19	ThursdayAfterAshWednesday	weekday	purple		LENT	0	A/II		movable	Jueves después del Miércoles de Ceniza
+2026-02-20	FridayAfterAshWednesday	weekday	purple		LENT	0	A/II		movable	Viernes después del Miércoles de Ceniza
+2026-02-21	SaturdayAfterAshWednesday	weekday	purple		LENT	0	A/II		movable	Sábado después del Miércoles de Ceniza
+2026-02-21	StPeterDamian	optional-memorial	white	Pastors:For a Bishop|Doctors	LENT	0	A/II			San Pedro Damián, obispo y doctor de la Iglesia
+2026-02-21	Lent1_vigil	higher-solemnity	purple		LENT	1	A/II	Lent1	movable	Domingo I de Cuaresma Misa de la Víspera
+2026-02-22	Lent1	higher-solemnity	purple		LENT	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo I de Cuaresma
+2026-02-23	LentWeekday1Monday	weekday	purple		LENT	1	A/II		movable	Lunes de la Primera Semana de Cuaresma
+2026-02-23	StPolycarp	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	LENT	1	A/II			San Policarpo, obispo y mártir
+2026-02-24	LentWeekday1Tuesday	weekday	purple		LENT	1	A/II		movable	Martes de la Primera Semana de Cuaresma
+2026-02-25	LentWeekday1Wednesday	weekday	purple		LENT	1	A/II		movable	Miércoles de la Primera Semana de Cuaresma
+2026-02-26	LentWeekday1Thursday	weekday	purple		LENT	1	A/II		movable	Jueves de la Primera Semana de Cuaresma
+2026-02-27	LentWeekday1Friday	weekday	purple		LENT	1	A/II		movable	Viernes de la Primera Semana de Cuaresma
+2026-02-27	StGregoryNarek	optional-memorial	white	Holy Men and Women:For an Abbot|Doctors	LENT	1	A/II			San Gregorio de Narek, Abad y Doctor de la Iglesia
+2026-02-28	LentWeekday1Saturday	weekday	purple		LENT	1	A/II		movable	Sábado de la Primera Semana de Cuaresma
+2026-02-28	Lent2_vigil	higher-solemnity	purple		LENT	2	A/II	Lent2	movable	Domingo II de Cuaresma Misa de la Víspera
+2026-03-01	Lent2	higher-solemnity	purple		LENT	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo II de Cuaresma
+2026-03-02	LentWeekday2Monday	weekday	purple		LENT	2	A/II		movable	Lunes de la Segunda Semana de Cuaresma
+2026-03-03	LentWeekday2Tuesday	weekday	purple		LENT	2	A/II		movable	Martes de la Segunda Semana de Cuaresma
+2026-03-04	LentWeekday2Wednesday	weekday	purple		LENT	2	A/II		movable	Miércoles de la Segunda Semana de Cuaresma
+2026-03-04	StCasimir	commemoration	white	Holy Men and Women:For One Saint	LENT	2	A/II			San Casimiro
+2026-03-05	LentWeekday2Thursday	weekday	purple		LENT	2	A/II		movable	Jueves de la Segunda Semana de Cuaresma
+2026-03-06	LentWeekday2Friday	weekday	purple		LENT	2	A/II		movable	Viernes de la Segunda Semana de Cuaresma
+2026-03-07	LentWeekday2Saturday	weekday	purple		LENT	2	A/II		movable	Sábado de la Segunda Semana de Cuaresma
+2026-03-07	StsPerpetuaFelicity	commemoration	red	Proper	LENT	2	A/II			Santas Perpetua y Felicidad, mártires
+2026-03-07	Lent3_vigil	higher-solemnity	purple		LENT	3	A/II	Lent3	movable	Domingo III de Cuaresma Misa de la Víspera
+2026-03-08	Lent3	higher-solemnity	purple		LENT	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo III de Cuaresma
+2026-03-09	LentWeekday3Monday	weekday	purple		LENT	3	A/II		movable	Lunes de la Tercera Semana de Cuaresma
+2026-03-09	StFrancesRome	commemoration	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	LENT	3	A/II			Santa Francisca Romana, religiosa
+2026-03-10	LentWeekday3Tuesday	weekday	purple		LENT	3	A/II		movable	Martes de la Tercera Semana de Cuaresma
+2026-03-11	LentWeekday3Wednesday	weekday	purple		LENT	3	A/II		movable	Miércoles de la Tercera Semana de Cuaresma
+2026-03-12	LentWeekday3Thursday	weekday	purple		LENT	3	A/II		movable	Jueves de la Tercera Semana de Cuaresma
+2026-03-13	LentWeekday3Friday	weekday	purple		LENT	3	A/II		movable	Viernes de la Tercera Semana de Cuaresma
+2026-03-14	LentWeekday3Saturday	weekday	purple		LENT	3	A/II		movable	Sábado de la Tercera Semana de Cuaresma
+2026-03-14	Lent4_vigil	higher-solemnity	rose,purple		LENT	4	A/II	Lent4	movable	Domingo IV de Cuaresma Misa de la Víspera
+2026-03-15	Lent4	higher-solemnity	rose,purple		LENT	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo IV de Cuaresma
+2026-03-16	LentWeekday4Monday	weekday	purple		LENT	4	A/II		movable	Lunes de la Cuarta Semana de Cuaresma
+2026-03-17	LentWeekday4Tuesday	weekday	purple		LENT	4	A/II		movable	Martes de la Cuarta Semana de Cuaresma
+2026-03-17	StPatrick	commemoration	white	Pastors:For a Bishop|Pastors:For Missionaries	LENT	4	A/II			San Patricio, obispo
+2026-03-18	LentWeekday4Wednesday	weekday	purple		LENT	4	A/II		movable	Miércoles de la Cuarta Semana de Cuaresma
+2026-03-18	StCyrilJerusalem	commemoration	white	Pastors:For a Bishop|Doctors	LENT	4	A/II			San Cirilo de Jerusalén, obispo y doctor de la Iglesia
+2026-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	A/II	StJoseph	obligation	San José, Esposo de la Bienaventurada Virgen María Misa de la Víspera
+2026-03-19	StJoseph	solemnity	white	Proper	LENT	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	San José, Esposo de la Bienaventurada Virgen María
+2026-03-20	LentWeekday4Friday	weekday	purple		LENT	4	A/II		movable	Viernes de la Cuarta Semana de Cuaresma
+2026-03-21	LentWeekday4Saturday	weekday	purple		LENT	4	A/II		movable	Sábado de la Cuarta Semana de Cuaresma
+2026-03-21	Lent5_vigil	higher-solemnity	purple		LENT	1	A/II	Lent5	movable	Domingo V de Cuaresma Misa de la Víspera
+2026-03-22	Lent5	higher-solemnity	purple		LENT	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo V de Cuaresma
+2026-03-23	LentWeekday5Monday	weekday	purple		LENT	1	A/II		movable	Lunes de la Quinta Semana de Cuaresma
+2026-03-23	StTuribius	commemoration	white	Pastors:For a Bishop	LENT	1	A/II			San Toribio de Mogrovejo, obispo
+2026-03-24	LentWeekday5Tuesday	weekday	purple		LENT	1	A/II		movable	Martes de la Quinta Semana de Cuaresma
+2026-03-24	Annunciation_vigil	solemnity	white	Proper	LENT	0	A/II	Annunciation		Anunciación del Señor Misa de la Víspera
+2026-03-25	Annunciation	solemnity	white	Proper	LENT	0	A/II		vigil-mass,first-vespers,second-vespers	Anunciación del Señor
+2026-03-26	LentWeekday5Thursday	weekday	purple		LENT	1	A/II		movable	Jueves de la Quinta Semana de Cuaresma
+2026-03-27	LentWeekday5Friday	weekday	purple		LENT	1	A/II		movable	Viernes de la Quinta Semana de Cuaresma
+2026-03-28	LentWeekday5Saturday	weekday	purple		LENT	1	A/II		movable	Sábado de la Quinta Semana de Cuaresma
+2026-03-28	PalmSun_vigil	higher-solemnity	red		LENT	0	A/II	PalmSun	movable	Domingo de Ramos Misa de la Víspera
+2026-03-29	PalmSun	higher-solemnity	red		LENT	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo de Ramos
+2026-03-30	MonHolyWeek	higher-solemnity	purple		LENT	0	A/II		movable	feria II de la Semana Santa
+2026-03-31	TueHolyWeek	higher-solemnity	purple		LENT	0	A/II		movable	feria III de la Semana Santa
+2026-04-01	WedHolyWeek	higher-solemnity	purple		LENT	0	A/II		movable	feria IV de la Semana Santa
+2026-04-02	HolyThurs	higher-solemnity	white		EASTER_TRIDUUM	0	A/II		movable	Jueves Santo
+2026-04-02	HolyThursChrism	higher-solemnity	white		LENT	0	A/II		movable	Misa Crismal
+2026-04-03	GoodFri	higher-solemnity	red		EASTER_TRIDUUM	0	A/II		movable	Viernes Santo
+2026-04-04	EasterVigil	higher-solemnity	white		EASTER_TRIDUUM	0	A/II		movable	Vigilia Pascual
+2026-04-05	Easter	higher-solemnity	white		EASTER	0	A/II		movable	Domingo de Pascua de la Resurrección del Señor
+2026-04-06	MonOctaveEaster	higher-solemnity	white		EASTER	0	A/II		movable	feria II de la Octava de Pascua
+2026-04-07	TueOctaveEaster	higher-solemnity	white		EASTER	0	A/II		movable	feria III de la Octava de Pascua
+2026-04-08	WedOctaveEaster	higher-solemnity	white		EASTER	0	A/II		movable	feria IV de la Octava de Pascua
+2026-04-09	ThuOctaveEaster	higher-solemnity	white		EASTER	0	A/II		movable	feria V de la Octava de Pascua
+2026-04-10	FriOctaveEaster	higher-solemnity	white		EASTER	0	A/II		movable	feria VI de la Octava de Pascua
+2026-04-11	SatOctaveEaster	higher-solemnity	white		EASTER	0	A/II		movable	Sábado de la Octava de Pascua
+2026-04-11	Easter2_vigil	higher-solemnity	white		EASTER	2	A/II	Easter2	movable	Domingo II de Pascua o domingo de la Misericordia divina Misa de la Víspera
+2026-04-12	Easter2	higher-solemnity	white		EASTER	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo II de Pascua o domingo de la Misericordia divina
+2026-04-13	EasterWeekday2Monday	weekday	white		EASTER	2	A/II		movable	Lunes de la Segunda Semana de Pascua
+2026-04-13	StMartinPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	EASTER	2	A/II			San Martín I, papa y mártir
+2026-04-14	EasterWeekday2Tuesday	weekday	white		EASTER	2	A/II		movable	Martes de la Segunda Semana de Pascua
+2026-04-15	EasterWeekday2Wednesday	weekday	white		EASTER	2	A/II		movable	Miércoles de la Segunda Semana de Pascua
+2026-04-16	EasterWeekday2Thursday	weekday	white		EASTER	2	A/II		movable	Jueves de la Segunda Semana de Pascua
+2026-04-17	EasterWeekday2Friday	weekday	white		EASTER	2	A/II		movable	Viernes de la Segunda Semana de Pascua
+2026-04-18	EasterWeekday2Saturday	weekday	white		EASTER	2	A/II		movable	Sábado de la Segunda Semana de Pascua
+2026-04-18	Easter3_vigil	higher-solemnity	white		EASTER	3	A/II	Easter3	movable	Domingo III de Pascua Misa de la Víspera
+2026-04-19	Easter3	higher-solemnity	white		EASTER	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo III de Pascua
+2026-04-20	EasterWeekday3Monday	weekday	white		EASTER	3	A/II		movable	Lunes de la Tercera Semana de Pascua
+2026-04-21	EasterWeekday3Tuesday	weekday	white		EASTER	3	A/II		movable	Martes de la Tercera Semana de Pascua
+2026-04-21	StAnselm	optional-memorial	white	Pastors:For a Bishop|Doctors	EASTER	3	A/II			San Anselmo, obispo y doctor de la Iglesia
+2026-04-22	EasterWeekday3Wednesday	weekday	white		EASTER	3	A/II		movable	Miércoles de la Tercera Semana de Pascua
+2026-04-23	EasterWeekday3Thursday	weekday	white		EASTER	3	A/II		movable	Jueves de la Tercera Semana de Pascua
+2026-04-23	StGeorge	optional-memorial	red	Martyrs:For One Martyr	EASTER	3	A/II			San Jorge, mártir
+2026-04-23	StAdalbert	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	EASTER	3	A/II			San Adalberto, obispo y mártir
+2026-04-24	EasterWeekday3Friday	weekday	white		EASTER	3	A/II		movable	Viernes de la Tercera Semana de Pascua
+2026-04-24	StFidelisSigmaringen	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For One Pastor	EASTER	3	A/II			San Fidel de Sigmaringa, presbítero y mártir
+2026-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	A/II			San Marcos, evangelista
+2026-04-25	Easter4_vigil	higher-solemnity	white		EASTER	4	A/II	Easter4	movable	Domingo IV de Pascua Misa de la Víspera
+2026-04-26	Easter4	higher-solemnity	white		EASTER	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo IV de Pascua
+2026-04-27	EasterWeekday4Monday	weekday	white		EASTER	4	A/II		movable	Lunes de la Cuarta Semana de Pascua
+2026-04-28	EasterWeekday4Tuesday	weekday	white		EASTER	4	A/II		movable	Martes de la Cuarta Semana de Pascua
+2026-04-28	StPeterChanel	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	EASTER	4	A/II			San Pedro Chanel, presbítero y mártir
+2026-04-28	StLouisGrignionMontfort	optional-memorial	white	Pastors:For One Pastor	EASTER	4	A/II			San Luis María Grignion de Montfort, presbítero
+2026-04-29	StCatherineSiena	memorial	white	Proper	EASTER	0	A/II			Santa Catalina de Siena, virgen
+2026-04-30	EasterWeekday4Thursday	weekday	white		EASTER	4	A/II		movable	Jueves de la Cuarta Semana de Pascua
+2026-04-30	StPiusV	optional-memorial	white	Pastors:For a Pope	EASTER	4	A/II			San Pío V, papa
+2026-05-01	EasterWeekday4Friday	weekday	white		EASTER	4	A/II		movable	Viernes de la Cuarta Semana de Pascua
+2026-05-01	StJosephWorker	optional-memorial	white	Proper	EASTER	4	A/II			San José obrero
+2026-05-02	StAthanasius	memorial	white	Proper	EASTER	0	A/II			San Atanasio, obispo y doctor de la Iglesia
+2026-05-02	Easter5_vigil	higher-solemnity	white		EASTER	1	A/II	Easter5	movable	Domingo V de Pascua Misa de la Víspera
+2026-05-03	Easter5	higher-solemnity	white		EASTER	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo V de Pascua
+2026-05-04	EasterWeekday5Monday	weekday	white		EASTER	1	A/II		movable	Lunes de la Quinta Semana de Pascua
+2026-05-05	EasterWeekday5Tuesday	weekday	white		EASTER	1	A/II		movable	Martes de la Quinta Semana de Pascua
+2026-05-06	EasterWeekday5Wednesday	weekday	white		EASTER	1	A/II		movable	Miércoles de la Quinta Semana de Pascua
+2026-05-07	EasterWeekday5Thursday	weekday	white		EASTER	1	A/II		movable	Jueves de la Quinta Semana de Pascua
+2026-05-08	EasterWeekday5Friday	weekday	white		EASTER	1	A/II		movable	Viernes de la Quinta Semana de Pascua
+2026-05-09	EasterWeekday5Saturday	weekday	white		EASTER	1	A/II		movable	Sábado de la Quinta Semana de Pascua
+2026-05-09	Easter6_vigil	higher-solemnity	white		EASTER	2	A/II	Easter6	movable	Domingo VI de Pascua Misa de la Víspera
+2026-05-10	Easter6	higher-solemnity	white		EASTER	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo VI de Pascua
+2026-05-11	EasterWeekday6Monday	weekday	white		EASTER	2	A/II		movable	Lunes de la Sexta Semana de Pascua
+2026-05-12	EasterWeekday6Tuesday	weekday	white		EASTER	2	A/II		movable	Martes de la Sexta Semana de Pascua
+2026-05-12	StsNereusAchilleus	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	2	A/II			Santos Nereo y Aquiles , mártires
+2026-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	EASTER	2	A/II			San Pancracio, mártir
+2026-05-13	EasterWeekday6Wednesday	weekday	white		EASTER	2	A/II		movable	Miércoles de la Sexta Semana de Pascua
+2026-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	EASTER	2	A/II			Beata María Virgen de Fátima
+2026-05-13	Ascension_vigil	higher-solemnity	white		EASTER	0	A/II	Ascension	movable,obligation	Ascensión del Señor Misa de la Víspera
+2026-05-14	Ascension	higher-solemnity	white		EASTER	0	A/II		movable,vigil-mass,first-vespers,second-vespers,obligation	Ascensión del Señor
+2026-05-15	EasterWeekday6Friday	weekday	white		EASTER	2	A/II		movable	Viernes de la Sexta Semana de Pascua
+2026-05-16	EasterWeekday6Saturday	weekday	white		EASTER	2	A/II		movable	Sábado de la Sexta Semana de Pascua
+2026-05-16	Easter7_vigil	higher-solemnity	white		EASTER	3	A/II	Easter7	movable	Domingo VII de Pascua Misa de la Víspera
+2026-05-17	Easter7	higher-solemnity	white		EASTER	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo VII de Pascua
+2026-05-18	EasterWeekday7Monday	weekday	white		EASTER	3	A/II		movable	Lunes de la Séptima Semana de Pascua
+2026-05-18	StJohnIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	EASTER	3	A/II			San Juan I, papa y mártir
+2026-05-19	EasterWeekday7Tuesday	weekday	white		EASTER	3	A/II		movable	Martes de la Séptima Semana de Pascua
+2026-05-20	EasterWeekday7Wednesday	weekday	white		EASTER	3	A/II		movable	Miércoles de la Séptima Semana de Pascua
+2026-05-20	StBernardineSiena	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	EASTER	3	A/II			San Bernardino de Siena, presbítero
+2026-05-21	EasterWeekday7Thursday	weekday	white		EASTER	3	A/II		movable	Jueves de la Séptima Semana de Pascua
+2026-05-21	StChristopherMagallanes	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	3	A/II			San Cristóbal Magallanes, presbítero, y sus compañeros, mártires
+2026-05-22	EasterWeekday7Friday	weekday	white		EASTER	3	A/II		movable	Viernes de la Séptima Semana de Pascua
+2026-05-22	StRitaCascia	optional-memorial	white	Holy Men and Women:For Religious	EASTER	3	A/II			Santa Rita de Casia, religiosa
+2026-05-23	EasterWeekday7Saturday	weekday	white		EASTER	3	A/II		movable	Sábado de la Séptima Semana de Pascua
+2026-05-23	Pentecost_vigil	higher-solemnity	red		EASTER	0	A/II	Pentecost	movable	Domingo de Pentecostés Misa de la Víspera
+2026-05-24	Pentecost	higher-solemnity	red		EASTER	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo de Pentecostés
+2026-05-25	MaryMotherChurch	memorial	white	Proper	ORDINARY_TIME	0	A/II		movable	Santa Virgen María, Madre de la Iglesia
+2026-05-26	StPhilipNeri	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Felipe Neri, presbítero
+2026-05-27	OrdWeekday8Wednesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Miércoles de la Octava Semana del Tiempo Ordinario
+2026-05-27	StAugustineCanterbury	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	4	A/II			San Agustín de Canterbury, obispo
+2026-05-28	OrdWeekday8Thursday	weekday	green		ORDINARY_TIME	4	A/II		movable	Jueves de la Octava Semana del Tiempo Ordinario
+2026-05-29	OrdWeekday8Friday	weekday	green		ORDINARY_TIME	4	A/II		movable	Viernes de la Octava Semana del Tiempo Ordinario
+2026-05-29	StPaulVI	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	A/II			San Pablo VI, Papa
+2026-05-30	OrdWeekday8Saturday	weekday	green		ORDINARY_TIME	4	A/II		movable	Sábado de la Octava Semana del Tiempo Ordinario
+2026-05-30	SatMemBVM2	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-05-30	Trinity_vigil	higher-solemnity	white		ORDINARY_TIME	0	A/II	Trinity	movable	Domingo de la Santísima Trinidad Misa de la Víspera
+2026-05-31	Trinity	higher-solemnity	white		ORDINARY_TIME	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo de la Santísima Trinidad
+2026-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	A/II			San Justino, mártir
+2026-06-02	OrdWeekday9Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Novena Semana del Tiempo Ordinario
+2026-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	A/II			San Marcelino y San Pedro, mártires
+2026-06-03	StsCharlesLwanga	memorial	red	Proper	ORDINARY_TIME	0	A/II			San Carlos Lwanga y sus compañeros, mártires
+2026-06-03	CorpusChristi_vigil	higher-solemnity	white		ORDINARY_TIME	0	A/II	CorpusChristi	movable,obligation	Santísimo Cuerpo y Sangre de Cristo Misa de la Víspera
+2026-06-04	CorpusChristi	higher-solemnity	white		ORDINARY_TIME	0	A/II		movable,vigil-mass,first-vespers,second-vespers,obligation	Santísimo Cuerpo y Sangre de Cristo
+2026-06-05	StBoniface	memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	ORDINARY_TIME	0	A/II			San Bonifacio, obispo y mártir
+2026-06-06	OrdWeekday9Saturday	weekday	green		ORDINARY_TIME	1	A/II		movable	Sábado de la Novena Semana del Tiempo Ordinario
+2026-06-06	StNorbert	optional-memorial	white	Pastors:For a Bishop|Holy Men and Women:For Religious	ORDINARY_TIME	1	A/II			San Norberto, obispo
+2026-06-06	SatMemBVM3	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-06-06	OrdSunday10_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday10	movable	Domingo X del Tiempo Ordinario Misa de la Víspera
+2026-06-07	OrdSunday10	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo X del Tiempo Ordinario
+2026-06-08	OrdWeekday10Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Décima Semana del Tiempo Ordinario
+2026-06-09	OrdWeekday10Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Martes de la Décima Semana del Tiempo Ordinario
+2026-06-09	StEphrem	optional-memorial	white	Doctors	ORDINARY_TIME	2	A/II			San Efrén, diácono y Doctor de la Iglesia
+2026-06-10	OrdWeekday10Wednesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Miércoles de la Décima Semana del Tiempo Ordinario
+2026-06-11	StBarnabasAp	memorial	red	Proper	ORDINARY_TIME	0	A/II			San Barnabé, apóstol
+2026-06-11	SacredHeart_vigil	solemnity	white		ORDINARY_TIME	0	A/II	SacredHeart	movable	Santísimo Corazón de Jesús Misa de la Víspera
+2026-06-12	SacredHeart	solemnity	white		ORDINARY_TIME	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Santísimo Corazón de Jesús
+2026-06-13	ImmaculateHeart	optional-memorial	white		ORDINARY_TIME	0	A/II		movable	Inmaculado Corazón de María
+2026-06-13	StAnthonyPadua	optional-memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	0	A/II			San Antonio de Padua, presbítero y Doctor de la Iglesia
+2026-06-13	OrdSunday11_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	A/II	OrdSunday11	movable	Domingo XI del Tiempo Ordinario Misa de la Víspera
+2026-06-14	OrdSunday11	feast-of-the-lord	green		ORDINARY_TIME	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XI del Tiempo Ordinario
+2026-06-15	OrdWeekday11Monday	weekday	green		ORDINARY_TIME	3	A/II		movable	Lunes de la Decimoprimera Semana del Tiempo Ordinario
+2026-06-16	OrdWeekday11Tuesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Martes de la Decimoprimera Semana del Tiempo Ordinario
+2026-06-17	OrdWeekday11Wednesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Miércoles de la Decimoprimera Semana del Tiempo Ordinario
+2026-06-18	OrdWeekday11Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Decimoprimera Semana del Tiempo Ordinario
+2026-06-19	OrdWeekday11Friday	weekday	green		ORDINARY_TIME	3	A/II		movable	Viernes de la Decimoprimera Semana del Tiempo Ordinario
+2026-06-19	StRomuald	optional-memorial	white	Holy Men and Women:For an Abbot	ORDINARY_TIME	3	A/II			San Romualdo, abad
+2026-06-20	OrdWeekday11Saturday	weekday	green		ORDINARY_TIME	3	A/II		movable	Sábado de la Decimoprimera Semana del Tiempo Ordinario
+2026-06-20	SatMemBVM4	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-06-20	OrdSunday12_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	A/II	OrdSunday12	movable	Domingo XII del Tiempo Ordinario Misa de la Víspera
+2026-06-21	OrdSunday12	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XII del Tiempo Ordinario
+2026-06-22	OrdWeekday12Monday	weekday	green		ORDINARY_TIME	4	A/II		movable	Lunes de la Decimosegunda Semana del Tiempo Ordinario
+2026-06-22	StPaulinusNola	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	4	A/II			San Pablo de Nola, obispo
+2026-06-22	StsJohnFisherThomasMore	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	4	A/II			San Juan Fisher, obispo y Tomás Moro, mártires
+2026-06-23	OrdWeekday12Tuesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Martes de la Decimosegunda Semana del Tiempo Ordinario
+2026-06-23	NativityJohnBaptist_vigil	solemnity	white	Proper	ORDINARY_TIME	0	A/II	NativityJohnBaptist		En la Natividad de San Juan Bautista Misa de la Víspera
+2026-06-24	NativityJohnBaptist	solemnity	white	Proper	ORDINARY_TIME	0	A/II		vigil-mass,first-vespers,second-vespers	En la Natividad de San Juan Bautista
+2026-06-25	OrdWeekday12Thursday	weekday	green		ORDINARY_TIME	4	A/II		movable	Jueves de la Decimosegunda Semana del Tiempo Ordinario
+2026-06-26	OrdWeekday12Friday	weekday	green		ORDINARY_TIME	4	A/II		movable	Viernes de la Decimosegunda Semana del Tiempo Ordinario
+2026-06-27	OrdWeekday12Saturday	weekday	green		ORDINARY_TIME	4	A/II		movable	Sábado de la Decimosegunda Semana del Tiempo Ordinario
+2026-06-27	StCyrilAlexandria	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	A/II			San Cirilo de Alejandría, obispo y Doctor de la Iglesia
+2026-06-27	SatMemBVM5	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-06-27	OrdSunday13_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday13	movable	Domingo XIII del Tiempo Ordinario Misa de la Víspera
+2026-06-28	OrdSunday13	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XIII del Tiempo Ordinario
+2026-06-28	StsPeterPaulAp_vigil	solemnity	red	Proper	ORDINARY_TIME	0	A/II	StsPeterPaulAp	obligation	San Pedro y San Pablo, Apóstoles Misa de la Víspera
+2026-06-29	StsPeterPaulAp	solemnity	red	Proper	ORDINARY_TIME	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	San Pedro y San Pablo, Apóstoles
+2026-06-30	OrdWeekday13Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Decimotercera Semana del Tiempo Ordinario
+2026-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	A/II			Proto-mártires de la Santa Iglesia Romana
+2026-07-01	OrdWeekday13Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Miércoles de la Decimotercera Semana del Tiempo Ordinario
+2026-07-02	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Decimotercera Semana del Tiempo Ordinario
+2026-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	A/II			San Tomás Apóstol
+2026-07-04	OrdWeekday13Saturday	weekday	green		ORDINARY_TIME	1	A/II		movable	Sábado de la Decimotercera Semana del Tiempo Ordinario
+2026-07-04	StElizabethPortugal	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	A/II			Santa Isabel de Portugal
+2026-07-04	SatMemBVM6	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-07-04	OrdSunday14_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday14	movable	Domingo XIV del Tiempo Ordinario Misa de la Víspera
+2026-07-05	OrdSunday14	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XIV del Tiempo Ordinario
+2026-07-06	OrdWeekday14Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Decimocuarta Semana del Tiempo Ordinario
+2026-07-06	StMariaGoretti	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	A/II			Santa María Goretti, virgen y mártir
+2026-07-07	OrdWeekday14Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Martes de la Decimocuarta Semana del Tiempo Ordinario
+2026-07-08	OrdWeekday14Wednesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Miércoles de la Decimocuarta Semana del Tiempo Ordinario
+2026-07-09	OrdWeekday14Thursday	weekday	green		ORDINARY_TIME	2	A/II		movable	Jueves de la Decimocuarta Semana del Tiempo Ordinario
+2026-07-09	StAugustineZhaoRong	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	A/II			San Agustín Zhao Rong, presbítero y sus compañeros, mártires
+2026-07-10	OrdWeekday14Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Viernes de la Decimocuarta Semana del Tiempo Ordinario
+2026-07-11	StBenedict	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Benito, abad
+2026-07-11	OrdSunday15_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	A/II	OrdSunday15	movable	Domingo XV del Tiempo Ordinario Misa de la Víspera
+2026-07-12	OrdSunday15	feast-of-the-lord	green		ORDINARY_TIME	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XV del Tiempo Ordinario
+2026-07-13	OrdWeekday15Monday	weekday	green		ORDINARY_TIME	3	A/II		movable	Lunes de la Decimoquinta Semana del Tiempo Ordinario
+2026-07-13	StHenry	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	3	A/II			San Enrique
+2026-07-14	OrdWeekday15Tuesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Martes de la Decimoquinta Semana del Tiempo Ordinario
+2026-07-14	StCamillusDeLellis	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	A/II			San Camilo de Lellis, presbítero
+2026-07-15	StBonaventure	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	A/II			San Bonaventura, obispo y Doctor de la Iglesia
+2026-07-16	OrdWeekday15Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Decimoquinta Semana del Tiempo Ordinario
+2026-07-16	OurLadyOfMountCarmel	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	A/II			Bienaventurada Virgen María del Monte Carmelo
+2026-07-17	OrdWeekday15Friday	weekday	green		ORDINARY_TIME	3	A/II		movable	Viernes de la Decimoquinta Semana del Tiempo Ordinario
+2026-07-18	OrdWeekday15Saturday	weekday	green		ORDINARY_TIME	3	A/II		movable	Sábado de la Decimoquinta Semana del Tiempo Ordinario
+2026-07-18	SatMemBVM7	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-07-18	OrdSunday16_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	A/II	OrdSunday16	movable	Domingo XVI del Tiempo Ordinario Misa de la Víspera
+2026-07-19	OrdSunday16	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XVI del Tiempo Ordinario
+2026-07-20	OrdWeekday16Monday	weekday	green		ORDINARY_TIME	4	A/II		movable	Lunes de la Decimosexta Semana del Tiempo Ordinario
+2026-07-20	StApollinaris	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	A/II			San Apolinario, obispo y mártir
+2026-07-21	OrdWeekday16Tuesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Martes de la Decimosexta Semana del Tiempo Ordinario
+2026-07-21	StLawrenceBrindisi	optional-memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	4	A/II			San Lorenzo de Brindisi, presbítero y Doctor de la Iglesia
+2026-07-22	StMaryMagdalene	feast	white	Proper	ORDINARY_TIME	0	A/II			Santa María Magdalena
+2026-07-23	OrdWeekday16Thursday	weekday	green		ORDINARY_TIME	4	A/II		movable	Jueves de la Decimosexta Semana del Tiempo Ordinario
+2026-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	A/II			Santa Brígida, religiosa
+2026-07-24	OrdWeekday16Friday	weekday	green		ORDINARY_TIME	4	A/II		movable	Viernes de la Decimosexta Semana del Tiempo Ordinario
+2026-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	A/II			San Charbel Makhlouf, presbítero
+2026-07-25	StJamesAp	feast	red	Proper	ORDINARY_TIME	0	A/II			San Jacobo, Apóstol
+2026-07-25	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday17	movable	Domingo XVII del Tiempo Ordinario Misa de la Víspera
+2026-07-26	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XVII del Tiempo Ordinario
+2026-07-27	OrdWeekday17Monday	weekday	green		ORDINARY_TIME	1	A/II		movable	Lunes de la Decimoséptima Semana del Tiempo Ordinario
+2026-07-28	OrdWeekday17Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Decimoséptima Semana del Tiempo Ordinario
+2026-07-29	StMartha	memorial	white	Proper	ORDINARY_TIME	0	A/II			Santa Marta, María y Lázaro
+2026-07-30	OrdWeekday17Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Decimoséptima Semana del Tiempo Ordinario
+2026-07-30	StPeterChrysologus	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	A/II			San Pedro Crisólogo, obispo y Doctor de la Iglesia
+2026-07-31	StIgnatiusLoyola	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Ignacio de Loyola, presbítero
+2026-08-01	StAlphonsusMariaDeLiguori	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	A/II			San Alfonso María de Liguori, obispo y Doctor de la Iglesia
+2026-08-01	OrdSunday18_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday18	movable	Domingo XVIII del Tiempo Ordinario Misa de la Víspera
+2026-08-02	OrdSunday18	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XVIII del Tiempo Ordinario
+2026-08-03	OrdWeekday18Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Decimoctava Semana del Tiempo Ordinario
+2026-08-04	StJeanVianney	memorial	white	Pastors:For One Pastor	ORDINARY_TIME	0	A/II			San Juan María Vianney, presbítero
+2026-08-05	OrdWeekday18Wednesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Miércoles de la Decimoctava Semana del Tiempo Ordinario
+2026-08-05	DedicationStMaryMajor	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	A/II			En la dedicación de la Basílica de Santa María
+2026-08-06	Transfiguration	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	A/II			En la Transfiguración del Señor
+2026-08-07	OrdWeekday18Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Viernes de la Decimoctava Semana del Tiempo Ordinario
+2026-08-07	StSixtusIIPope	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	A/II			San Sixto II, papa y compañeros, mártires
+2026-08-07	StCajetan	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	2	A/II			San Cayetano, presbítero
+2026-08-08	StDominic	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Domingo, presbítero
+2026-08-08	OrdSunday19_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	A/II	OrdSunday19	movable	Domingo XIX del Tiempo Ordinario Misa de la Víspera
+2026-08-09	OrdSunday19	feast-of-the-lord	green		ORDINARY_TIME	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XIX del Tiempo Ordinario
+2026-08-10	StLawrenceDeacon	feast	white,red	Proper	ORDINARY_TIME	0	A/II			San Lorenzo, díacono y mártir
+2026-08-11	StClare	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	A/II			Santa Clara, virgen
+2026-08-12	OrdWeekday19Wednesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Miércoles de la Decimonovena Semana del Tiempo Ordinario
+2026-08-12	StJaneFrancesDeChantal	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	A/II			Santa Juana de Chantal, religiosa
+2026-08-13	OrdWeekday19Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Decimonovena Semana del Tiempo Ordinario
+2026-08-13	StsPontianHippolytus	optional-memorial	white,red	Martyrs:For Several Martyrs|Pastors:For Several Pastors	ORDINARY_TIME	3	A/II			San Pontiano, papa y Hipólito, presbítero, mártires
+2026-08-14	StMaximilianKolbe	memorial	white,red	Proper	ORDINARY_TIME	0	A/II			San Maximiliano María Kolbe, presbítero y mártir
+2026-08-14	Assumption_vigil	solemnity	white	Proper	ORDINARY_TIME	0	A/II	Assumption	obligation	En la Asunción de la Bienaventurada Virgen María Misa de la Víspera
+2026-08-15	Assumption	solemnity	white	Proper	ORDINARY_TIME	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	En la Asunción de la Bienaventurada Virgen María
+2026-08-16	OrdSunday20	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,second-vespers	Domingo XX del Tiempo Ordinario
+2026-08-17	OrdWeekday20Monday	weekday	green		ORDINARY_TIME	4	A/II		movable	Lunes de la Vigésima Semana del Tiempo Ordinario
+2026-08-18	OrdWeekday20Tuesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Martes de la Vigésima Semana del Tiempo Ordinario
+2026-08-19	OrdWeekday20Wednesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Miércoles de la Vigésima Semana del Tiempo Ordinario
+2026-08-19	StJohnEudes	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	4	A/II			San Juan Eudes, presbítero
+2026-08-20	StBernardClairvaux	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Bernardo de Clairvaux, abad y Doctor de la Iglesia
+2026-08-21	StPiusX	memorial	white	Pastors:For a Pope	ORDINARY_TIME	0	A/II			San Pío X, papa
+2026-08-22	QueenshipMary	memorial	white	Proper	ORDINARY_TIME	0	A/II			Beata María Virgen Reina
+2026-08-22	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday21	movable	Domingo XXI del Tiempo Ordinario Misa de la Víspera
+2026-08-23	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXI del Tiempo Ordinario
+2026-08-24	StBartholomewAp	feast	red	Proper	ORDINARY_TIME	0	A/II			San Bartolomé, Apóstol
+2026-08-25	OrdWeekday21Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Vigésima primera Semana del Tiempo Ordinario
+2026-08-25	StLouis	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	1	A/II			San Luis
+2026-08-25	StJosephCalasanz	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	1	A/II			San José de Calasanz, presbítero
+2026-08-26	OrdWeekday21Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Miércoles de la Vigésima primera Semana del Tiempo Ordinario
+2026-08-27	StMonica	memorial	white	Holy Men and Women:For Holy Women	ORDINARY_TIME	0	A/II			Santa Mónica
+2026-08-28	StAugustineHippo	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Agustín, obispo y Doctor de la Iglesia
+2026-08-29	BeheadingJohnBaptist	memorial	red	Proper	ORDINARY_TIME	0	A/II			En la Pasión de San Juan Bautista
+2026-08-29	OrdSunday22_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday22	movable	Domingo XXII del Tiempo Ordinario Misa de la Víspera
+2026-08-30	OrdSunday22	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXII del Tiempo Ordinario
+2026-08-31	OrdWeekday22Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Vigésima segunda Semana del Tiempo Ordinario
+2026-09-01	OrdWeekday22Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Martes de la Vigésima segunda Semana del Tiempo Ordinario
+2026-09-02	OrdWeekday22Wednesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Miércoles de la Vigésima segunda Semana del Tiempo Ordinario
+2026-09-03	StGregoryGreat	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Gregorio Magno, papa y Doctor de la Iglesia
+2026-09-04	OrdWeekday22Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Viernes de la Vigésima segunda Semana del Tiempo Ordinario
+2026-09-05	OrdWeekday22Saturday	weekday	green		ORDINARY_TIME	2	A/II		movable	Sábado de la Vigésima segunda Semana del Tiempo Ordinario
+2026-09-05	StMotherTeresa	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	2	A/II			Santa Teresa de Calcuta, Virgen
+2026-09-05	SatMemBVM8	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-09-05	OrdSunday23_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	A/II	OrdSunday23	movable	Domingo XXIII del Tiempo Ordinario Misa de la Víspera
+2026-09-06	OrdSunday23	feast-of-the-lord	green		ORDINARY_TIME	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIII del Tiempo Ordinario
+2026-09-07	OrdWeekday23Monday	weekday	green		ORDINARY_TIME	3	A/II		movable	Lunes de la Vigésima tercera Semana del Tiempo Ordinario
+2026-09-08	NativityVirginMary	feast	white	Proper	ORDINARY_TIME	0	A/II			En la Natividad de la Bienaventurada Virgen María
+2026-09-09	OrdWeekday23Wednesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Miércoles de la Vigésima tercera Semana del Tiempo Ordinario
+2026-09-09	StPeterClaver	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	A/II			San Pedro Claver, presbítero
+2026-09-10	OrdWeekday23Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Vigésima tercera Semana del Tiempo Ordinario
+2026-09-11	OrdWeekday23Friday	weekday	green		ORDINARY_TIME	3	A/II		movable	Viernes de la Vigésima tercera Semana del Tiempo Ordinario
+2026-09-12	OrdWeekday23Saturday	weekday	green		ORDINARY_TIME	3	A/II		movable	Sábado de la Vigésima tercera Semana del Tiempo Ordinario
+2026-09-12	HolyNameMary	optional-memorial	white	Proper	ORDINARY_TIME	3	A/II			Santísimo Nombre de María
+2026-09-12	SatMemBVM9	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-09-12	OrdSunday24_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	A/II	OrdSunday24	movable	Domingo XXIV del Tiempo Ordinario Misa de la Víspera
+2026-09-13	OrdSunday24	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIV del Tiempo Ordinario
+2026-09-14	ExaltationCross	feast-of-the-lord	red	Proper	ORDINARY_TIME	0	A/II			En la Exaltación de la Santa Cruz
+2026-09-15	OurLadyOfSorrows	memorial	white	Proper	ORDINARY_TIME	0	A/II			Nuestra Señora de los Dolores
+2026-09-16	StsCorneliusCyprian	memorial	white,red	Martyrs:For Several Martyrs|Pastors:For a Bishop	ORDINARY_TIME	0	A/II			Santos Cornelio y Cipriano, papas y obispos, mártires
+2026-09-17	OrdWeekday24Thursday	weekday	green		ORDINARY_TIME	4	A/II		movable	Jueves de la Vigésima cuarta Semana del Tiempo Ordinario
+2026-09-17	StRobertBellarmine	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	A/II			San Roberto Belarmino, obispo y Doctor de la Iglesia
+2026-09-17	StHildegardBingen	optional-memorial	white	Virgins:For One Virgin|Doctors	ORDINARY_TIME	4	A/II			Santa Hildegarda de Bingen, Virgen y Doctora de la Iglesia
+2026-09-18	OrdWeekday24Friday	weekday	green		ORDINARY_TIME	4	A/II		movable	Viernes de la Vigésima cuarta Semana del Tiempo Ordinario
+2026-09-19	OrdWeekday24Saturday	weekday	green		ORDINARY_TIME	4	A/II		movable	Sábado de la Vigésima cuarta Semana del Tiempo Ordinario
+2026-09-19	StJanuarius	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	A/II			San Januario, obispo y mártir
+2026-09-19	SatMemBVM10	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-09-19	OrdSunday25_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday25	movable	Domingo XXV del Tiempo Ordinario Misa de la Víspera
+2026-09-20	OrdSunday25	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXV del Tiempo Ordinario
+2026-09-21	StMatthewEvangelist	feast	red	Proper	ORDINARY_TIME	0	A/II			San Mateo, apóstol y evangelista
+2026-09-22	OrdWeekday25Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Vigésima quinta Semana del Tiempo Ordinario
+2026-09-23	StPioPietrelcina	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	0	A/II			San Pío de Pietrelcina, presbítero
+2026-09-24	OrdWeekday25Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Vigésima quinta Semana del Tiempo Ordinario
+2026-09-25	OrdWeekday25Friday	weekday	green		ORDINARY_TIME	1	A/II		movable	Viernes de la Vigésima quinta Semana del Tiempo Ordinario
+2026-09-26	OrdWeekday25Saturday	weekday	green		ORDINARY_TIME	1	A/II		movable	Sábado de la Vigésima quinta Semana del Tiempo Ordinario
+2026-09-26	StsCosmasDamian	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	A/II			San Cosme y San Damián, mártires
+2026-09-26	SatMemBVM11	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-09-26	OrdSunday26_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday26	movable	Domingo XXVI del Tiempo Ordinario Misa de la Víspera
+2026-09-27	OrdSunday26	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVI del Tiempo Ordinario
+2026-09-28	OrdWeekday26Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Vigésima sexta Semana del Tiempo Ordinario
+2026-09-28	StWenceslaus	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	A/II			San Venceslao, mártir
+2026-09-28	StsLawrenceRuiz	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	A/II			San Lorenzo Ruiz y sus compañeros, mártires
+2026-09-29	StsArchangels	feast	white	Proper	ORDINARY_TIME	0	A/II			San Miguel, Gabriel y Rafael, arcángeles
+2026-09-30	StJerome	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Jerónimo, presbítero y Doctor de la Iglesia
+2026-10-01	StThereseChildJesus	memorial	white	Proper	ORDINARY_TIME	0	A/II			Santa Teresa del Niño Jesús, Virgen y Doctora de la Iglesia
+2026-10-02	GuardianAngels	memorial	white	Proper	ORDINARY_TIME	0	A/II			Ángeles custodios
+2026-10-03	OrdWeekday26Saturday	weekday	green		ORDINARY_TIME	2	A/II		movable	Sábado de la Vigésima sexta Semana del Tiempo Ordinario
+2026-10-03	SatMemBVM12	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-10-03	OrdSunday27_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	A/II	OrdSunday27	movable	Domingo XXVII del Tiempo Ordinario Misa de la Víspera
+2026-10-04	OrdSunday27	feast-of-the-lord	green		ORDINARY_TIME	3	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVII del Tiempo Ordinario
+2026-10-05	OrdWeekday27Monday	weekday	green		ORDINARY_TIME	3	A/II		movable	Lunes de la Vigésima séptima Semana del Tiempo Ordinario
+2026-10-05	StFaustinaKowalska	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	A/II			Santa Faustina Kowalska
+2026-10-06	OrdWeekday27Tuesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Martes de la Vigésima séptima Semana del Tiempo Ordinario
+2026-10-06	StBruno	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	3	A/II			San Bruno, presbítero
+2026-10-07	OurLadyOfTheRosary	memorial	white	Proper	ORDINARY_TIME	0	A/II			Nuestra Señora del Rosario
+2026-10-08	OrdWeekday27Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Vigésima séptima Semana del Tiempo Ordinario
+2026-10-09	OrdWeekday27Friday	weekday	green		ORDINARY_TIME	3	A/II		movable	Viernes de la Vigésima séptima Semana del Tiempo Ordinario
+2026-10-09	StDenis	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	3	A/II			Santos Dionisio, obispo y sus compañeros, mártires
+2026-10-09	StJohnLeonardi	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	A/II			San Juan Leonardi, presbítero
+2026-10-09	StJohnNewman	optional-memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	3	A/II			San Juan Enrique Newman, Presbítero y Doctor de la Iglesia
+2026-10-10	OrdWeekday27Saturday	weekday	green		ORDINARY_TIME	3	A/II		movable	Sábado de la Vigésima séptima Semana del Tiempo Ordinario
+2026-10-10	SatMemBVM13	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-10-10	OrdSunday28_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	A/II	OrdSunday28	movable	Domingo XXVIII del Tiempo Ordinario Misa de la Víspera
+2026-10-11	OrdSunday28	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXVIII del Tiempo Ordinario
+2026-10-12	OrdWeekday28Monday	weekday	green		ORDINARY_TIME	4	A/II		movable	Lunes de la Vigésima octava Semana del Tiempo Ordinario
+2026-10-13	OrdWeekday28Tuesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Martes de la Vigésima octava Semana del Tiempo Ordinario
+2026-10-14	OrdWeekday28Wednesday	weekday	green		ORDINARY_TIME	4	A/II		movable	Miércoles de la Vigésima octava Semana del Tiempo Ordinario
+2026-10-14	StCallistusIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	4	A/II			San Calisto I, papa y mártir
+2026-10-15	StTeresaJesus	memorial	white	Proper	ORDINARY_TIME	0	A/II			Santa Teresa de Ávila, virgen
+2026-10-16	OrdWeekday28Friday	weekday	green		ORDINARY_TIME	4	A/II		movable	Viernes de la Vigésima octava Semana del Tiempo Ordinario
+2026-10-16	StHedwig	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	A/II			Santa Hedvigis, religiosa
+2026-10-16	StMargaretAlacoque	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	4	A/II			Santa Margarita María de Alacoque, virgen
+2026-10-17	StIgnatiusAntioch	memorial	white,red	Proper	ORDINARY_TIME	0	A/II			San Ignacio de Antioquía, obispo y mártir
+2026-10-17	OrdSunday29_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday29	movable	Domingo XXIX del Tiempo Ordinario Misa de la Víspera
+2026-10-18	OrdSunday29	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXIX del Tiempo Ordinario
+2026-10-19	OrdWeekday29Monday	weekday	green		ORDINARY_TIME	1	A/II		movable	Lunes de la Vigésima novena Semana del Tiempo Ordinario
+2026-10-19	StsJeanBrebeuf	optional-memorial	red	Martyrs:For Missionary Martyrs	ORDINARY_TIME	1	A/II			San Juan de Brébeuf e Isaac Jogues, presbíteros y compañeros, mártires
+2026-10-19	StPaulCross	optional-memorial	white	Proper	ORDINARY_TIME	1	A/II			San Pablo de la Cruz, presbítero
+2026-10-20	OrdWeekday29Tuesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Martes de la Vigésima novena Semana del Tiempo Ordinario
+2026-10-21	OrdWeekday29Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Miércoles de la Vigésima novena Semana del Tiempo Ordinario
+2026-10-22	OrdWeekday29Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Vigésima novena Semana del Tiempo Ordinario
+2026-10-22	StJohnPaulII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	1	A/II			San Juan Pablo II, Papa
+2026-10-23	OrdWeekday29Friday	weekday	green		ORDINARY_TIME	1	A/II		movable	Viernes de la Vigésima novena Semana del Tiempo Ordinario
+2026-10-23	StJohnCapistrano	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	ORDINARY_TIME	1	A/II			San Juan de Capistrano, presbítero
+2026-10-24	OrdWeekday29Saturday	weekday	green		ORDINARY_TIME	1	A/II		movable	Sábado de la Vigésima novena Semana del Tiempo Ordinario
+2026-10-24	StAnthonyMaryClaret	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	1	A/II			San Antonio María Claret, obispo
+2026-10-24	SatMemBVM14	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-10-24	OrdSunday30_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	A/II	OrdSunday30	movable	Domingo XXX del Tiempo Ordinario Misa de la Víspera
+2026-10-25	OrdSunday30	feast-of-the-lord	green		ORDINARY_TIME	2	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXX del Tiempo Ordinario
+2026-10-26	OrdWeekday30Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Trigésima Semana del Tiempo Ordinario
+2026-10-27	OrdWeekday30Tuesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Martes de la Trigésima Semana del Tiempo Ordinario
+2026-10-28	StSimonStJudeAp	feast	red	Proper	ORDINARY_TIME	0	A/II			San Simón y Judas, apóstoles
+2026-10-29	OrdWeekday30Thursday	weekday	green		ORDINARY_TIME	2	A/II		movable	Jueves de la Trigésima Semana del Tiempo Ordinario
+2026-10-30	OrdWeekday30Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Viernes de la Trigésima Semana del Tiempo Ordinario
+2026-10-31	OrdWeekday30Saturday	weekday	green		ORDINARY_TIME	2	A/II		movable	Sábado de la Trigésima Semana del Tiempo Ordinario
+2026-10-31	SatMemBVM15	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	A/II	AllSaints	obligation	Todos los Santos Misa de la Víspera
+2026-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	A/II		vigil-mass,first-vespers,second-vespers,obligation	Todos los Santos
+2026-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	A/II			Conmemoración de Todos los Fieles Difuntos
+2026-11-03	OrdWeekday31Tuesday	weekday	green		ORDINARY_TIME	3	A/II		movable	Martes de la Trigésima primera Semana del Tiempo Ordinario
+2026-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	A/II			San Martín de Porres, religioso
+2026-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	A/II			San Carlos Borromeo, obispo
+2026-11-05	OrdWeekday31Thursday	weekday	green		ORDINARY_TIME	3	A/II		movable	Jueves de la Trigésima primera Semana del Tiempo Ordinario
+2026-11-06	OrdWeekday31Friday	weekday	green		ORDINARY_TIME	3	A/II		movable	Viernes de la Trigésima primera Semana del Tiempo Ordinario
+2026-11-07	OrdWeekday31Saturday	weekday	green		ORDINARY_TIME	3	A/II		movable	Sábado de la Trigésima primera Semana del Tiempo Ordinario
+2026-11-07	SatMemBVM16	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-11-07	OrdSunday32_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	A/II	OrdSunday32	movable	Domingo XXXII del Tiempo Ordinario Misa de la Víspera
+2026-11-08	OrdSunday32	feast-of-the-lord	green		ORDINARY_TIME	4	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXII del Tiempo Ordinario
+2026-11-09	DedicationLateran	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	A/II			En la Dedicación de la Basílica Lateranense
+2026-11-10	StLeoGreat	memorial	white	Proper	ORDINARY_TIME	0	A/II			San León Magno, papa y Doctor de la Iglesia
+2026-11-11	StMartinTours	memorial	white	Proper	ORDINARY_TIME	0	A/II			San Martín de Tours, obispo
+2026-11-12	StJosaphat	memorial	white,red	Proper	ORDINARY_TIME	0	A/II			San Josafat, obispo y mártir
+2026-11-13	OrdWeekday32Friday	weekday	green		ORDINARY_TIME	4	A/II		movable	Viernes de la Trigésima segunda Semana del Tiempo Ordinario
+2026-11-14	OrdWeekday32Saturday	weekday	green		ORDINARY_TIME	4	A/II		movable	Sábado de la Trigésima segunda Semana del Tiempo Ordinario
+2026-11-14	SatMemBVM17	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-11-14	OrdSunday33_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	A/II	OrdSunday33	movable	Domingo XXXIII del Tiempo Ordinario Misa de la Víspera
+2026-11-15	OrdSunday33	feast-of-the-lord	green		ORDINARY_TIME	1	A/II		movable,vigil-mass,first-vespers,second-vespers	Domingo XXXIII del Tiempo Ordinario
+2026-11-16	OrdWeekday33Monday	weekday	green		ORDINARY_TIME	1	A/II		movable	Lunes de la Trigésima tercera Semana del Tiempo Ordinario
+2026-11-16	StMargaretScotland	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	A/II			Santa Margarita de Escocia
+2026-11-16	StGertrudeGreat	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	1	A/II			Santa Gertrudis, virgen
+2026-11-17	StElizabethHungary	memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	0	A/II			Santa Isabel de Hungría
+2026-11-18	OrdWeekday33Wednesday	weekday	green		ORDINARY_TIME	1	A/II		movable	Miércoles de la Trigésima tercera Semana del Tiempo Ordinario
+2026-11-18	DedicationStsPeterPaul	optional-memorial	white	Proper	ORDINARY_TIME	1	A/II			En la dedicación de las basílicas de San Pedro y San Pablo, apóstoles.
+2026-11-19	OrdWeekday33Thursday	weekday	green		ORDINARY_TIME	1	A/II		movable	Jueves de la Trigésima tercera Semana del Tiempo Ordinario
+2026-11-20	OrdWeekday33Friday	weekday	green		ORDINARY_TIME	1	A/II		movable	Viernes de la Trigésima tercera Semana del Tiempo Ordinario
+2026-11-21	PresentationMary	memorial	white	Proper	ORDINARY_TIME	0	A/II			En la Presentación de la Bienaventurada Virgen María.
+2026-11-21	ChristKing_vigil	solemnity	white		ORDINARY_TIME	0	A/II	ChristKing	movable	Señor Jesucristo, Rey del Universo Misa de la Víspera
+2026-11-22	ChristKing	solemnity	white		ORDINARY_TIME	0	A/II		movable,vigil-mass,first-vespers,second-vespers	Señor Jesucristo, Rey del Universo
+2026-11-23	OrdWeekday34Monday	weekday	green		ORDINARY_TIME	2	A/II		movable	Lunes de la Trigésima cuarta Semana del Tiempo Ordinario
+2026-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	A/II			San Clemente I, papa y mártir.
+2026-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	A/II			San Columbano, abad.
+2026-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	A/II			San Andrés Dung-Lac, presbítero y sus compañeros, mártires
+2026-11-25	OrdWeekday34Wednesday	weekday	green		ORDINARY_TIME	2	A/II		movable	Miércoles de la Trigésima cuarta Semana del Tiempo Ordinario
+2026-11-25	StCatherineAlexandria	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	A/II			Santa Catalina de Alejandría, virgen y mártir
+2026-11-26	OrdWeekday34Thursday	weekday	green		ORDINARY_TIME	2	A/II		movable	Jueves de la Trigésima cuarta Semana del Tiempo Ordinario
+2026-11-27	OrdWeekday34Friday	weekday	green		ORDINARY_TIME	2	A/II		movable	Viernes de la Trigésima cuarta Semana del Tiempo Ordinario
+2026-11-28	OrdWeekday34Saturday	weekday	green		ORDINARY_TIME	2	A/II		movable	Sábado de la Trigésima cuarta Semana del Tiempo Ordinario
+2026-11-28	SatMemBVM18	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	A/II		movable	Memoria del sábado de la Bienaventurada Virgen María
+2026-11-28	Advent1_vigil	higher-solemnity	purple		ADVENT	1	B/I	Advent1	movable	Primer Domingo de Adviento Misa de la Víspera
+2026-11-29	Advent1	higher-solemnity	purple		ADVENT	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Primer Domingo de Adviento
+2026-11-30	StAndrewAp	feast	red	Proper	ADVENT	0	B/I			San Andrés, apóstol.
+2026-12-01	AdventWeekday1Tuesday	weekday	purple		ADVENT	1	B/I		movable	Martes de la Primera Semana de Adviento
+2026-12-02	AdventWeekday1Wednesday	weekday	purple		ADVENT	1	B/I		movable	Miércoles de la Primera Semana de Adviento
+2026-12-03	StFrancisXavier	memorial	white	Proper	ADVENT	1	B/I			San Francisco Javier, presbítero.
+2026-12-04	AdventWeekday1Friday	weekday	purple		ADVENT	1	B/I		movable	Viernes de la Primera Semana de Adviento
+2026-12-04	StJohnDamascene	optional-memorial	white	Pastors:For One Pastor|Doctors	ADVENT	1	B/I			San Juan de Damasco, presbítero y Doctor de la Iglesia.
+2026-12-05	AdventWeekday1Saturday	weekday	purple		ADVENT	1	B/I		movable	Sábado de la Primera Semana de Adviento
+2026-12-05	Advent2_vigil	higher-solemnity	purple		ADVENT	2	B/I	Advent2	movable	Segundo Domingo de Adviento Misa de la Víspera
+2026-12-06	Advent2	higher-solemnity	purple		ADVENT	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Segundo Domingo de Adviento
+2026-12-07	StAmbrose	memorial	white	Proper	ADVENT	2	B/I			San Ambrosio, obispo y Doctor de la Iglesia.
+2026-12-07	ImmaculateConception_vigil	solemnity	white	Proper	ADVENT	0	B/I	ImmaculateConception	obligation	En la Inmaculada Concepción de la Bienaventurada Virgen María. Misa de la Víspera
+2026-12-08	ImmaculateConception	solemnity	white	Proper	ADVENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	En la Inmaculada Concepción de la Bienaventurada Virgen María.
+2026-12-09	AdventWeekday2Wednesday	weekday	purple		ADVENT	2	B/I		movable	Miércoles de la Segunda Semana de Adviento
+2026-12-09	JuanDiego	optional-memorial	white	Holy Men and Women:For One Saint	ADVENT	2	B/I			San Juan Diego Cuauhtlatoatzin
+2026-12-10	AdventWeekday2Thursday	weekday	purple		ADVENT	2	B/I		movable	Jueves de la Segunda Semana de Adviento
+2026-12-10	OurLadyOfLoreto	optional-memorial	white	Blessed Virgin Mary	ADVENT	2	B/I			Santa Virgen María de Loreto
+2026-12-11	AdventWeekday2Friday	weekday	purple		ADVENT	2	B/I		movable	Viernes de la Segunda Semana de Adviento
+2026-12-11	StDamasusIPope	optional-memorial	white	Pastors:For a Pope	ADVENT	2	B/I			San Dámaso I, papa.
+2026-12-12	AdventWeekday2Saturday	weekday	purple		ADVENT	2	B/I		movable	Sábado de la Segunda Semana de Adviento
+2026-12-12	OurLadyOfGuadalupe	optional-memorial	white	Blessed Virgin Mary	ADVENT	2	B/I			Bienaventurada Virgen María de Guadalupe
+2026-12-12	Advent3_vigil	higher-solemnity	rose,purple		ADVENT	3	B/I	Advent3	movable	Tercer Domingo de Adviento (Gaudete) Misa de la Víspera
+2026-12-13	Advent3	higher-solemnity	rose,purple		ADVENT	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Tercer Domingo de Adviento (Gaudete)
+2026-12-14	StJohnCross	memorial	white	Proper	ADVENT	3	B/I			San Juan de la Cruz, presbítero y Doctor de la Iglesia.
+2026-12-15	AdventWeekday3Tuesday	weekday	purple		ADVENT	3	B/I		movable	Martes de la Tercera Semana de Adviento
+2026-12-16	AdventWeekday3Wednesday	weekday	purple		ADVENT	3	B/I		movable	Miércoles de la Tercera Semana de Adviento
+2026-12-17	AdventWeekdayDec17	weekday	purple		ADVENT	3	B/I		movable	Jueves de la Tercera Semana de Adviento
+2026-12-18	AdventWeekdayDec18	weekday	purple		ADVENT	3	B/I		movable	Viernes de la Tercera Semana de Adviento
+2026-12-19	AdventWeekdayDec19	weekday	purple		ADVENT	3	B/I		movable	Sábado de la Tercera Semana de Adviento
+2026-12-19	Advent4_vigil	higher-solemnity	purple		ADVENT	4	B/I	Advent4	movable	Cuarto Domingo de Adviento Misa de la Víspera
+2026-12-20	Advent4	higher-solemnity	purple		ADVENT	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Cuarto Domingo de Adviento
+2026-12-21	AdventWeekdayDec21	weekday	purple		ADVENT	4	B/I		movable	Lunes de la Cuarta Semana de Adviento
+2026-12-21	StPeterCanisius	commemoration	white	Pastors:For One Pastor|Doctors	ADVENT	4	B/I			San Pedro Canisio, presbítero y Doctor de la Iglesia.
+2026-12-22	AdventWeekdayDec22	weekday	purple		ADVENT	4	B/I		movable	Martes de la Cuarta Semana de Adviento
+2026-12-23	AdventWeekdayDec23	weekday	purple		ADVENT	4	B/I		movable	Miércoles de la Cuarta Semana de Adviento
+2026-12-23	StJohnKanty	commemoration	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ADVENT	4	B/I			San Juan de Kenty, presbítero.
+2026-12-24	AdventWeekdayDec24	weekday	purple		ADVENT	4	B/I		movable	Jueves de la Cuarta Semana de Adviento
+2026-12-24	Christmas_vigil	higher-solemnity	white		CHRISTMAS	0	B/I	Christmas	obligation	Natividad del Señor Misa de la Víspera
+2026-12-25	Christmas	higher-solemnity	white		CHRISTMAS	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Natividad del Señor
+2026-12-26	StStephenProtomartyr	feast	red	Proper	CHRISTMAS	0	B/I			San Esteban, protomártir
+2026-12-26	HolyFamily_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	HolyFamily	movable	Sagrada Familia de Jesús, María y José Misa de la Víspera
+2026-12-27	HolyFamily	feast-of-the-lord	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Sagrada Familia de Jesús, María y José
+2026-12-28	HolyInnocents	feast	red	Proper	CHRISTMAS	0	B/I			Santos Inocentes, mártires
+2026-12-29	ChristmasWeekdayDec29	weekday	white		CHRISTMAS	0	B/I		movable	Quinto Día de la Octava de Navidad
+2026-12-29	StThomasBecket	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	CHRISTMAS	0	B/I			San Tomás Becket, obispo y mártir
+2026-12-30	ChristmasWeekdayDec30	weekday	white		CHRISTMAS	0	B/I		movable	Sexto Día de la Octava de Navidad
+2026-12-31	ChristmasWeekdayDec31	weekday	white		CHRISTMAS	0	B/I		movable	Séptimo Día de la Octava de Navidad
+2026-12-31	StSylvesterIPope	commemoration	white	Pastors:For a Pope	CHRISTMAS	0	B/I			San Silvestre I, papa

@@ -1,0 +1,185 @@
+[
+  {
+    "action": "rank",
+    "key": "StMaryMagdalene",
+    "rank": 4,
+    "since": 2016
+  },
+  {
+    "action": "create",
+    "key": "MaryMotherChurch",
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "movable": true,
+    "since": 2018,
+    "after": {
+      "key": "Pentecost",
+      "days": 1
+    }
+  },
+  {
+    "action": "rename",
+    "key": "StMartha",
+    "since": 2021
+  },
+  {
+    "action": "create",
+    "key": "StJohnXXIII",
+    "month": 10,
+    "day": 11,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 2014
+  },
+  {
+    "action": "create",
+    "key": "StJohnPaulII",
+    "month": 10,
+    "day": 22,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 2014
+  },
+  {
+    "action": "create",
+    "key": "OurLadyOfLoreto",
+    "month": 12,
+    "day": 10,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Blessed Virgin Mary"
+    ],
+    "since": 2019
+  },
+  {
+    "action": "create",
+    "key": "StPaulVI",
+    "month": 5,
+    "day": 29,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 2019
+  },
+  {
+    "action": "create",
+    "key": "StFaustinaKowalska",
+    "month": 10,
+    "day": 5,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 2020
+  },
+  {
+    "action": "create",
+    "key": "StGregoryNarek",
+    "month": 2,
+    "day": 27,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For an Abbot",
+      "Doctors"
+    ],
+    "since": 2021
+  },
+  {
+    "action": "create",
+    "key": "StJohnAvila",
+    "month": 5,
+    "day": 10,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors"
+    ],
+    "since": 2021
+  },
+  {
+    "action": "create",
+    "key": "StHildegardBingen",
+    "month": 9,
+    "day": 17,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Doctors"
+    ],
+    "since": 2021
+  },
+  {
+    "action": "rename",
+    "key": "StThereseChildJesus",
+    "since": 1998
+  },
+  {
+    "action": "rename",
+    "key": "StIrenaeus",
+    "since": 2022
+  },
+  {
+    "action": "create",
+    "key": "StMotherTeresa",
+    "month": 9,
+    "day": 5,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 2025
+  },
+  {
+    "action": "create",
+    "key": "StJohnNewman",
+    "month": 10,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors"
+    ],
+    "since": 2026
+  }
+]

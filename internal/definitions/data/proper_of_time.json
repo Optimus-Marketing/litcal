@@ -1,0 +1,615 @@
+[
+  {
+    "key": "Advent1",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Advent2",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Advent3",
+    "rank": 7,
+    "colors": [
+      "rose",
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Advent4",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Christmas",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "holyDayOfObligation": true
+  },
+  {
+    "key": "HolyFamily",
+    "rank": 5,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "MaryMotherOfGod",
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "holyDayOfObligation": true
+  },
+  {
+    "key": "Christmas2",
+    "rank": 5,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Epiphany",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true,
+    "holyDayOfObligation": true
+  },
+  {
+    "key": "BaptismLord",
+    "rank": 5,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday2",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday3",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday4",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday5",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday6",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday7",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday8",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday9",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday10",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday11",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday12",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday13",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday14",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday15",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday16",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday17",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday18",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday19",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday20",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday21",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday22",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday23",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday24",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday25",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday26",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday27",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday28",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday29",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday30",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday31",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday32",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "OrdSunday33",
+    "rank": 5,
+    "colors": [
+      "green"
+    ],
+    "movable": true
+  },
+  {
+    "key": "AshWednesday",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Lent1",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Lent2",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Lent3",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Lent4",
+    "rank": 7,
+    "colors": [
+      "rose",
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Lent5",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "PalmSun",
+    "rank": 7,
+    "colors": [
+      "red"
+    ],
+    "movable": true
+  },
+  {
+    "key": "MonHolyWeek",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "TueHolyWeek",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "WedHolyWeek",
+    "rank": 7,
+    "colors": [
+      "purple"
+    ],
+    "movable": true
+  },
+  {
+    "key": "HolyThursChrism",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "HolyThurs",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "GoodFri",
+    "rank": 7,
+    "colors": [
+      "red"
+    ],
+    "movable": true
+  },
+  {
+    "key": "EasterVigil",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "MonOctaveEaster",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "TueOctaveEaster",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "WedOctaveEaster",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "ThuOctaveEaster",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "FriOctaveEaster",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "SatOctaveEaster",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter2",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter3",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter4",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter5",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter6",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Easter7",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Ascension",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true,
+    "holyDayOfObligation": true
+  },
+  {
+    "key": "Pentecost",
+    "rank": 7,
+    "colors": [
+      "red"
+    ],
+    "movable": true
+  },
+  {
+    "key": "Trinity",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "CorpusChristi",
+    "rank": 7,
+    "colors": [
+      "white"
+    ],
+    "movable": true,
+    "holyDayOfObligation": true
+  },
+  {
+    "key": "SacredHeart",
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "ImmaculateHeart",
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  },
+  {
+    "key": "ChristKing",
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "movable": true
+  }
+]

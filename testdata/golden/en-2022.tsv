@@ -1,0 +1,550 @@
+# date	key	rank	colors	commons	season	psalter	cycles	vigil for	flags	name
+2021-12-31	MaryMotherOfGod_vigil	solemnity	white		CHRISTMAS	0	C/II	MaryMotherOfGod	obligation	Mary, Mother of God Vigil Mass
+2022-01-01	MaryMotherOfGod	solemnity	white		CHRISTMAS	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	Mary, Mother of God
+2022-01-02	Christmas2	feast-of-the-lord	white		CHRISTMAS	0	C/II		movable,second-vespers	2nd Sunday after Christmas
+2022-01-03	ChristmasWeekdayJan3	weekday	white		CHRISTMAS	0	C/II		movable	Monday - Christmas Weekday
+2022-01-03	NameJesus	optional-memorial	white	Proper	CHRISTMAS	0	C/II			The Most Holy Name of Jesus
+2022-01-04	ChristmasWeekdayJan4	weekday	white		CHRISTMAS	0	C/II		movable	Tuesday - Christmas Weekday
+2022-01-05	ChristmasWeekdayJan5	weekday	white		CHRISTMAS	0	C/II		movable	Wednesday - Christmas Weekday
+2022-01-05	Epiphany_vigil	higher-solemnity	white		CHRISTMAS	0	C/II	Epiphany	movable,obligation	Epiphany Vigil Mass
+2022-01-06	Epiphany	higher-solemnity	white		CHRISTMAS	0	C/II		movable,vigil-mass,first-vespers,second-vespers,obligation	Epiphany
+2022-01-07	DayAfterEpiphanyJan7	weekday	white		CHRISTMAS	0	C/II		movable	Friday - Christmas Weekday
+2022-01-07	StRayPenyafort	optional-memorial	white	Pastors:For One Pastor	CHRISTMAS	0	C/II			Saint Raymond of Penyafort, Priest
+2022-01-08	DayAfterEpiphanyJan8	weekday	white		CHRISTMAS	0	C/II		movable	Saturday - Christmas Weekday
+2022-01-08	BaptismLord_vigil	feast-of-the-lord	white		CHRISTMAS	0	C/II	BaptismLord	movable	Baptism of the Lord Vigil Mass
+2022-01-09	BaptismLord	feast-of-the-lord	white		CHRISTMAS	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Baptism of the Lord
+2022-01-10	OrdWeekday1Monday	weekday	green		ORDINARY_TIME	1	C/II		movable	Monday of the 1st Week of Ordinary Time
+2022-01-11	OrdWeekday1Tuesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Tuesday of the 1st Week of Ordinary Time
+2022-01-12	OrdWeekday1Wednesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Wednesday of the 1st Week of Ordinary Time
+2022-01-13	OrdWeekday1Thursday	weekday	green		ORDINARY_TIME	1	C/II		movable	Thursday of the 1st Week of Ordinary Time
+2022-01-13	StHilaryPoitiers	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	C/II			Saint Hilary, Bishop and Doctor of the Church
+2022-01-14	OrdWeekday1Friday	weekday	green		ORDINARY_TIME	1	C/II		movable	Friday of the 1st Week of Ordinary Time
+2022-01-15	OrdWeekday1Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 1st Week of Ordinary Time
+2022-01-15	SatMemBVM1	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-01-15	OrdSunday2_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday2	movable	2nd Sunday of Ordinary Time Vigil Mass
+2022-01-16	OrdSunday2	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	2nd Sunday of Ordinary Time
+2022-01-17	StAnthonyEgypt	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Anthony, Abbot
+2022-01-18	OrdWeekday2Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 2nd Week of Ordinary Time
+2022-01-19	OrdWeekday2Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 2nd Week of Ordinary Time
+2022-01-20	OrdWeekday2Thursday	weekday	green		ORDINARY_TIME	2	C/II		movable	Thursday of the 2nd Week of Ordinary Time
+2022-01-20	StFabianPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	C/II			Saint Fabian, Pope and Martyr
+2022-01-20	StSebastian	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	C/II			Saint Sebastian, Martyr
+2022-01-21	StAgnes	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	C/II			Saint Agnes, Virgin and Martyr
+2022-01-22	OrdWeekday2Saturday	weekday	green		ORDINARY_TIME	2	C/II		movable	Saturday of the 2nd Week of Ordinary Time
+2022-01-22	StVincentDeacon	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	C/II			Saint Vincent, Deacon and Martyr
+2022-01-22	SatMemBVM2	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-01-22	OrdSunday3_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday3	movable	3rd Sunday of Ordinary Time Vigil Mass
+2022-01-23	OrdSunday3	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	3rd Sunday of Ordinary Time
+2022-01-24	StFrancisDeSales	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	C/II			Saint Francis de Sales, Bishop and Doctor of the Church
+2022-01-25	ConversionStPaul	feast	white	Proper	ORDINARY_TIME	0	C/II			The Conversion of Saint Paul the Apostle
+2022-01-26	StsTimothyTitus	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saints Timothy and Titus, Bishops
+2022-01-27	OrdWeekday3Thursday	weekday	green		ORDINARY_TIME	3	C/II		movable	Thursday of the 3rd Week of Ordinary Time
+2022-01-27	StAngelaMerici	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Educators	ORDINARY_TIME	3	C/II			Saint Angela Merici, Virgin
+2022-01-28	StThomasAquinas	memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	0	C/II			Saint Thomas Aquinas, Priest and Doctor of the Church
+2022-01-29	OrdWeekday3Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 3rd Week of Ordinary Time
+2022-01-29	SatMemBVM3	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-01-29	OrdSunday4_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday4	movable	4th Sunday of Ordinary Time Vigil Mass
+2022-01-30	OrdSunday4	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	4th Sunday of Ordinary Time
+2022-01-31	StJohnBosco	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	0	C/II			Saint John Bosco, Priest
+2022-02-01	OrdWeekday4Tuesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Tuesday of the 4th Week of Ordinary Time
+2022-02-02	Presentation	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	C/II			Presentation of the Lord
+2022-02-03	OrdWeekday4Thursday	weekday	green		ORDINARY_TIME	4	C/II		movable	Thursday of the 4th Week of Ordinary Time
+2022-02-03	StBlase	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	C/II			Saint Blase, Bishop and Martyr
+2022-02-03	StAnsgar	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	4	C/II			Saint Ansgar, Bishop
+2022-02-04	OrdWeekday4Friday	weekday	green		ORDINARY_TIME	4	C/II		movable	Friday of the 4th Week of Ordinary Time
+2022-02-05	StAgatha	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	C/II			Saint Agatha, Virgin and Martyr
+2022-02-05	OrdSunday5_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday5	movable	5th Sunday of Ordinary Time Vigil Mass
+2022-02-06	OrdSunday5	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	5th Sunday of Ordinary Time
+2022-02-07	OrdWeekday5Monday	weekday	green		ORDINARY_TIME	1	C/II		movable	Monday of the 5th Week of Ordinary Time
+2022-02-08	OrdWeekday5Tuesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Tuesday of the 5th Week of Ordinary Time
+2022-02-08	StJeromeEmiliani	optional-memorial	white	Holy Men and Women:For Educators	ORDINARY_TIME	1	C/II			Saint Jerome Emiliani, Priest
+2022-02-08	StJosephineBakhita	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	C/II			Saint Josephine Bakhita, Virgin
+2022-02-09	OrdWeekday5Wednesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Wednesday of the 5th Week of Ordinary Time
+2022-02-10	StScholastica	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	C/II			Saint Scholastica, Virgin
+2022-02-11	OrdWeekday5Friday	weekday	green		ORDINARY_TIME	1	C/II		movable	Friday of the 5th Week of Ordinary Time
+2022-02-11	OurLadyOfLourdes	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II			Our Lady of Lourdes
+2022-02-12	OrdWeekday5Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 5th Week of Ordinary Time
+2022-02-12	SatMemBVM4	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-02-12	OrdSunday6_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday6	movable	6th Sunday of Ordinary Time Vigil Mass
+2022-02-13	OrdSunday6	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	6th Sunday of Ordinary Time
+2022-02-14	StsCyrilMethodius	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saints Cyril, Monk, and Methodius, Bishop
+2022-02-15	OrdWeekday6Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 6th Week of Ordinary Time
+2022-02-16	OrdWeekday6Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 6th Week of Ordinary Time
+2022-02-17	OrdWeekday6Thursday	weekday	green		ORDINARY_TIME	2	C/II		movable	Thursday of the 6th Week of Ordinary Time
+2022-02-17	SevenHolyFounders	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	2	C/II			The Seven Holy Founders of the Servite Order
+2022-02-18	OrdWeekday6Friday	weekday	green		ORDINARY_TIME	2	C/II		movable	Friday of the 6th Week of Ordinary Time
+2022-02-19	OrdWeekday6Saturday	weekday	green		ORDINARY_TIME	2	C/II		movable	Saturday of the 6th Week of Ordinary Time
+2022-02-19	SatMemBVM5	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-02-19	OrdSunday7_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday7	movable	7th Sunday of Ordinary Time Vigil Mass
+2022-02-20	OrdSunday7	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	7th Sunday of Ordinary Time
+2022-02-21	OrdWeekday7Monday	weekday	green		ORDINARY_TIME	3	C/II		movable	Monday of the 7th Week of Ordinary Time
+2022-02-21	StPeterDamian	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	3	C/II			Saint Peter Damian, Bishop and Doctor of the Church
+2022-02-22	ChairStPeter	feast	white	Proper	ORDINARY_TIME	0	C/II			The Chair of Saint Peter the Apostle
+2022-02-23	StPolycarp	memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	0	C/II			Saint Polycarp, Bishop and Martyr
+2022-02-24	OrdWeekday7Thursday	weekday	green		ORDINARY_TIME	3	C/II		movable	Thursday of the 7th Week of Ordinary Time
+2022-02-25	OrdWeekday7Friday	weekday	green		ORDINARY_TIME	3	C/II		movable	Friday of the 7th Week of Ordinary Time
+2022-02-26	OrdWeekday7Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 7th Week of Ordinary Time
+2022-02-26	SatMemBVM6	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-02-26	OrdSunday8_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday8	movable	8th Sunday of Ordinary Time Vigil Mass
+2022-02-27	OrdSunday8	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	8th Sunday of Ordinary Time
+2022-02-28	OrdWeekday8Monday	weekday	green		ORDINARY_TIME	4	C/II		movable	Monday of the 8th Week of Ordinary Time
+2022-03-01	OrdWeekday8Tuesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Tuesday of the 8th Week of Ordinary Time
+2022-03-02	AshWednesday	higher-solemnity	purple		LENT	0	C/II		movable	Ash Wednesday
+2022-03-03	ThursdayAfterAshWednesday	weekday	purple		LENT	0	C/II		movable	Thursday after Ash Wednesday
+2022-03-04	FridayAfterAshWednesday	weekday	purple		LENT	0	C/II		movable	Friday after Ash Wednesday
+2022-03-04	StCasimir	optional-memorial	white	Holy Men and Women:For One Saint	LENT	0	C/II			Saint Casimir
+2022-03-05	SaturdayAfterAshWednesday	weekday	purple		LENT	0	C/II		movable	Saturday after Ash Wednesday
+2022-03-05	Lent1_vigil	higher-solemnity	purple		LENT	1	C/II	Lent1	movable	First Sunday of Lent Vigil Mass
+2022-03-06	Lent1	higher-solemnity	purple		LENT	1	C/II		movable,vigil-mass,first-vespers,second-vespers	First Sunday of Lent
+2022-03-07	LentWeekday1Monday	weekday	purple		LENT	1	C/II		movable	Monday of the 1st Week of Lent
+2022-03-07	StsPerpetuaFelicity	commemoration	red	Proper	LENT	1	C/II			Saints Perpetua and Felicity, Martyrs
+2022-03-08	LentWeekday1Tuesday	weekday	purple		LENT	1	C/II		movable	Tuesday of the 1st Week of Lent
+2022-03-08	StJohnGod	commemoration	white	Holy Men and Women:For Religious|Holy Men and Women:For Those Who Practiced Works of Mercy	LENT	1	C/II			Saint John of God, Religious
+2022-03-09	LentWeekday1Wednesday	weekday	purple		LENT	1	C/II		movable	Wednesday of the 1st Week of Lent
+2022-03-09	StFrancesRome	commemoration	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	LENT	1	C/II			Saint Frances of Rome, Religious
+2022-03-10	LentWeekday1Thursday	weekday	purple		LENT	1	C/II		movable	Thursday of the 1st Week of Lent
+2022-03-11	LentWeekday1Friday	weekday	purple		LENT	1	C/II		movable	Friday of the 1st Week of Lent
+2022-03-12	LentWeekday1Saturday	weekday	purple		LENT	1	C/II		movable	Saturday of the 1st Week of Lent
+2022-03-12	Lent2_vigil	higher-solemnity	purple		LENT	2	C/II	Lent2	movable	Second Sunday of Lent Vigil Mass
+2022-03-13	Lent2	higher-solemnity	purple		LENT	2	C/II		movable,vigil-mass,first-vespers,second-vespers	Second Sunday of Lent
+2022-03-14	LentWeekday2Monday	weekday	purple		LENT	2	C/II		movable	Monday of the 2nd Week of Lent
+2022-03-15	LentWeekday2Tuesday	weekday	purple		LENT	2	C/II		movable	Tuesday of the 2nd Week of Lent
+2022-03-16	LentWeekday2Wednesday	weekday	purple		LENT	2	C/II		movable	Wednesday of the 2nd Week of Lent
+2022-03-17	LentWeekday2Thursday	weekday	purple		LENT	2	C/II		movable	Thursday of the 2nd Week of Lent
+2022-03-17	StPatrick	commemoration	white	Pastors:For a Bishop|Pastors:For Missionaries	LENT	2	C/II			Saint Patrick, Bishop
+2022-03-18	LentWeekday2Friday	weekday	purple		LENT	2	C/II		movable	Friday of the 2nd Week of Lent
+2022-03-18	StCyrilJerusalem	commemoration	white	Pastors:For a Bishop|Doctors	LENT	2	C/II			Saint Cyril of Jerusalem, Bishop and Doctor of the Church
+2022-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	C/II	StJoseph	obligation	Saint Joseph Husband of the Blessed Virgin Mary Vigil Mass
+2022-03-19	StJoseph	solemnity	white	Proper	LENT	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph Husband of the Blessed Virgin Mary
+2022-03-19	Lent3_vigil	higher-solemnity	purple		LENT	3	C/II	Lent3	movable	Third Sunday of Lent Vigil Mass
+2022-03-20	Lent3	higher-solemnity	purple		LENT	3	C/II		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Lent
+2022-03-21	LentWeekday3Monday	weekday	purple		LENT	3	C/II		movable	Monday of the 3rd Week of Lent
+2022-03-22	LentWeekday3Tuesday	weekday	purple		LENT	3	C/II		movable	Tuesday of the 3rd Week of Lent
+2022-03-23	LentWeekday3Wednesday	weekday	purple		LENT	3	C/II		movable	Wednesday of the 3rd Week of Lent
+2022-03-23	StTuribius	commemoration	white	Pastors:For a Bishop	LENT	3	C/II			Saint Turibius of Mogrovejo, Bishop
+2022-03-24	LentWeekday3Thursday	weekday	purple		LENT	3	C/II		movable	Thursday of the 3rd Week of Lent
+2022-03-24	Annunciation_vigil	solemnity	white	Proper	LENT	0	C/II	Annunciation		Annunciation of the Lord Vigil Mass
+2022-03-25	Annunciation	solemnity	white	Proper	LENT	0	C/II		vigil-mass,first-vespers,second-vespers	Annunciation of the Lord
+2022-03-26	LentWeekday3Saturday	weekday	purple		LENT	3	C/II		movable	Saturday of the 3rd Week of Lent
+2022-03-26	Lent4_vigil	higher-solemnity	rose,purple		LENT	4	C/II	Lent4	movable	Fourth Sunday of Lent Vigil Mass
+2022-03-27	Lent4	higher-solemnity	rose,purple		LENT	4	C/II		movable,vigil-mass,first-vespers,second-vespers	Fourth Sunday of Lent
+2022-03-28	LentWeekday4Monday	weekday	purple		LENT	4	C/II		movable	Monday of the 4th Week of Lent
+2022-03-29	LentWeekday4Tuesday	weekday	purple		LENT	4	C/II		movable	Tuesday of the 4th Week of Lent
+2022-03-30	LentWeekday4Wednesday	weekday	purple		LENT	4	C/II		movable	Wednesday of the 4th Week of Lent
+2022-03-31	LentWeekday4Thursday	weekday	purple		LENT	4	C/II		movable	Thursday of the 4th Week of Lent
+2022-04-01	LentWeekday4Friday	weekday	purple		LENT	4	C/II		movable	Friday of the 4th Week of Lent
+2022-04-02	LentWeekday4Saturday	weekday	purple		LENT	4	C/II		movable	Saturday of the 4th Week of Lent
+2022-04-02	StFrancisPaola	commemoration	white	Holy Men and Women:For Religious	LENT	4	C/II			Saint Francis of Paola, Hermit
+2022-04-02	Lent5_vigil	higher-solemnity	purple		LENT	1	C/II	Lent5	movable	Fifth Sunday of Lent Vigil Mass
+2022-04-03	Lent5	higher-solemnity	purple		LENT	1	C/II		movable,vigil-mass,first-vespers,second-vespers	Fifth Sunday of Lent
+2022-04-04	LentWeekday5Monday	weekday	purple		LENT	1	C/II		movable	Monday of the 5th Week of Lent
+2022-04-04	StIsidore	commemoration	white	Pastors:For a Bishop|Doctors	LENT	1	C/II			Saint Isidore, Bishop and Doctor of the Church
+2022-04-05	LentWeekday5Tuesday	weekday	purple		LENT	1	C/II		movable	Tuesday of the 5th Week of Lent
+2022-04-05	StVincentFerrer	commemoration	white	Pastors:For Missionaries	LENT	1	C/II			Saint Vincent Ferrer, Priest
+2022-04-06	LentWeekday5Wednesday	weekday	purple		LENT	1	C/II		movable	Wednesday of the 5th Week of Lent
+2022-04-07	LentWeekday5Thursday	weekday	purple		LENT	1	C/II		movable	Thursday of the 5th Week of Lent
+2022-04-07	StJohnBaptistDeLaSalle	commemoration	white	Pastors:For One Pastor|Holy Men and Women:For Educators	LENT	1	C/II			Saint John Baptist de la Salle, Priest
+2022-04-08	LentWeekday5Friday	weekday	purple		LENT	1	C/II		movable	Friday of the 5th Week of Lent
+2022-04-09	LentWeekday5Saturday	weekday	purple		LENT	1	C/II		movable	Saturday of the 5th Week of Lent
+2022-04-09	PalmSun_vigil	higher-solemnity	red		LENT	0	C/II	PalmSun	movable	Palm Sunday Vigil Mass
+2022-04-10	PalmSun	higher-solemnity	red		LENT	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Palm Sunday
+2022-04-11	MonHolyWeek	higher-solemnity	purple		LENT	0	C/II		movable	Monday of Holy Week
+2022-04-12	TueHolyWeek	higher-solemnity	purple		LENT	0	C/II		movable	Tuesday of Holy Week
+2022-04-13	WedHolyWeek	higher-solemnity	purple		LENT	0	C/II		movable	Wednesday of Holy Week
+2022-04-14	HolyThurs	higher-solemnity	white		EASTER_TRIDUUM	0	C/II		movable	Holy Thursday
+2022-04-14	HolyThursChrism	higher-solemnity	white		LENT	0	C/II		movable	Chrism Mass
+2022-04-15	GoodFri	higher-solemnity	red		EASTER_TRIDUUM	0	C/II		movable	Good Friday
+2022-04-16	EasterVigil	higher-solemnity	white		EASTER_TRIDUUM	0	C/II		movable	Easter Vigil
+2022-04-17	Easter	higher-solemnity	white		EASTER	0	C/II		movable	Easter Sunday
+2022-04-18	MonOctaveEaster	higher-solemnity	white		EASTER	0	C/II		movable	Monday of the Octave of Easter
+2022-04-19	TueOctaveEaster	higher-solemnity	white		EASTER	0	C/II		movable	Tuesday of the Octave of Easter
+2022-04-20	WedOctaveEaster	higher-solemnity	white		EASTER	0	C/II		movable	Wednesday of the Octave of Easter
+2022-04-21	ThuOctaveEaster	higher-solemnity	white		EASTER	0	C/II		movable	Thursday of the Octave of Easter
+2022-04-22	FriOctaveEaster	higher-solemnity	white		EASTER	0	C/II		movable	Friday of the Octave of Easter
+2022-04-23	SatOctaveEaster	higher-solemnity	white		EASTER	0	C/II		movable	Saturday of the Octave of Easter
+2022-04-23	Easter2_vigil	higher-solemnity	white		EASTER	2	C/II	Easter2	movable	Second Sunday of Easter or Divine Mercy Sunday Vigil Mass
+2022-04-24	Easter2	higher-solemnity	white		EASTER	2	C/II		movable,vigil-mass,first-vespers,second-vespers	Second Sunday of Easter or Divine Mercy Sunday
+2022-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	C/II			Saint Mark the Evangelist
+2022-04-26	EasterWeekday2Tuesday	weekday	white		EASTER	2	C/II		movable	Tuesday of the 2nd Week of Easter
+2022-04-27	EasterWeekday2Wednesday	weekday	white		EASTER	2	C/II		movable	Wednesday of the 2nd Week of Easter
+2022-04-28	EasterWeekday2Thursday	weekday	white		EASTER	2	C/II		movable	Thursday of the 2nd Week of Easter
+2022-04-28	StPeterChanel	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	EASTER	2	C/II			Saint Peter Chanel, Priest and Martyr
+2022-04-28	StLouisGrignionMontfort	optional-memorial	white	Pastors:For One Pastor	EASTER	2	C/II			Saint Louis Grignion de Montfort, Priest
+2022-04-29	StCatherineSiena	memorial	white	Proper	EASTER	0	C/II			Saint Catherine of Siena, Virgin and Doctor of the Church
+2022-04-30	EasterWeekday2Saturday	weekday	white		EASTER	2	C/II		movable	Saturday of the 2nd Week of Easter
+2022-04-30	StPiusV	optional-memorial	white	Pastors:For a Pope	EASTER	2	C/II			Saint Pius V, Pope
+2022-04-30	Easter3_vigil	higher-solemnity	white		EASTER	3	C/II	Easter3	movable	Third Sunday of Easter Vigil Mass
+2022-05-01	Easter3	higher-solemnity	white		EASTER	3	C/II		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Easter
+2022-05-02	StAthanasius	memorial	white	Proper	EASTER	0	C/II			Saint Athanasius, Bishop and Doctor of the Church
+2022-05-03	StsPhilipJames	feast	red	Proper	EASTER	0	C/II			Saints Philip and James, Apostles
+2022-05-04	EasterWeekday3Wednesday	weekday	white		EASTER	3	C/II		movable	Wednesday of the 3rd Week of Easter
+2022-05-05	EasterWeekday3Thursday	weekday	white		EASTER	3	C/II		movable	Thursday of the 3rd Week of Easter
+2022-05-06	EasterWeekday3Friday	weekday	white		EASTER	3	C/II		movable	Friday of the 3rd Week of Easter
+2022-05-07	EasterWeekday3Saturday	weekday	white		EASTER	3	C/II		movable	Saturday of the 3rd Week of Easter
+2022-05-07	Easter4_vigil	higher-solemnity	white		EASTER	4	C/II	Easter4	movable	Fourth Sunday of Easter Vigil Mass
+2022-05-08	Easter4	higher-solemnity	white		EASTER	4	C/II		movable,vigil-mass,first-vespers,second-vespers	Fourth Sunday of Easter
+2022-05-09	EasterWeekday4Monday	weekday	white		EASTER	4	C/II		movable	Monday of the 4th Week of Easter
+2022-05-10	EasterWeekday4Tuesday	weekday	white		EASTER	4	C/II		movable	Tuesday of the 4th Week of Easter
+2022-05-10	StJohnAvila	optional-memorial	white	Pastors:For One Pastor|Doctors	EASTER	4	C/II			Saint John of Avila, Priest and Doctor of the Church
+2022-05-11	EasterWeekday4Wednesday	weekday	white		EASTER	4	C/II		movable	Wednesday of the 4th Week of Easter
+2022-05-12	EasterWeekday4Thursday	weekday	white		EASTER	4	C/II		movable	Thursday of the 4th Week of Easter
+2022-05-12	StsNereusAchilleus	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	4	C/II			Saints Nereus and Achilleus, Martyrs
+2022-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	EASTER	4	C/II			Saint Pancras, Martyr
+2022-05-13	EasterWeekday4Friday	weekday	white		EASTER	4	C/II		movable	Friday of the 4th Week of Easter
+2022-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	EASTER	4	C/II			Our Lady of Fatima
+2022-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	C/II			Saint Matthias the Apostle
+2022-05-14	Easter5_vigil	higher-solemnity	white		EASTER	1	C/II	Easter5	movable	Fifth Sunday of Easter Vigil Mass
+2022-05-15	Easter5	higher-solemnity	white		EASTER	1	C/II		movable,vigil-mass,first-vespers,second-vespers	Fifth Sunday of Easter
+2022-05-16	EasterWeekday5Monday	weekday	white		EASTER	1	C/II		movable	Monday of the 5th Week of Easter
+2022-05-17	EasterWeekday5Tuesday	weekday	white		EASTER	1	C/II		movable	Tuesday of the 5th Week of Easter
+2022-05-18	EasterWeekday5Wednesday	weekday	white		EASTER	1	C/II		movable	Wednesday of the 5th Week of Easter
+2022-05-18	StJohnIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	EASTER	1	C/II			Saint John I, Pope and Martyr
+2022-05-19	EasterWeekday5Thursday	weekday	white		EASTER	1	C/II		movable	Thursday of the 5th Week of Easter
+2022-05-20	EasterWeekday5Friday	weekday	white		EASTER	1	C/II		movable	Friday of the 5th Week of Easter
+2022-05-20	StBernardineSiena	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	EASTER	1	C/II			Saint Bernardine of Siena, Priest
+2022-05-21	EasterWeekday5Saturday	weekday	white		EASTER	1	C/II		movable	Saturday of the 5th Week of Easter
+2022-05-21	StChristopherMagallanes	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	1	C/II			Saint Christopher Magallanes, Priest, and Companions, Martyrs
+2022-05-21	Easter6_vigil	higher-solemnity	white		EASTER	2	C/II	Easter6	movable	Sixth Sunday of Easter Vigil Mass
+2022-05-22	Easter6	higher-solemnity	white		EASTER	2	C/II		movable,vigil-mass,first-vespers,second-vespers	Sixth Sunday of Easter
+2022-05-23	EasterWeekday6Monday	weekday	white		EASTER	2	C/II		movable	Monday of the 6th Week of Easter
+2022-05-24	EasterWeekday6Tuesday	weekday	white		EASTER	2	C/II		movable	Tuesday of the 6th Week of Easter
+2022-05-25	EasterWeekday6Wednesday	weekday	white		EASTER	2	C/II		movable	Wednesday of the 6th Week of Easter
+2022-05-25	StBedeVenerable	optional-memorial	white	Doctors|Holy Men and Women:For a Monk	EASTER	2	C/II			Saint Bede the Venerable, Priest and Doctor of the Church
+2022-05-25	StGregoryVII	optional-memorial	white	Pastors:For a Pope	EASTER	2	C/II			Saint Gregory VII, Pope
+2022-05-25	StMaryMagdalenePazzi	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Religious	EASTER	2	C/II			Saint Mary Magdalene de Pazzi, Virgin
+2022-05-25	Ascension_vigil	higher-solemnity	white		EASTER	0	C/II	Ascension	movable,obligation	Ascension Vigil Mass
+2022-05-26	Ascension	higher-solemnity	white		EASTER	0	C/II		movable,vigil-mass,first-vespers,second-vespers,obligation	Ascension
+2022-05-27	EasterWeekday6Friday	weekday	white		EASTER	2	C/II		movable	Friday of the 6th Week of Easter
+2022-05-27	StAugustineCanterbury	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	EASTER	2	C/II			Saint Augustine of Canterbury, Bishop
+2022-05-28	EasterWeekday6Saturday	weekday	white		EASTER	2	C/II		movable	Saturday of the 6th Week of Easter
+2022-05-28	Easter7_vigil	higher-solemnity	white		EASTER	3	C/II	Easter7	movable	Seventh Sunday of Easter Vigil Mass
+2022-05-29	Easter7	higher-solemnity	white		EASTER	3	C/II		movable,vigil-mass,first-vespers,second-vespers	Seventh Sunday of Easter
+2022-05-30	EasterWeekday7Monday	weekday	white		EASTER	3	C/II		movable	Monday of the 7th Week of Easter
+2022-05-31	Visitation	feast	white	Proper	EASTER	0	C/II			Visitation of the Blessed Virgin Mary
+2022-06-01	StJustinMartyr	memorial	red	Proper	EASTER	0	C/II			Saint Justin Martyr
+2022-06-02	EasterWeekday7Thursday	weekday	white		EASTER	3	C/II		movable	Thursday of the 7th Week of Easter
+2022-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	3	C/II			Saints Marcellinus and Peter, Martyrs
+2022-06-03	StsCharlesLwanga	memorial	red	Proper	EASTER	0	C/II			Saint Charles Lwanga and Companions, Martyrs
+2022-06-04	EasterWeekday7Saturday	weekday	white		EASTER	3	C/II		movable	Saturday of the 7th Week of Easter
+2022-06-04	Pentecost_vigil	higher-solemnity	red		EASTER	0	C/II	Pentecost	movable	Pentecost Vigil Mass
+2022-06-05	Pentecost	higher-solemnity	red		EASTER	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Pentecost
+2022-06-06	MaryMotherChurch	memorial	white	Proper	ORDINARY_TIME	0	C/II		movable	Blessed Virgin Mary, Mother of the Church
+2022-06-07	OrdWeekday10Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 10th Week of Ordinary Time
+2022-06-08	OrdWeekday10Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 10th Week of Ordinary Time
+2022-06-09	OrdWeekday10Thursday	weekday	green		ORDINARY_TIME	2	C/II		movable	Thursday of the 10th Week of Ordinary Time
+2022-06-09	StEphrem	optional-memorial	white	Doctors	ORDINARY_TIME	2	C/II			Saint Ephrem, Deacon and Doctor of the Church
+2022-06-10	OrdWeekday10Friday	weekday	green		ORDINARY_TIME	2	C/II		movable	Friday of the 10th Week of Ordinary Time
+2022-06-11	StBarnabasAp	memorial	red	Proper	ORDINARY_TIME	0	C/II			Saint Barnabas the Apostle
+2022-06-11	Trinity_vigil	higher-solemnity	white		ORDINARY_TIME	0	C/II	Trinity	movable	Holy Trinity Sunday Vigil Mass
+2022-06-12	Trinity	higher-solemnity	white		ORDINARY_TIME	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Holy Trinity Sunday
+2022-06-13	StAnthonyPadua	memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	0	C/II			Saint Anthony of Padua, Priest and Doctor of the Church
+2022-06-14	OrdWeekday11Tuesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Tuesday of the 11th Week of Ordinary Time
+2022-06-15	OrdWeekday11Wednesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Wednesday of the 11th Week of Ordinary Time
+2022-06-15	CorpusChristi_vigil	higher-solemnity	white		ORDINARY_TIME	0	C/II	CorpusChristi	movable,obligation	Corpus Christi Vigil Mass
+2022-06-16	CorpusChristi	higher-solemnity	white		ORDINARY_TIME	0	C/II		movable,vigil-mass,first-vespers,second-vespers,obligation	Corpus Christi
+2022-06-17	OrdWeekday11Friday	weekday	green		ORDINARY_TIME	3	C/II		movable	Friday of the 11th Week of Ordinary Time
+2022-06-18	OrdWeekday11Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 11th Week of Ordinary Time
+2022-06-18	SatMemBVM7	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-06-18	OrdSunday12_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday12	movable	12th Sunday of Ordinary Time Vigil Mass
+2022-06-19	OrdSunday12	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	12th Sunday of Ordinary Time
+2022-06-20	OrdWeekday12Monday	weekday	green		ORDINARY_TIME	4	C/II		movable	Monday of the 12th Week of Ordinary Time
+2022-06-21	StAloysiusGonzaga	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Aloysius Gonzaga, Religious
+2022-06-22	OrdWeekday12Wednesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Wednesday of the 12th Week of Ordinary Time
+2022-06-22	StPaulinusNola	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	4	C/II			Saint Paulinus of Nola, Bishop
+2022-06-22	StsJohnFisherThomasMore	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	4	C/II			Saints John Fisher, Bishop, and Thomas More, Martyrs
+2022-06-22	NativityJohnBaptist_vigil	solemnity	white	Proper	ORDINARY_TIME	0	C/II	NativityJohnBaptist		The Nativity of Saint John the Baptist Vigil Mass
+2022-06-23	NativityJohnBaptist	solemnity	white	Proper	ORDINARY_TIME	0	C/II		vigil-mass,first-vespers,second-vespers	The Nativity of Saint John the Baptist
+2022-06-23	SacredHeart_vigil	solemnity	white		ORDINARY_TIME	0	C/II	SacredHeart	movable	Most Sacred Heart of Jesus Vigil Mass
+2022-06-24	SacredHeart	solemnity	white		ORDINARY_TIME	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Most Sacred Heart of Jesus
+2022-06-25	ImmaculateHeart	memorial	white		ORDINARY_TIME	0	C/II		movable	The Immaculate Heart of the Blessed Virgin Mary
+2022-06-25	OrdSunday13_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday13	movable	13th Sunday of Ordinary Time Vigil Mass
+2022-06-26	OrdSunday13	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	13th Sunday of Ordinary Time
+2022-06-27	OrdWeekday13Monday	weekday	green		ORDINARY_TIME	1	C/II		movable	Monday of the 13th Week of Ordinary Time
+2022-06-27	StCyrilAlexandria	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	C/II			Saint Cyril of Alexandria, Bishop and Doctor of the Church
+2022-06-28	StIrenaeus	memorial	white,red	Proper	ORDINARY_TIME	0	C/II			Saint Irenaeus, Bishop and Martyr and Doctor of the Church
+2022-06-28	StsPeterPaulAp_vigil	solemnity	red	Proper	ORDINARY_TIME	0	C/II	StsPeterPaulAp	obligation	Saints Peter and Paul, Apostles Vigil Mass
+2022-06-29	StsPeterPaulAp	solemnity	red	Proper	ORDINARY_TIME	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	Saints Peter and Paul, Apostles
+2022-06-30	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	C/II		movable	Thursday of the 13th Week of Ordinary Time
+2022-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	C/II			The First Martyrs of the Holy Roman Church
+2022-07-01	OrdWeekday13Friday	weekday	green		ORDINARY_TIME	1	C/II		movable	Friday of the 13th Week of Ordinary Time
+2022-07-02	OrdWeekday13Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 13th Week of Ordinary Time
+2022-07-02	SatMemBVM8	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-07-02	OrdSunday14_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday14	movable	14th Sunday of Ordinary Time Vigil Mass
+2022-07-03	OrdSunday14	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	14th Sunday of Ordinary Time
+2022-07-04	OrdWeekday14Monday	weekday	green		ORDINARY_TIME	2	C/II		movable	Monday of the 14th Week of Ordinary Time
+2022-07-04	StElizabethPortugal	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	2	C/II			Saint Elizabeth of Portugal
+2022-07-05	OrdWeekday14Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 14th Week of Ordinary Time
+2022-07-05	StAnthonyZaccaria	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious|Holy Men and Women:For Educators	ORDINARY_TIME	2	C/II			Saint Anthony Zaccaria, Priest
+2022-07-06	OrdWeekday14Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 14th Week of Ordinary Time
+2022-07-06	StMariaGoretti	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	C/II			Saint Maria Goretti, Virgin and Martyr
+2022-07-07	OrdWeekday14Thursday	weekday	green		ORDINARY_TIME	2	C/II		movable	Thursday of the 14th Week of Ordinary Time
+2022-07-08	OrdWeekday14Friday	weekday	green		ORDINARY_TIME	2	C/II		movable	Friday of the 14th Week of Ordinary Time
+2022-07-09	OrdWeekday14Saturday	weekday	green		ORDINARY_TIME	2	C/II		movable	Saturday of the 14th Week of Ordinary Time
+2022-07-09	StAugustineZhaoRong	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	C/II			Saint Augustine Zhao Rong, Priest, and Companions, Martyrs
+2022-07-09	SatMemBVM9	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-07-09	OrdSunday15_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday15	movable	15th Sunday of Ordinary Time Vigil Mass
+2022-07-10	OrdSunday15	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	15th Sunday of Ordinary Time
+2022-07-11	StBenedict	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Benedict, Abbot
+2022-07-12	OrdWeekday15Tuesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Tuesday of the 15th Week of Ordinary Time
+2022-07-13	OrdWeekday15Wednesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Wednesday of the 15th Week of Ordinary Time
+2022-07-13	StHenry	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	3	C/II			Saint Henry
+2022-07-14	OrdWeekday15Thursday	weekday	green		ORDINARY_TIME	3	C/II		movable	Thursday of the 15th Week of Ordinary Time
+2022-07-14	StCamillusDeLellis	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	C/II			Saint Camillus de Lellis, Priest
+2022-07-15	StBonaventure	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	C/II			Saint Bonaventure, Bishop and Doctor of the Church
+2022-07-16	OrdWeekday15Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 15th Week of Ordinary Time
+2022-07-16	OurLadyOfMountCarmel	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II			Our Lady of Mount Carmel
+2022-07-16	SatMemBVM10	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-07-16	OrdSunday16_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday16	movable	16th Sunday of Ordinary Time Vigil Mass
+2022-07-17	OrdSunday16	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	16th Sunday of Ordinary Time
+2022-07-18	OrdWeekday16Monday	weekday	green		ORDINARY_TIME	4	C/II		movable	Monday of the 16th Week of Ordinary Time
+2022-07-19	OrdWeekday16Tuesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Tuesday of the 16th Week of Ordinary Time
+2022-07-20	OrdWeekday16Wednesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Wednesday of the 16th Week of Ordinary Time
+2022-07-20	StApollinaris	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	C/II			Saint Apollinaris, Bishop and Martyr
+2022-07-21	OrdWeekday16Thursday	weekday	green		ORDINARY_TIME	4	C/II		movable	Thursday of the 16th Week of Ordinary Time
+2022-07-21	StLawrenceBrindisi	optional-memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	4	C/II			Saint Lawrence of Brindisi, Priest and Doctor of the Church
+2022-07-22	StMaryMagdalene	feast	white	Proper	ORDINARY_TIME	0	C/II			Saint Mary Magdalene
+2022-07-23	OrdWeekday16Saturday	weekday	green		ORDINARY_TIME	4	C/II		movable	Saturday of the 16th Week of Ordinary Time
+2022-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	C/II			Saint Bridget, Religious
+2022-07-23	SatMemBVM11	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-07-23	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday17	movable	17th Sunday of Ordinary Time Vigil Mass
+2022-07-24	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	17th Sunday of Ordinary Time
+2022-07-25	StJamesAp	feast	red	Proper	ORDINARY_TIME	0	C/II			Saint James, Apostle
+2022-07-26	StsJoachimAnne	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saints Joachim and Anne, Parents of the Blessed Virgin Mary
+2022-07-27	OrdWeekday17Wednesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Wednesday of the 17th Week of Ordinary Time
+2022-07-28	OrdWeekday17Thursday	weekday	green		ORDINARY_TIME	1	C/II		movable	Thursday of the 17th Week of Ordinary Time
+2022-07-29	StMartha	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saints Martha, Mary and Lazarus
+2022-07-30	OrdWeekday17Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 17th Week of Ordinary Time
+2022-07-30	StPeterChrysologus	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	C/II			Saint Peter Chrysologus, Bishop and Doctor of the Church
+2022-07-30	SatMemBVM12	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-07-30	OrdSunday18_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday18	movable	18th Sunday of Ordinary Time Vigil Mass
+2022-07-31	OrdSunday18	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	18th Sunday of Ordinary Time
+2022-08-01	StAlphonsusMariaDeLiguori	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	C/II			Saint Alphonsus Mary Liguori, Bishop and Doctor of the Church
+2022-08-02	OrdWeekday18Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 18th Week of Ordinary Time
+2022-08-02	StEusebius	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	2	C/II			Saint Eusebius of Vercelli, Bishop
+2022-08-02	StPeterJulianEymard	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	2	C/II			Saint Peter Julian Eymard, Priest
+2022-08-03	OrdWeekday18Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 18th Week of Ordinary Time
+2022-08-04	StJeanVianney	memorial	white	Pastors:For One Pastor	ORDINARY_TIME	0	C/II			Saint John Mary Vianney, Priest
+2022-08-05	OrdWeekday18Friday	weekday	green		ORDINARY_TIME	2	C/II		movable	Friday of the 18th Week of Ordinary Time
+2022-08-05	DedicationStMaryMajor	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	C/II			The Dedication of the Basilica of Saint Mary Major
+2022-08-06	Transfiguration	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	C/II			The Transfiguration of the Lord
+2022-08-06	OrdSunday19_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday19	movable	19th Sunday of Ordinary Time Vigil Mass
+2022-08-07	OrdSunday19	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	19th Sunday of Ordinary Time
+2022-08-08	StDominic	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Dominic, Priest
+2022-08-09	OrdWeekday19Tuesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Tuesday of the 19th Week of Ordinary Time
+2022-08-09	StEdithStein	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	3	C/II			Saint Teresa Benedicta of the Cross, Virgin and Martyr
+2022-08-10	StLawrenceDeacon	feast	white,red	Proper	ORDINARY_TIME	0	C/II			Saint Lawrence, Deacon and Martyr
+2022-08-11	StClare	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	C/II			Saint Clare, Virgin
+2022-08-12	OrdWeekday19Friday	weekday	green		ORDINARY_TIME	3	C/II		movable	Friday of the 19th Week of Ordinary Time
+2022-08-12	StJaneFrancesDeChantal	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	C/II			Saint Jane Frances de Chantal, Religious
+2022-08-13	OrdWeekday19Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 19th Week of Ordinary Time
+2022-08-13	StsPontianHippolytus	optional-memorial	white,red	Martyrs:For Several Martyrs|Pastors:For Several Pastors	ORDINARY_TIME	3	C/II			Saints Pontian, Pope, and Hippolytus, Priest, Martyrs
+2022-08-13	SatMemBVM13	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-08-13	OrdSunday20_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday20	movable	20th Sunday of Ordinary Time Vigil Mass
+2022-08-14	OrdSunday20	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	20th Sunday of Ordinary Time
+2022-08-14	Assumption_vigil	solemnity	white	Proper	ORDINARY_TIME	0	C/II	Assumption	obligation	The Assumption of the Blessed Virgin Mary Vigil Mass
+2022-08-15	Assumption	solemnity	white	Proper	ORDINARY_TIME	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	The Assumption of the Blessed Virgin Mary
+2022-08-16	OrdWeekday20Tuesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Tuesday of the 20th Week of Ordinary Time
+2022-08-16	StStephenHungary	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	4	C/II			Saint Stephen of Hungary
+2022-08-17	OrdWeekday20Wednesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Wednesday of the 20th Week of Ordinary Time
+2022-08-18	OrdWeekday20Thursday	weekday	green		ORDINARY_TIME	4	C/II		movable	Thursday of the 20th Week of Ordinary Time
+2022-08-19	OrdWeekday20Friday	weekday	green		ORDINARY_TIME	4	C/II		movable	Friday of the 20th Week of Ordinary Time
+2022-08-19	StJohnEudes	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	4	C/II			Saint John Eudes, Priest
+2022-08-20	StBernardClairvaux	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Bernard, Abbot and Doctor of the Church
+2022-08-20	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday21	movable	21st Sunday of Ordinary Time Vigil Mass
+2022-08-21	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	21st Sunday of Ordinary Time
+2022-08-22	QueenshipMary	memorial	white	Proper	ORDINARY_TIME	0	C/II			The Queenship of the Blessed Virgin Mary
+2022-08-23	OrdWeekday21Tuesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Tuesday of the 21st Week of Ordinary Time
+2022-08-23	StRoseLima	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	1	C/II			Saint Rose of Lima, virgin
+2022-08-24	StBartholomewAp	feast	red	Proper	ORDINARY_TIME	0	C/II			Saint Bartholomew, Apostle
+2022-08-25	OrdWeekday21Thursday	weekday	green		ORDINARY_TIME	1	C/II		movable	Thursday of the 21st Week of Ordinary Time
+2022-08-25	StLouis	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	1	C/II			Saint Louis
+2022-08-25	StJosephCalasanz	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	1	C/II			Saint Joseph Calasanz, Priest
+2022-08-26	OrdWeekday21Friday	weekday	green		ORDINARY_TIME	1	C/II		movable	Friday of the 21st Week of Ordinary Time
+2022-08-27	StMonica	memorial	white	Holy Men and Women:For Holy Women	ORDINARY_TIME	0	C/II			Saint Monica
+2022-08-27	OrdSunday22_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday22	movable	22nd Sunday of Ordinary Time Vigil Mass
+2022-08-28	OrdSunday22	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	22nd Sunday of Ordinary Time
+2022-08-29	BeheadingJohnBaptist	memorial	red	Proper	ORDINARY_TIME	0	C/II			The Beheading of Saint John the Baptist, Martyr
+2022-08-30	OrdWeekday22Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 22nd Week of Ordinary Time
+2022-08-31	OrdWeekday22Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 22nd Week of Ordinary Time
+2022-09-01	OrdWeekday22Thursday	weekday	green		ORDINARY_TIME	2	C/II		movable	Thursday of the 22nd Week of Ordinary Time
+2022-09-02	OrdWeekday22Friday	weekday	green		ORDINARY_TIME	2	C/II		movable	Friday of the 22nd Week of Ordinary Time
+2022-09-03	StGregoryGreat	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Gregory the Great, Pope and Doctor of the Church
+2022-09-03	OrdSunday23_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday23	movable	23rd Sunday of Ordinary Time Vigil Mass
+2022-09-04	OrdSunday23	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	23rd Sunday of Ordinary Time
+2022-09-05	OrdWeekday23Monday	weekday	green		ORDINARY_TIME	3	C/II		movable	Monday of the 23rd Week of Ordinary Time
+2022-09-06	OrdWeekday23Tuesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Tuesday of the 23rd Week of Ordinary Time
+2022-09-07	OrdWeekday23Wednesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Wednesday of the 23rd Week of Ordinary Time
+2022-09-08	NativityVirginMary	feast	white	Proper	ORDINARY_TIME	0	C/II			The Nativity of the Blessed Virgin Mary
+2022-09-09	OrdWeekday23Friday	weekday	green		ORDINARY_TIME	3	C/II		movable	Friday of the 23rd Week of Ordinary Time
+2022-09-09	StPeterClaver	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	C/II			Saint Peter Claver, Priest
+2022-09-10	OrdWeekday23Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 23rd Week of Ordinary Time
+2022-09-10	SatMemBVM14	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-09-10	OrdSunday24_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday24	movable	24th Sunday of Ordinary Time Vigil Mass
+2022-09-11	OrdSunday24	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	24th Sunday of Ordinary Time
+2022-09-12	OrdWeekday24Monday	weekday	green		ORDINARY_TIME	4	C/II		movable	Monday of the 24th Week of Ordinary Time
+2022-09-12	HolyNameMary	optional-memorial	white	Proper	ORDINARY_TIME	4	C/II			The Holy Name of the Blessed Virgin Mary
+2022-09-13	StJohnChrysostom	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint John Chrysostom, Bishop and Doctor of the Church
+2022-09-14	ExaltationCross	feast-of-the-lord	red	Proper	ORDINARY_TIME	0	C/II			Exaltation of the Holy Cross
+2022-09-15	OurLadyOfSorrows	memorial	white	Proper	ORDINARY_TIME	0	C/II			Our Lady of Sorrows
+2022-09-16	StsCorneliusCyprian	memorial	white,red	Martyrs:For Several Martyrs|Pastors:For a Bishop	ORDINARY_TIME	0	C/II			Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+2022-09-17	OrdWeekday24Saturday	weekday	green		ORDINARY_TIME	4	C/II		movable	Saturday of the 24th Week of Ordinary Time
+2022-09-17	StRobertBellarmine	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	C/II			Saint Robert Bellarmine, Bishop and Doctor of the Church
+2022-09-17	StHildegardBingen	optional-memorial	white	Virgins:For One Virgin|Doctors	ORDINARY_TIME	4	C/II			Saint Hildegard of Bingen, Virgin and Doctor of the Church
+2022-09-17	SatMemBVM15	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-09-17	OrdSunday25_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday25	movable	25th Sunday of Ordinary Time Vigil Mass
+2022-09-18	OrdSunday25	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	25th Sunday of Ordinary Time
+2022-09-19	OrdWeekday25Monday	weekday	green		ORDINARY_TIME	1	C/II		movable	Monday of the 25th Week of Ordinary Time
+2022-09-19	StJanuarius	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	1	C/II			Saint Januarius, Bishop and Martyr
+2022-09-20	StAndrewKimTaegon	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Andrew Kim Tae-gŏn, Priest, and Paul Chŏng Ha-sang, and Companions, Martyrs
+2022-09-21	StMatthewEvangelist	feast	red	Proper	ORDINARY_TIME	0	C/II			Saint Matthew, Apostle and Evangelist
+2022-09-22	OrdWeekday25Thursday	weekday	green		ORDINARY_TIME	1	C/II		movable	Thursday of the 25th Week of Ordinary Time
+2022-09-23	StPioPietrelcina	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	0	C/II			Saint Pius of Pietrelcina, Priest
+2022-09-24	OrdWeekday25Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 25th Week of Ordinary Time
+2022-09-24	SatMemBVM16	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-09-24	OrdSunday26_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday26	movable	26th Sunday of Ordinary Time Vigil Mass
+2022-09-25	OrdSunday26	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	26th Sunday of Ordinary Time
+2022-09-26	OrdWeekday26Monday	weekday	green		ORDINARY_TIME	2	C/II		movable	Monday of the 26th Week of Ordinary Time
+2022-09-26	StsCosmasDamian	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	C/II			Saints Cosmas and Damian, Martyrs
+2022-09-27	StVincentDePaul	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Vincent de Paul, Priest
+2022-09-28	OrdWeekday26Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 26th Week of Ordinary Time
+2022-09-28	StWenceslaus	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	C/II			Saint Wenceslaus, Martyr
+2022-09-28	StsLawrenceRuiz	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	C/II			Saint Lawrence Ruiz and Companions, Martyrs
+2022-09-29	StsArchangels	feast	white	Proper	ORDINARY_TIME	0	C/II			Saints Michael, Gabriel and Raphael, Archangels
+2022-09-30	StJerome	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Jerome, Priest and Doctor of the Church
+2022-10-01	StThereseChildJesus	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church
+2022-10-01	OrdSunday27_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday27	movable	27th Sunday of Ordinary Time Vigil Mass
+2022-10-02	OrdSunday27	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	27th Sunday of Ordinary Time
+2022-10-03	OrdWeekday27Monday	weekday	green		ORDINARY_TIME	3	C/II		movable	Monday of the 27th Week of Ordinary Time
+2022-10-04	StFrancisAssisi	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Francis of Assisi
+2022-10-05	OrdWeekday27Wednesday	weekday	green		ORDINARY_TIME	3	C/II		movable	Wednesday of the 27th Week of Ordinary Time
+2022-10-05	StFaustinaKowalska	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	C/II			Saint Faustina Kowalska
+2022-10-06	OrdWeekday27Thursday	weekday	green		ORDINARY_TIME	3	C/II		movable	Thursday of the 27th Week of Ordinary Time
+2022-10-06	StBruno	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	3	C/II			Saint Bruno, Priest
+2022-10-07	OurLadyOfTheRosary	memorial	white	Proper	ORDINARY_TIME	0	C/II			Our Lady of the Rosary
+2022-10-08	OrdWeekday27Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 27th Week of Ordinary Time
+2022-10-08	SatMemBVM17	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-10-08	OrdSunday28_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday28	movable	28th Sunday of Ordinary Time Vigil Mass
+2022-10-09	OrdSunday28	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	28th Sunday of Ordinary Time
+2022-10-10	OrdWeekday28Monday	weekday	green		ORDINARY_TIME	4	C/II		movable	Monday of the 28th Week of Ordinary Time
+2022-10-11	OrdWeekday28Tuesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Tuesday of the 28th Week of Ordinary Time
+2022-10-11	StJohnXXIII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	4	C/II			Saint John XXIII, Pope
+2022-10-12	OrdWeekday28Wednesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Wednesday of the 28th Week of Ordinary Time
+2022-10-13	OrdWeekday28Thursday	weekday	green		ORDINARY_TIME	4	C/II		movable	Thursday of the 28th Week of Ordinary Time
+2022-10-14	OrdWeekday28Friday	weekday	green		ORDINARY_TIME	4	C/II		movable	Friday of the 28th Week of Ordinary Time
+2022-10-14	StCallistusIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	4	C/II			Saint Callistus I, Pope and Martyr
+2022-10-15	StTeresaJesus	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Teresa of Jesus, Virgin and Doctor of the Church
+2022-10-15	OrdSunday29_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday29	movable	29th Sunday of Ordinary Time Vigil Mass
+2022-10-16	OrdSunday29	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	29th Sunday of Ordinary Time
+2022-10-17	StIgnatiusAntioch	memorial	white,red	Proper	ORDINARY_TIME	0	C/II			Saint Ignatius of Antioch, Bishop and Martyr
+2022-10-18	StLukeEvangelist	feast	red	Proper	ORDINARY_TIME	0	C/II			Saint Luke, Evangelist
+2022-10-19	OrdWeekday29Wednesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Wednesday of the 29th Week of Ordinary Time
+2022-10-19	StsJeanBrebeuf	optional-memorial	red	Martyrs:For Missionary Martyrs	ORDINARY_TIME	1	C/II			Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs
+2022-10-19	StPaulCross	optional-memorial	white	Proper	ORDINARY_TIME	1	C/II			Saint Paul of the Cross, Priest
+2022-10-20	OrdWeekday29Thursday	weekday	green		ORDINARY_TIME	1	C/II		movable	Thursday of the 29th Week of Ordinary Time
+2022-10-21	OrdWeekday29Friday	weekday	green		ORDINARY_TIME	1	C/II		movable	Friday of the 29th Week of Ordinary Time
+2022-10-22	OrdWeekday29Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 29th Week of Ordinary Time
+2022-10-22	StJohnPaulII	optional-memorial	white	Pastors:For a Pope	ORDINARY_TIME	1	C/II			Saint John Paul II, Pope
+2022-10-22	SatMemBVM18	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-10-22	OrdSunday30_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	C/II	OrdSunday30	movable	30th Sunday of Ordinary Time Vigil Mass
+2022-10-23	OrdSunday30	feast-of-the-lord	green		ORDINARY_TIME	2	C/II		movable,vigil-mass,first-vespers,second-vespers	30th Sunday of Ordinary Time
+2022-10-24	OrdWeekday30Monday	weekday	green		ORDINARY_TIME	2	C/II		movable	Monday of the 30th Week of Ordinary Time
+2022-10-24	StAnthonyMaryClaret	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	2	C/II			Saint Anthony Mary Claret, Bishop
+2022-10-25	OrdWeekday30Tuesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Tuesday of the 30th Week of Ordinary Time
+2022-10-26	OrdWeekday30Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 30th Week of Ordinary Time
+2022-10-27	OrdWeekday30Thursday	weekday	green		ORDINARY_TIME	2	C/II		movable	Thursday of the 30th Week of Ordinary Time
+2022-10-28	StSimonStJudeAp	feast	red	Proper	ORDINARY_TIME	0	C/II			Saints Simon and Jude, Apostles
+2022-10-29	OrdWeekday30Saturday	weekday	green		ORDINARY_TIME	2	C/II		movable	Saturday of the 30th Week of Ordinary Time
+2022-10-29	SatMemBVM19	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-10-29	OrdSunday31_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	C/II	OrdSunday31	movable	31st Sunday of Ordinary Time Vigil Mass
+2022-10-30	OrdSunday31	feast-of-the-lord	green		ORDINARY_TIME	3	C/II		movable,vigil-mass,first-vespers,second-vespers	31st Sunday of Ordinary Time
+2022-10-31	OrdWeekday31Monday	weekday	green		ORDINARY_TIME	3	C/II		movable	Monday of the 31st Week of Ordinary Time
+2022-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	C/II	AllSaints	obligation	All Saints Vigil Mass
+2022-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	All Saints
+2022-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	C/II			The Commemoration of all the Faithful Departed (All Souls' Day)
+2022-11-03	OrdWeekday31Thursday	weekday	green		ORDINARY_TIME	3	C/II		movable	Thursday of the 31st Week of Ordinary Time
+2022-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	C/II			Saint Martin de Porres, Religious
+2022-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	C/II			Saint Charles Borromeo, Bishop
+2022-11-05	OrdWeekday31Saturday	weekday	green		ORDINARY_TIME	3	C/II		movable	Saturday of the 31st Week of Ordinary Time
+2022-11-05	SatMemBVM20	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-11-05	OrdSunday32_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	C/II	OrdSunday32	movable	32nd Sunday of Ordinary Time Vigil Mass
+2022-11-06	OrdSunday32	feast-of-the-lord	green		ORDINARY_TIME	4	C/II		movable,vigil-mass,first-vespers,second-vespers	32nd Sunday of Ordinary Time
+2022-11-07	OrdWeekday32Monday	weekday	green		ORDINARY_TIME	4	C/II		movable	Monday of the 32nd Week of Ordinary Time
+2022-11-08	OrdWeekday32Tuesday	weekday	green		ORDINARY_TIME	4	C/II		movable	Tuesday of the 32nd Week of Ordinary Time
+2022-11-09	DedicationLateran	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	C/II			The Dedication of the Lateran Basilica
+2022-11-10	StLeoGreat	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Leo the Great, Pope and Doctor of the Church
+2022-11-11	StMartinTours	memorial	white	Proper	ORDINARY_TIME	0	C/II			Saint Martin of Tours, Bishop
+2022-11-12	StJosaphat	memorial	white,red	Proper	ORDINARY_TIME	0	C/II			Saint Josaphat, Bishop and Martyr
+2022-11-12	OrdSunday33_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	C/II	OrdSunday33	movable	33rd Sunday of Ordinary Time Vigil Mass
+2022-11-13	OrdSunday33	feast-of-the-lord	green		ORDINARY_TIME	1	C/II		movable,vigil-mass,first-vespers,second-vespers	33rd Sunday of Ordinary Time
+2022-11-14	OrdWeekday33Monday	weekday	green		ORDINARY_TIME	1	C/II		movable	Monday of the 33rd Week of Ordinary Time
+2022-11-15	OrdWeekday33Tuesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Tuesday of the 33rd Week of Ordinary Time
+2022-11-15	StAlbertGreat	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	C/II			Saint Albert the Great, Bishop and Doctor of the Church
+2022-11-16	OrdWeekday33Wednesday	weekday	green		ORDINARY_TIME	1	C/II		movable	Wednesday of the 33rd Week of Ordinary Time
+2022-11-16	StMargaretScotland	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	C/II			Saint Margaret of Scotland
+2022-11-16	StGertrudeGreat	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	1	C/II			Saint Gertrude the Great, Virgin
+2022-11-17	StElizabethHungary	memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	0	C/II			Saint Elizabeth of Hungary, Religious
+2022-11-18	OrdWeekday33Friday	weekday	green		ORDINARY_TIME	1	C/II		movable	Friday of the 33rd Week of Ordinary Time
+2022-11-18	DedicationStsPeterPaul	optional-memorial	white	Proper	ORDINARY_TIME	1	C/II			The Dedication of the Basilicas of Saints Peter and Paul, Apostles
+2022-11-19	OrdWeekday33Saturday	weekday	green		ORDINARY_TIME	1	C/II		movable	Saturday of the 33rd Week of Ordinary Time
+2022-11-19	SatMemBVM21	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-11-19	ChristKing_vigil	solemnity	white		ORDINARY_TIME	0	C/II	ChristKing	movable	Christ the King Vigil Mass
+2022-11-20	ChristKing	solemnity	white		ORDINARY_TIME	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Christ the King
+2022-11-21	PresentationMary	memorial	white	Proper	ORDINARY_TIME	0	C/II			The Presentation of the Blessed Virgin Mary
+2022-11-22	StCecilia	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	C/II			Saint Cecilia, Virgin and Martyr
+2022-11-23	OrdWeekday34Wednesday	weekday	green		ORDINARY_TIME	2	C/II		movable	Wednesday of the 34th Week of Ordinary Time
+2022-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	C/II			Saint Clement I, Pope and Martyr
+2022-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	C/II			Saint Columban, Religious
+2022-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	C/II			Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs
+2022-11-25	OrdWeekday34Friday	weekday	green		ORDINARY_TIME	2	C/II		movable	Friday of the 34th Week of Ordinary Time
+2022-11-25	StCatherineAlexandria	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	C/II			Saint Catherine of Alexandria, Virgin and Martyr
+2022-11-26	OrdWeekday34Saturday	weekday	green		ORDINARY_TIME	2	C/II		movable	Saturday of the 34th Week of Ordinary Time
+2022-11-26	SatMemBVM22	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	C/II		movable	Saturday Memorial of the Blessed Virgin Mary
+2022-11-26	Advent1_vigil	higher-solemnity	purple		ADVENT	1	A/I	Advent1	movable	First Sunday of Advent Vigil Mass
+2022-11-27	Advent1	higher-solemnity	purple		ADVENT	1	A/I		movable,vigil-mass,first-vespers,second-vespers	First Sunday of Advent
+2022-11-28	AdventWeekday1Monday	weekday	purple		ADVENT	1	A/I		movable	Monday of the 1st Week of Advent
+2022-11-29	AdventWeekday1Tuesday	weekday	purple		ADVENT	1	A/I		movable	Tuesday of the 1st Week of Advent
+2022-11-30	StAndrewAp	feast	red	Proper	ADVENT	0	A/I			Saint Andrew, Apostle
+2022-12-01	AdventWeekday1Thursday	weekday	purple		ADVENT	1	A/I		movable	Thursday of the 1st Week of Advent
+2022-12-02	AdventWeekday1Friday	weekday	purple		ADVENT	1	A/I		movable	Friday of the 1st Week of Advent
+2022-12-03	StFrancisXavier	memorial	white	Proper	ADVENT	1	A/I			Saint Francis Xavier, Priest
+2022-12-03	Advent2_vigil	higher-solemnity	purple		ADVENT	2	A/I	Advent2	movable	Second Sunday of Advent Vigil Mass
+2022-12-04	Advent2	higher-solemnity	purple		ADVENT	2	A/I		movable,vigil-mass,first-vespers,second-vespers	Second Sunday of Advent
+2022-12-05	AdventWeekday2Monday	weekday	purple		ADVENT	2	A/I		movable	Monday of the 2nd Week of Advent
+2022-12-06	AdventWeekday2Tuesday	weekday	purple		ADVENT	2	A/I		movable	Tuesday of the 2nd Week of Advent
+2022-12-06	StNicholas	optional-memorial	white	Pastors:For a Bishop	ADVENT	2	A/I			Saint Nicholas, Bishop
+2022-12-07	StAmbrose	memorial	white	Proper	ADVENT	2	A/I			Saint Ambrose, Bishop and Doctor of the Church
+2022-12-07	ImmaculateConception_vigil	solemnity	white	Proper	ADVENT	0	A/I	ImmaculateConception	obligation	The Immaculate Conception of the Blessed Virgin Mary Vigil Mass
+2022-12-08	ImmaculateConception	solemnity	white	Proper	ADVENT	0	A/I		vigil-mass,first-vespers,second-vespers,obligation	The Immaculate Conception of the Blessed Virgin Mary
+2022-12-09	AdventWeekday2Friday	weekday	purple		ADVENT	2	A/I		movable	Friday of the 2nd Week of Advent
+2022-12-09	JuanDiego	optional-memorial	white	Holy Men and Women:For One Saint	ADVENT	2	A/I			Saint Juan Diego Cuauhtlatoatzin
+2022-12-10	AdventWeekday2Saturday	weekday	purple		ADVENT	2	A/I		movable	Saturday of the 2nd Week of Advent
+2022-12-10	OurLadyOfLoreto	optional-memorial	white	Blessed Virgin Mary	ADVENT	2	A/I			Blessed Virgin Mary of Loreto
+2022-12-10	Advent3_vigil	higher-solemnity	rose,purple		ADVENT	3	A/I	Advent3	movable	Third Sunday of Advent (Gaudete) Vigil Mass
+2022-12-11	Advent3	higher-solemnity	rose,purple		ADVENT	3	A/I		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Advent (Gaudete)
+2022-12-12	AdventWeekday3Monday	weekday	purple		ADVENT	3	A/I		movable	Monday of the 3rd Week of Advent
+2022-12-12	OurLadyOfGuadalupe	optional-memorial	white	Blessed Virgin Mary	ADVENT	3	A/I			Our Lady of Guadalupe
+2022-12-13	StLucySyracuse	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ADVENT	3	A/I			Saint Lucy of Syracuse, Virgin and Martyr
+2022-12-14	StJohnCross	memorial	white	Proper	ADVENT	3	A/I			Saint John of the Cross, Priest and Doctor of the Church
+2022-12-15	AdventWeekday3Thursday	weekday	purple		ADVENT	3	A/I		movable	Thursday of the 3rd Week of Advent
+2022-12-16	AdventWeekday3Friday	weekday	purple		ADVENT	3	A/I		movable	Friday of the 3rd Week of Advent
+2022-12-17	AdventWeekdayDec17	weekday	purple		ADVENT	3	A/I		movable	Saturday of the 3rd Week of Advent
+2022-12-17	Advent4_vigil	higher-solemnity	purple		ADVENT	4	A/I	Advent4	movable	Fourth Sunday of Advent Vigil Mass
+2022-12-18	Advent4	higher-solemnity	purple		ADVENT	4	A/I		movable,vigil-mass,first-vespers,second-vespers	Fourth Sunday of Advent
+2022-12-19	AdventWeekdayDec19	weekday	purple		ADVENT	4	A/I		movable	Monday of the 4th Week of Advent
+2022-12-20	AdventWeekdayDec20	weekday	purple		ADVENT	4	A/I		movable	Tuesday of the 4th Week of Advent
+2022-12-21	AdventWeekdayDec21	weekday	purple		ADVENT	4	A/I		movable	Wednesday of the 4th Week of Advent
+2022-12-21	StPeterCanisius	commemoration	white	Pastors:For One Pastor|Doctors	ADVENT	4	A/I			Saint Peter Canisius, Priest and Doctor of the Church
+2022-12-22	AdventWeekdayDec22	weekday	purple		ADVENT	4	A/I		movable	Thursday of the 4th Week of Advent
+2022-12-23	AdventWeekdayDec23	weekday	purple		ADVENT	4	A/I		movable	Friday of the 4th Week of Advent
+2022-12-23	StJohnKanty	commemoration	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ADVENT	4	A/I			Saint John of Kanty, Priest
+2022-12-24	AdventWeekdayDec24	weekday	purple		ADVENT	4	A/I		movable	Saturday of the 4th Week of Advent
+2022-12-24	Christmas_vigil	higher-solemnity	white		CHRISTMAS	0	A/I	Christmas	obligation	Christmas Vigil Mass
+2022-12-25	Christmas	higher-solemnity	white		CHRISTMAS	0	A/I		vigil-mass,first-vespers,second-vespers,obligation	Christmas
+2022-12-26	StStephenProtomartyr	feast	red	Proper	CHRISTMAS	0	A/I			Saint Stephen, The First Martyr
+2022-12-27	StJohnEvangelist	feast	white	Proper	CHRISTMAS	0	A/I			Saint John, Apostle and Evangelist
+2022-12-28	HolyInnocents	feast	red	Proper	CHRISTMAS	0	A/I			The Holy Innocents, Martyrs
+2022-12-29	ChristmasWeekdayDec29	weekday	white		CHRISTMAS	0	A/I		movable	5th Day of the Octave of Christmas
+2022-12-29	StThomasBecket	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	CHRISTMAS	0	A/I			Saint Thomas Becket, Bishop and Martyr
+2022-12-30	HolyFamily	feast-of-the-lord	white		CHRISTMAS	0	A/I		movable	Holy Family of Jesus, Mary and Joseph
+2022-12-31	ChristmasWeekdayDec31	weekday	white		CHRISTMAS	0	A/I		movable	7th Day of the Octave of Christmas
+2022-12-31	StSylvesterIPope	commemoration	white	Pastors:For a Pope	CHRISTMAS	0	A/I			Saint Sylvester I, Pope

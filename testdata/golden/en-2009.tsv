@@ -1,0 +1,544 @@
+# date	key	rank	colors	commons	season	psalter	cycles	vigil for	flags	name
+2008-12-31	MaryMotherOfGod_vigil	solemnity	white		CHRISTMAS	0	B/I	MaryMotherOfGod	obligation	Mary, Mother of God Vigil Mass
+2009-01-01	MaryMotherOfGod	solemnity	white		CHRISTMAS	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Mary, Mother of God
+2009-01-02	StsBasilGreg	memorial	white	Proper	CHRISTMAS	0	B/I			Saints Basil the Great and Gregory Nazianzen, Bishops and Doctors of the Church
+2009-01-03	ChristmasWeekdayJan3	weekday	white		CHRISTMAS	0	B/I		movable	Saturday - Christmas Weekday
+2009-01-03	NameJesus	optional-memorial	white	Proper	CHRISTMAS	0	B/I			The Most Holy Name of Jesus
+2009-01-03	Christmas2_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	Christmas2	movable	2nd Sunday after Christmas Vigil Mass
+2009-01-04	Christmas2	feast-of-the-lord	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers	2nd Sunday after Christmas
+2009-01-05	ChristmasWeekdayJan5	weekday	white		CHRISTMAS	0	B/I		movable	Monday - Christmas Weekday
+2009-01-05	Epiphany_vigil	higher-solemnity	white		CHRISTMAS	0	B/I	Epiphany	movable,obligation	Epiphany Vigil Mass
+2009-01-06	Epiphany	higher-solemnity	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Epiphany
+2009-01-07	DayAfterEpiphanyJan7	weekday	white		CHRISTMAS	0	B/I		movable	Wednesday - Christmas Weekday
+2009-01-07	StRayPenyafort	optional-memorial	white	Pastors:For One Pastor	CHRISTMAS	0	B/I			Saint Raymond of Penyafort, Priest
+2009-01-08	DayAfterEpiphanyJan8	weekday	white		CHRISTMAS	0	B/I		movable	Thursday - Christmas Weekday
+2009-01-09	DayAfterEpiphanyJan9	weekday	white		CHRISTMAS	0	B/I		movable	Friday - Christmas Weekday
+2009-01-10	DayAfterEpiphanyJan10	weekday	white		CHRISTMAS	0	B/I		movable	Saturday - Christmas Weekday
+2009-01-10	BaptismLord_vigil	feast-of-the-lord	white		CHRISTMAS	0	B/I	BaptismLord	movable	Baptism of the Lord Vigil Mass
+2009-01-11	BaptismLord	feast-of-the-lord	white		CHRISTMAS	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Baptism of the Lord
+2009-01-12	OrdWeekday1Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 1st Week of Ordinary Time
+2009-01-13	OrdWeekday1Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 1st Week of Ordinary Time
+2009-01-13	StHilaryPoitiers	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			Saint Hilary, Bishop and Doctor of the Church
+2009-01-14	OrdWeekday1Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 1st Week of Ordinary Time
+2009-01-15	OrdWeekday1Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 1st Week of Ordinary Time
+2009-01-16	OrdWeekday1Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Friday of the 1st Week of Ordinary Time
+2009-01-17	StAnthonyEgypt	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Anthony, Abbot
+2009-01-17	OrdSunday2_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday2	movable	2nd Sunday of Ordinary Time Vigil Mass
+2009-01-18	OrdSunday2	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	2nd Sunday of Ordinary Time
+2009-01-19	OrdWeekday2Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 2nd Week of Ordinary Time
+2009-01-20	OrdWeekday2Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 2nd Week of Ordinary Time
+2009-01-20	StFabianPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			Saint Fabian, Pope and Martyr
+2009-01-20	StSebastian	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			Saint Sebastian, Martyr
+2009-01-21	StAgnes	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Saint Agnes, Virgin and Martyr
+2009-01-22	OrdWeekday2Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Thursday of the 2nd Week of Ordinary Time
+2009-01-22	StVincentDeacon	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			Saint Vincent, Deacon and Martyr
+2009-01-23	OrdWeekday2Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 2nd Week of Ordinary Time
+2009-01-24	StFrancisDeSales	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	B/I			Saint Francis de Sales, Bishop and Doctor of the Church
+2009-01-24	ConversionStPaul_vigil	optional-memorial	white	Proper	ORDINARY_TIME	0	B/I	ConversionStPaul		The Conversion of Saint Paul the Apostle Vigil Mass
+2009-01-24	OrdSunday3_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday3	movable	3rd Sunday of Ordinary Time Vigil Mass
+2009-01-25	ConversionStPaul	optional-memorial	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers	The Conversion of Saint Paul the Apostle
+2009-01-25	OrdSunday3	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	3rd Sunday of Ordinary Time
+2009-01-26	StsTimothyTitus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saints Timothy and Titus, Bishops
+2009-01-27	OrdWeekday3Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 3rd Week of Ordinary Time
+2009-01-27	StAngelaMerici	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Educators	ORDINARY_TIME	3	B/I			Saint Angela Merici, Virgin
+2009-01-28	StThomasAquinas	memorial	white	Pastors:For One Pastor|Doctors	ORDINARY_TIME	0	B/I			Saint Thomas Aquinas, Priest and Doctor of the Church
+2009-01-29	OrdWeekday3Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 3rd Week of Ordinary Time
+2009-01-30	OrdWeekday3Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Friday of the 3rd Week of Ordinary Time
+2009-01-31	StJohnBosco	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	0	B/I			Saint John Bosco, Priest
+2009-01-31	OrdSunday4_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday4	movable	4th Sunday of Ordinary Time Vigil Mass
+2009-02-01	OrdSunday4	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	4th Sunday of Ordinary Time
+2009-02-02	Presentation	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			Presentation of the Lord
+2009-02-03	OrdWeekday4Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Tuesday of the 4th Week of Ordinary Time
+2009-02-03	StBlase	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	B/I			Saint Blase, Bishop and Martyr
+2009-02-03	StAnsgar	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	4	B/I			Saint Ansgar, Bishop
+2009-02-04	OrdWeekday4Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Wednesday of the 4th Week of Ordinary Time
+2009-02-05	StAgatha	memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	0	B/I			Saint Agatha, Virgin and Martyr
+2009-02-06	StsPaulMiki	memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	0	B/I			Saint Paul Miki and Companions, Martyrs
+2009-02-07	OrdWeekday4Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Saturday of the 4th Week of Ordinary Time
+2009-02-07	SatMemBVM1	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-02-07	OrdSunday5_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday5	movable	5th Sunday of Ordinary Time Vigil Mass
+2009-02-08	OrdSunday5	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	5th Sunday of Ordinary Time
+2009-02-09	OrdWeekday5Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 5th Week of Ordinary Time
+2009-02-10	StScholastica	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	B/I			Saint Scholastica, Virgin
+2009-02-11	OrdWeekday5Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 5th Week of Ordinary Time
+2009-02-11	OurLadyOfLourdes	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I			Our Lady of Lourdes
+2009-02-12	OrdWeekday5Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 5th Week of Ordinary Time
+2009-02-13	OrdWeekday5Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Friday of the 5th Week of Ordinary Time
+2009-02-14	StsCyrilMethodius	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saints Cyril, Monk, and Methodius, Bishop
+2009-02-14	OrdSunday6_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday6	movable	6th Sunday of Ordinary Time Vigil Mass
+2009-02-15	OrdSunday6	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	6th Sunday of Ordinary Time
+2009-02-16	OrdWeekday6Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 6th Week of Ordinary Time
+2009-02-17	OrdWeekday6Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 6th Week of Ordinary Time
+2009-02-17	SevenHolyFounders	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	2	B/I			The Seven Holy Founders of the Servite Order
+2009-02-18	OrdWeekday6Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 6th Week of Ordinary Time
+2009-02-19	OrdWeekday6Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Thursday of the 6th Week of Ordinary Time
+2009-02-20	OrdWeekday6Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 6th Week of Ordinary Time
+2009-02-21	OrdWeekday6Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Saturday of the 6th Week of Ordinary Time
+2009-02-21	StPeterDamian	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	2	B/I			Saint Peter Damian, Bishop and Doctor of the Church
+2009-02-21	SatMemBVM2	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-02-21	OrdSunday7_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday7	movable	7th Sunday of Ordinary Time Vigil Mass
+2009-02-22	OrdSunday7	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	7th Sunday of Ordinary Time
+2009-02-23	StPolycarp	memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Saint Polycarp, Bishop and Martyr
+2009-02-24	OrdWeekday7Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 7th Week of Ordinary Time
+2009-02-25	AshWednesday	higher-solemnity	purple		LENT	0	B/I		movable	Ash Wednesday
+2009-02-26	ThursdayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Thursday after Ash Wednesday
+2009-02-27	FridayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Friday after Ash Wednesday
+2009-02-28	SaturdayAfterAshWednesday	weekday	purple		LENT	0	B/I		movable	Saturday after Ash Wednesday
+2009-02-28	Lent1_vigil	higher-solemnity	purple		LENT	1	B/I	Lent1	movable	First Sunday of Lent Vigil Mass
+2009-03-01	Lent1	higher-solemnity	purple		LENT	1	B/I		movable,vigil-mass,first-vespers,second-vespers	First Sunday of Lent
+2009-03-02	LentWeekday1Monday	weekday	purple		LENT	1	B/I		movable	Monday of the 1st Week of Lent
+2009-03-03	LentWeekday1Tuesday	weekday	purple		LENT	1	B/I		movable	Tuesday of the 1st Week of Lent
+2009-03-04	LentWeekday1Wednesday	weekday	purple		LENT	1	B/I		movable	Wednesday of the 1st Week of Lent
+2009-03-04	StCasimir	commemoration	white	Holy Men and Women:For One Saint	LENT	1	B/I			Saint Casimir
+2009-03-05	LentWeekday1Thursday	weekday	purple		LENT	1	B/I		movable	Thursday of the 1st Week of Lent
+2009-03-06	LentWeekday1Friday	weekday	purple		LENT	1	B/I		movable	Friday of the 1st Week of Lent
+2009-03-07	LentWeekday1Saturday	weekday	purple		LENT	1	B/I		movable	Saturday of the 1st Week of Lent
+2009-03-07	StsPerpetuaFelicity	commemoration	red	Proper	LENT	1	B/I			Saints Perpetua and Felicity, Martyrs
+2009-03-07	Lent2_vigil	higher-solemnity	purple		LENT	2	B/I	Lent2	movable	Second Sunday of Lent Vigil Mass
+2009-03-08	Lent2	higher-solemnity	purple		LENT	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Second Sunday of Lent
+2009-03-09	LentWeekday2Monday	weekday	purple		LENT	2	B/I		movable	Monday of the 2nd Week of Lent
+2009-03-09	StFrancesRome	commemoration	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	LENT	2	B/I			Saint Frances of Rome, Religious
+2009-03-10	LentWeekday2Tuesday	weekday	purple		LENT	2	B/I		movable	Tuesday of the 2nd Week of Lent
+2009-03-11	LentWeekday2Wednesday	weekday	purple		LENT	2	B/I		movable	Wednesday of the 2nd Week of Lent
+2009-03-12	LentWeekday2Thursday	weekday	purple		LENT	2	B/I		movable	Thursday of the 2nd Week of Lent
+2009-03-13	LentWeekday2Friday	weekday	purple		LENT	2	B/I		movable	Friday of the 2nd Week of Lent
+2009-03-14	LentWeekday2Saturday	weekday	purple		LENT	2	B/I		movable	Saturday of the 2nd Week of Lent
+2009-03-14	Lent3_vigil	higher-solemnity	purple		LENT	3	B/I	Lent3	movable	Third Sunday of Lent Vigil Mass
+2009-03-15	Lent3	higher-solemnity	purple		LENT	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Lent
+2009-03-16	LentWeekday3Monday	weekday	purple		LENT	3	B/I		movable	Monday of the 3rd Week of Lent
+2009-03-17	LentWeekday3Tuesday	weekday	purple		LENT	3	B/I		movable	Tuesday of the 3rd Week of Lent
+2009-03-17	StPatrick	commemoration	white	Pastors:For a Bishop|Pastors:For Missionaries	LENT	3	B/I			Saint Patrick, Bishop
+2009-03-18	LentWeekday3Wednesday	weekday	purple		LENT	3	B/I		movable	Wednesday of the 3rd Week of Lent
+2009-03-18	StCyrilJerusalem	commemoration	white	Pastors:For a Bishop|Doctors	LENT	3	B/I			Saint Cyril of Jerusalem, Bishop and Doctor of the Church
+2009-03-18	StJoseph_vigil	solemnity	white	Proper	LENT	0	B/I	StJoseph	obligation	Saint Joseph Husband of the Blessed Virgin Mary Vigil Mass
+2009-03-19	StJoseph	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Saint Joseph Husband of the Blessed Virgin Mary
+2009-03-20	LentWeekday3Friday	weekday	purple		LENT	3	B/I		movable	Friday of the 3rd Week of Lent
+2009-03-21	LentWeekday3Saturday	weekday	purple		LENT	3	B/I		movable	Saturday of the 3rd Week of Lent
+2009-03-21	Lent4_vigil	higher-solemnity	rose,purple		LENT	4	B/I	Lent4	movable	Fourth Sunday of Lent Vigil Mass
+2009-03-22	Lent4	higher-solemnity	rose,purple		LENT	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Fourth Sunday of Lent
+2009-03-23	LentWeekday4Monday	weekday	purple		LENT	4	B/I		movable	Monday of the 4th Week of Lent
+2009-03-23	StTuribius	commemoration	white	Pastors:For a Bishop	LENT	4	B/I			Saint Turibius of Mogrovejo, Bishop
+2009-03-24	LentWeekday4Tuesday	weekday	purple		LENT	4	B/I		movable	Tuesday of the 4th Week of Lent
+2009-03-24	Annunciation_vigil	solemnity	white	Proper	LENT	0	B/I	Annunciation		Annunciation of the Lord Vigil Mass
+2009-03-25	Annunciation	solemnity	white	Proper	LENT	0	B/I		vigil-mass,first-vespers,second-vespers	Annunciation of the Lord
+2009-03-26	LentWeekday4Thursday	weekday	purple		LENT	4	B/I		movable	Thursday of the 4th Week of Lent
+2009-03-27	LentWeekday4Friday	weekday	purple		LENT	4	B/I		movable	Friday of the 4th Week of Lent
+2009-03-28	LentWeekday4Saturday	weekday	purple		LENT	4	B/I		movable	Saturday of the 4th Week of Lent
+2009-03-28	Lent5_vigil	higher-solemnity	purple		LENT	1	B/I	Lent5	movable	Fifth Sunday of Lent Vigil Mass
+2009-03-29	Lent5	higher-solemnity	purple		LENT	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Fifth Sunday of Lent
+2009-03-30	LentWeekday5Monday	weekday	purple		LENT	1	B/I		movable	Monday of the 5th Week of Lent
+2009-03-31	LentWeekday5Tuesday	weekday	purple		LENT	1	B/I		movable	Tuesday of the 5th Week of Lent
+2009-04-01	LentWeekday5Wednesday	weekday	purple		LENT	1	B/I		movable	Wednesday of the 5th Week of Lent
+2009-04-02	LentWeekday5Thursday	weekday	purple		LENT	1	B/I		movable	Thursday of the 5th Week of Lent
+2009-04-02	StFrancisPaola	commemoration	white	Holy Men and Women:For Religious	LENT	1	B/I			Saint Francis of Paola, Hermit
+2009-04-03	LentWeekday5Friday	weekday	purple		LENT	1	B/I		movable	Friday of the 5th Week of Lent
+2009-04-04	LentWeekday5Saturday	weekday	purple		LENT	1	B/I		movable	Saturday of the 5th Week of Lent
+2009-04-04	StIsidore	commemoration	white	Pastors:For a Bishop|Doctors	LENT	1	B/I			Saint Isidore, Bishop and Doctor of the Church
+2009-04-04	PalmSun_vigil	higher-solemnity	red		LENT	0	B/I	PalmSun	movable	Palm Sunday Vigil Mass
+2009-04-05	PalmSun	higher-solemnity	red		LENT	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Palm Sunday
+2009-04-06	MonHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	Monday of Holy Week
+2009-04-07	TueHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	Tuesday of Holy Week
+2009-04-08	WedHolyWeek	higher-solemnity	purple		LENT	0	B/I		movable	Wednesday of Holy Week
+2009-04-09	HolyThurs	higher-solemnity	white		EASTER_TRIDUUM	0	B/I		movable	Holy Thursday
+2009-04-09	HolyThursChrism	higher-solemnity	white		LENT	0	B/I		movable	Chrism Mass
+2009-04-10	GoodFri	higher-solemnity	red		EASTER_TRIDUUM	0	B/I		movable	Good Friday
+2009-04-11	EasterVigil	higher-solemnity	white		EASTER_TRIDUUM	0	B/I		movable	Easter Vigil
+2009-04-12	Easter	higher-solemnity	white		EASTER	0	B/I		movable	Easter Sunday
+2009-04-13	MonOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Monday of the Octave of Easter
+2009-04-14	TueOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Tuesday of the Octave of Easter
+2009-04-15	WedOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Wednesday of the Octave of Easter
+2009-04-16	ThuOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Thursday of the Octave of Easter
+2009-04-17	FriOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Friday of the Octave of Easter
+2009-04-18	SatOctaveEaster	higher-solemnity	white		EASTER	0	B/I		movable	Saturday of the Octave of Easter
+2009-04-18	Easter2_vigil	higher-solemnity	white		EASTER	2	B/I	Easter2	movable	Second Sunday of Easter or Divine Mercy Sunday Vigil Mass
+2009-04-19	Easter2	higher-solemnity	white		EASTER	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Second Sunday of Easter or Divine Mercy Sunday
+2009-04-20	EasterWeekday2Monday	weekday	white		EASTER	2	B/I		movable	Monday of the 2nd Week of Easter
+2009-04-21	EasterWeekday2Tuesday	weekday	white		EASTER	2	B/I		movable	Tuesday of the 2nd Week of Easter
+2009-04-21	StAnselm	optional-memorial	white	Pastors:For a Bishop|Doctors	EASTER	2	B/I			Saint Anselm, Bishop and Doctor of the Church
+2009-04-22	EasterWeekday2Wednesday	weekday	white		EASTER	2	B/I		movable	Wednesday of the 2nd Week of Easter
+2009-04-23	EasterWeekday2Thursday	weekday	white		EASTER	2	B/I		movable	Thursday of the 2nd Week of Easter
+2009-04-23	StGeorge	optional-memorial	red	Martyrs:For One Martyr	EASTER	2	B/I			Saint George, Martyr
+2009-04-23	StAdalbert	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	EASTER	2	B/I			Saint Adalbert, Bishop and Martyr
+2009-04-24	EasterWeekday2Friday	weekday	white		EASTER	2	B/I		movable	Friday of the 2nd Week of Easter
+2009-04-24	StFidelisSigmaringen	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For One Pastor	EASTER	2	B/I			Saint Fidelis of Sigmaringen, Priest and Martyr
+2009-04-25	StMarkEvangelist	feast	red	Proper	EASTER	0	B/I			Saint Mark the Evangelist
+2009-04-25	Easter3_vigil	higher-solemnity	white		EASTER	3	B/I	Easter3	movable	Third Sunday of Easter Vigil Mass
+2009-04-26	Easter3	higher-solemnity	white		EASTER	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Easter
+2009-04-27	EasterWeekday3Monday	weekday	white		EASTER	3	B/I		movable	Monday of the 3rd Week of Easter
+2009-04-28	EasterWeekday3Tuesday	weekday	white		EASTER	3	B/I		movable	Tuesday of the 3rd Week of Easter
+2009-04-28	StPeterChanel	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	EASTER	3	B/I			Saint Peter Chanel, Priest and Martyr
+2009-04-28	StLouisGrignionMontfort	optional-memorial	white	Pastors:For One Pastor	EASTER	3	B/I			Saint Louis Grignion de Montfort, Priest
+2009-04-29	StCatherineSiena	memorial	white	Proper	EASTER	0	B/I			Saint Catherine of Siena, Virgin and Doctor of the Church
+2009-04-30	EasterWeekday3Thursday	weekday	white		EASTER	3	B/I		movable	Thursday of the 3rd Week of Easter
+2009-04-30	StPiusV	optional-memorial	white	Pastors:For a Pope	EASTER	3	B/I			Saint Pius V, Pope
+2009-05-01	EasterWeekday3Friday	weekday	white		EASTER	3	B/I		movable	Friday of the 3rd Week of Easter
+2009-05-01	StJosephWorker	optional-memorial	white	Proper	EASTER	3	B/I			Saint Joseph the Worker
+2009-05-02	StAthanasius	memorial	white	Proper	EASTER	0	B/I			Saint Athanasius, Bishop and Doctor of the Church
+2009-05-02	Easter4_vigil	higher-solemnity	white		EASTER	4	B/I	Easter4	movable	Fourth Sunday of Easter Vigil Mass
+2009-05-03	Easter4	higher-solemnity	white		EASTER	4	B/I		movable,vigil-mass,first-vespers,second-vespers	Fourth Sunday of Easter
+2009-05-04	EasterWeekday4Monday	weekday	white		EASTER	4	B/I		movable	Monday of the 4th Week of Easter
+2009-05-05	EasterWeekday4Tuesday	weekday	white		EASTER	4	B/I		movable	Tuesday of the 4th Week of Easter
+2009-05-06	EasterWeekday4Wednesday	weekday	white		EASTER	4	B/I		movable	Wednesday of the 4th Week of Easter
+2009-05-07	EasterWeekday4Thursday	weekday	white		EASTER	4	B/I		movable	Thursday of the 4th Week of Easter
+2009-05-08	EasterWeekday4Friday	weekday	white		EASTER	4	B/I		movable	Friday of the 4th Week of Easter
+2009-05-09	EasterWeekday4Saturday	weekday	white		EASTER	4	B/I		movable	Saturday of the 4th Week of Easter
+2009-05-09	Easter5_vigil	higher-solemnity	white		EASTER	1	B/I	Easter5	movable	Fifth Sunday of Easter Vigil Mass
+2009-05-10	Easter5	higher-solemnity	white		EASTER	1	B/I		movable,vigil-mass,first-vespers,second-vespers	Fifth Sunday of Easter
+2009-05-11	EasterWeekday5Monday	weekday	white		EASTER	1	B/I		movable	Monday of the 5th Week of Easter
+2009-05-12	EasterWeekday5Tuesday	weekday	white		EASTER	1	B/I		movable	Tuesday of the 5th Week of Easter
+2009-05-12	StsNereusAchilleus	optional-memorial	red	Martyrs:For Several Martyrs	EASTER	1	B/I			Saints Nereus and Achilleus, Martyrs
+2009-05-12	StPancras	optional-memorial	red	Martyrs:For One Martyr	EASTER	1	B/I			Saint Pancras, Martyr
+2009-05-13	EasterWeekday5Wednesday	weekday	white		EASTER	1	B/I		movable	Wednesday of the 5th Week of Easter
+2009-05-13	OurLadyOfFatima	optional-memorial	white	Blessed Virgin Mary	EASTER	1	B/I			Our Lady of Fatima
+2009-05-14	StMatthiasAp	feast	red	Proper	EASTER	0	B/I			Saint Matthias the Apostle
+2009-05-15	EasterWeekday5Friday	weekday	white		EASTER	1	B/I		movable	Friday of the 5th Week of Easter
+2009-05-16	EasterWeekday5Saturday	weekday	white		EASTER	1	B/I		movable	Saturday of the 5th Week of Easter
+2009-05-16	Easter6_vigil	higher-solemnity	white		EASTER	2	B/I	Easter6	movable	Sixth Sunday of Easter Vigil Mass
+2009-05-17	Easter6	higher-solemnity	white		EASTER	2	B/I		movable,vigil-mass,first-vespers,second-vespers	Sixth Sunday of Easter
+2009-05-18	EasterWeekday6Monday	weekday	white		EASTER	2	B/I		movable	Monday of the 6th Week of Easter
+2009-05-18	StJohnIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	EASTER	2	B/I			Saint John I, Pope and Martyr
+2009-05-19	EasterWeekday6Tuesday	weekday	white		EASTER	2	B/I		movable	Tuesday of the 6th Week of Easter
+2009-05-20	EasterWeekday6Wednesday	weekday	white		EASTER	2	B/I		movable	Wednesday of the 6th Week of Easter
+2009-05-20	StBernardineSiena	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	EASTER	2	B/I			Saint Bernardine of Siena, Priest
+2009-05-20	Ascension_vigil	higher-solemnity	white		EASTER	0	B/I	Ascension	movable,obligation	Ascension Vigil Mass
+2009-05-21	Ascension	higher-solemnity	white		EASTER	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Ascension
+2009-05-22	EasterWeekday6Friday	weekday	white		EASTER	2	B/I		movable	Friday of the 6th Week of Easter
+2009-05-22	StRitaCascia	optional-memorial	white	Holy Men and Women:For Religious	EASTER	2	B/I			Saint Rita of Cascia, Religious
+2009-05-23	EasterWeekday6Saturday	weekday	white		EASTER	2	B/I		movable	Saturday of the 6th Week of Easter
+2009-05-23	Easter7_vigil	higher-solemnity	white		EASTER	3	B/I	Easter7	movable	Seventh Sunday of Easter Vigil Mass
+2009-05-24	Easter7	higher-solemnity	white		EASTER	3	B/I		movable,vigil-mass,first-vespers,second-vespers	Seventh Sunday of Easter
+2009-05-25	EasterWeekday7Monday	weekday	white		EASTER	3	B/I		movable	Monday of the 7th Week of Easter
+2009-05-25	StBedeVenerable	optional-memorial	white	Doctors|Holy Men and Women:For a Monk	EASTER	3	B/I			Saint Bede the Venerable, Priest and Doctor of the Church
+2009-05-25	StGregoryVII	optional-memorial	white	Pastors:For a Pope	EASTER	3	B/I			Saint Gregory VII, Pope
+2009-05-25	StMaryMagdalenePazzi	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For Religious	EASTER	3	B/I			Saint Mary Magdalene de Pazzi, Virgin
+2009-05-26	StPhilipNeri	memorial	white	Proper	EASTER	0	B/I			Saint Philip Neri, Priest
+2009-05-27	EasterWeekday7Wednesday	weekday	white		EASTER	3	B/I		movable	Wednesday of the 7th Week of Easter
+2009-05-27	StAugustineCanterbury	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	EASTER	3	B/I			Saint Augustine of Canterbury, Bishop
+2009-05-28	EasterWeekday7Thursday	weekday	white		EASTER	3	B/I		movable	Thursday of the 7th Week of Easter
+2009-05-29	EasterWeekday7Friday	weekday	white		EASTER	3	B/I		movable	Friday of the 7th Week of Easter
+2009-05-30	EasterWeekday7Saturday	weekday	white		EASTER	3	B/I		movable	Saturday of the 7th Week of Easter
+2009-05-30	Pentecost_vigil	higher-solemnity	red		EASTER	0	B/I	Pentecost	movable	Pentecost Vigil Mass
+2009-05-31	Pentecost	higher-solemnity	red		EASTER	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Pentecost
+2009-06-01	StJustinMartyr	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Justin Martyr
+2009-06-02	OrdWeekday9Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 9th Week of Ordinary Time
+2009-06-02	StsMarcellinusPeter	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Saints Marcellinus and Peter, Martyrs
+2009-06-03	StsCharlesLwanga	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Charles Lwanga and Companions, Martyrs
+2009-06-04	OrdWeekday9Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 9th Week of Ordinary Time
+2009-06-05	StBoniface	memorial	white,red	Martyrs:For One Martyr|Pastors:For Missionaries	ORDINARY_TIME	0	B/I			Saint Boniface, Bishop and Martyr
+2009-06-06	OrdWeekday9Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Saturday of the 9th Week of Ordinary Time
+2009-06-06	StNorbert	optional-memorial	white	Pastors:For a Bishop|Holy Men and Women:For Religious	ORDINARY_TIME	1	B/I			Saint Norbert, Bishop
+2009-06-06	SatMemBVM3	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-06-06	Trinity_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	Trinity	movable	Holy Trinity Sunday Vigil Mass
+2009-06-07	Trinity	higher-solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Holy Trinity Sunday
+2009-06-08	OrdWeekday10Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 10th Week of Ordinary Time
+2009-06-09	OrdWeekday10Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 10th Week of Ordinary Time
+2009-06-09	StEphrem	optional-memorial	white	Doctors	ORDINARY_TIME	2	B/I			Saint Ephrem, Deacon and Doctor of the Church
+2009-06-10	OrdWeekday10Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 10th Week of Ordinary Time
+2009-06-10	CorpusChristi_vigil	higher-solemnity	white		ORDINARY_TIME	0	B/I	CorpusChristi	movable,obligation	Corpus Christi Vigil Mass
+2009-06-11	CorpusChristi	higher-solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers,obligation	Corpus Christi
+2009-06-12	OrdWeekday10Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 10th Week of Ordinary Time
+2009-06-13	StAnthonyPadua	memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	0	B/I			Saint Anthony of Padua, Priest and Doctor of the Church
+2009-06-13	OrdSunday11_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday11	movable	11th Sunday of Ordinary Time Vigil Mass
+2009-06-14	OrdSunday11	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	11th Sunday of Ordinary Time
+2009-06-15	OrdWeekday11Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Monday of the 11th Week of Ordinary Time
+2009-06-16	OrdWeekday11Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 11th Week of Ordinary Time
+2009-06-17	OrdWeekday11Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Wednesday of the 11th Week of Ordinary Time
+2009-06-18	OrdWeekday11Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 11th Week of Ordinary Time
+2009-06-18	SacredHeart_vigil	solemnity	white		ORDINARY_TIME	0	B/I	SacredHeart	movable	Most Sacred Heart of Jesus Vigil Mass
+2009-06-19	SacredHeart	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Most Sacred Heart of Jesus
+2009-06-20	ImmaculateHeart	memorial	white		ORDINARY_TIME	0	B/I		movable	The Immaculate Heart of the Blessed Virgin Mary
+2009-06-20	OrdSunday12_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday12	movable	12th Sunday of Ordinary Time Vigil Mass
+2009-06-21	OrdSunday12	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	12th Sunday of Ordinary Time
+2009-06-22	OrdWeekday12Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Monday of the 12th Week of Ordinary Time
+2009-06-22	StPaulinusNola	optional-memorial	white	Pastors:For a Bishop	ORDINARY_TIME	4	B/I			Saint Paulinus of Nola, Bishop
+2009-06-22	StsJohnFisherThomasMore	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	4	B/I			Saints John Fisher, Bishop, and Thomas More, Martyrs
+2009-06-23	OrdWeekday12Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Tuesday of the 12th Week of Ordinary Time
+2009-06-23	NativityJohnBaptist_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	NativityJohnBaptist		The Nativity of Saint John the Baptist Vigil Mass
+2009-06-24	NativityJohnBaptist	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers	The Nativity of Saint John the Baptist
+2009-06-25	OrdWeekday12Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Thursday of the 12th Week of Ordinary Time
+2009-06-26	OrdWeekday12Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 12th Week of Ordinary Time
+2009-06-27	OrdWeekday12Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Saturday of the 12th Week of Ordinary Time
+2009-06-27	StCyrilAlexandria	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	B/I			Saint Cyril of Alexandria, Bishop and Doctor of the Church
+2009-06-27	SatMemBVM4	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-06-27	OrdSunday13_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday13	movable	13th Sunday of Ordinary Time Vigil Mass
+2009-06-28	OrdSunday13	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	13th Sunday of Ordinary Time
+2009-06-28	StsPeterPaulAp_vigil	solemnity	red	Proper	ORDINARY_TIME	0	B/I	StsPeterPaulAp	obligation	Saints Peter and Paul, Apostles Vigil Mass
+2009-06-29	StsPeterPaulAp	solemnity	red	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	Saints Peter and Paul, Apostles
+2009-06-30	OrdWeekday13Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 13th Week of Ordinary Time
+2009-06-30	FirstMartyrsRome	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			The First Martyrs of the Holy Roman Church
+2009-07-01	OrdWeekday13Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 13th Week of Ordinary Time
+2009-07-02	OrdWeekday13Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 13th Week of Ordinary Time
+2009-07-03	StThomasAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Thomas the Apostle
+2009-07-04	OrdWeekday13Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Saturday of the 13th Week of Ordinary Time
+2009-07-04	StElizabethPortugal	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	B/I			Saint Elizabeth of Portugal
+2009-07-04	SatMemBVM5	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-07-04	OrdSunday14_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday14	movable	14th Sunday of Ordinary Time Vigil Mass
+2009-07-05	OrdSunday14	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	14th Sunday of Ordinary Time
+2009-07-06	OrdWeekday14Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 14th Week of Ordinary Time
+2009-07-06	StMariaGoretti	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	B/I			Saint Maria Goretti, Virgin and Martyr
+2009-07-07	OrdWeekday14Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 14th Week of Ordinary Time
+2009-07-08	OrdWeekday14Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 14th Week of Ordinary Time
+2009-07-09	OrdWeekday14Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Thursday of the 14th Week of Ordinary Time
+2009-07-09	StAugustineZhaoRong	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			Saint Augustine Zhao Rong, Priest, and Companions, Martyrs
+2009-07-10	OrdWeekday14Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 14th Week of Ordinary Time
+2009-07-11	StBenedict	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Benedict, Abbot
+2009-07-11	OrdSunday15_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday15	movable	15th Sunday of Ordinary Time Vigil Mass
+2009-07-12	OrdSunday15	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	15th Sunday of Ordinary Time
+2009-07-13	OrdWeekday15Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Monday of the 15th Week of Ordinary Time
+2009-07-13	StHenry	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	3	B/I			Saint Henry
+2009-07-14	OrdWeekday15Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 15th Week of Ordinary Time
+2009-07-14	StCamillusDeLellis	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			Saint Camillus de Lellis, Priest
+2009-07-15	StBonaventure	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	B/I			Saint Bonaventure, Bishop and Doctor of the Church
+2009-07-16	OrdWeekday15Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 15th Week of Ordinary Time
+2009-07-16	OurLadyOfMountCarmel	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I			Our Lady of Mount Carmel
+2009-07-17	OrdWeekday15Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Friday of the 15th Week of Ordinary Time
+2009-07-18	OrdWeekday15Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Saturday of the 15th Week of Ordinary Time
+2009-07-18	SatMemBVM6	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-07-18	OrdSunday16_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday16	movable	16th Sunday of Ordinary Time Vigil Mass
+2009-07-19	OrdSunday16	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	16th Sunday of Ordinary Time
+2009-07-20	OrdWeekday16Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Monday of the 16th Week of Ordinary Time
+2009-07-20	StApollinaris	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	B/I			Saint Apollinaris, Bishop and Martyr
+2009-07-21	OrdWeekday16Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Tuesday of the 16th Week of Ordinary Time
+2009-07-21	StLawrenceBrindisi	optional-memorial	white	Pastors:For One Pastor|Doctors|Holy Men and Women:For Religious	ORDINARY_TIME	4	B/I			Saint Lawrence of Brindisi, Priest and Doctor of the Church
+2009-07-22	StMaryMagdalene	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Mary Magdalene
+2009-07-23	OrdWeekday16Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Thursday of the 16th Week of Ordinary Time
+2009-07-23	StBridget	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Saint Bridget, Religious
+2009-07-24	OrdWeekday16Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 16th Week of Ordinary Time
+2009-07-24	StSharbelMakhluf	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	4	B/I			Saint Sharbel Makhluf, Hermit
+2009-07-25	StJamesAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint James, Apostle
+2009-07-25	OrdSunday17_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday17	movable	17th Sunday of Ordinary Time Vigil Mass
+2009-07-26	OrdSunday17	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	17th Sunday of Ordinary Time
+2009-07-27	OrdWeekday17Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 17th Week of Ordinary Time
+2009-07-28	OrdWeekday17Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 17th Week of Ordinary Time
+2009-07-29	StMartha	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Martha
+2009-07-30	OrdWeekday17Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 17th Week of Ordinary Time
+2009-07-30	StPeterChrysologus	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	1	B/I			Saint Peter Chrysologus, Bishop and Doctor of the Church
+2009-07-31	StIgnatiusLoyola	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Ignatius of Loyola, Priest
+2009-08-01	StAlphonsusMariaDeLiguori	memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	0	B/I			Saint Alphonsus Mary Liguori, Bishop and Doctor of the Church
+2009-08-01	OrdSunday18_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday18	movable	18th Sunday of Ordinary Time Vigil Mass
+2009-08-02	OrdSunday18	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	18th Sunday of Ordinary Time
+2009-08-03	OrdWeekday18Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 18th Week of Ordinary Time
+2009-08-04	StJeanVianney	memorial	white	Pastors:For One Pastor	ORDINARY_TIME	0	B/I			Saint John Mary Vianney, Priest
+2009-08-05	OrdWeekday18Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 18th Week of Ordinary Time
+2009-08-05	DedicationStMaryMajor	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I			The Dedication of the Basilica of Saint Mary Major
+2009-08-06	Transfiguration	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			The Transfiguration of the Lord
+2009-08-07	OrdWeekday18Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 18th Week of Ordinary Time
+2009-08-07	StSixtusIIPope	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			Saint Sixtus II, Pope, and Companions, Martyrs
+2009-08-07	StCajetan	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	2	B/I			Saint Cajetan, Priest
+2009-08-08	StDominic	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Dominic, Priest
+2009-08-08	OrdSunday19_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday19	movable	19th Sunday of Ordinary Time Vigil Mass
+2009-08-09	OrdSunday19	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	19th Sunday of Ordinary Time
+2009-08-10	StLawrenceDeacon	feast	white,red	Proper	ORDINARY_TIME	0	B/I			Saint Lawrence, Deacon and Martyr
+2009-08-11	StClare	memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	0	B/I			Saint Clare, Virgin
+2009-08-12	OrdWeekday19Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Wednesday of the 19th Week of Ordinary Time
+2009-08-12	StJaneFrancesDeChantal	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Saint Jane Frances de Chantal, Religious
+2009-08-13	OrdWeekday19Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 19th Week of Ordinary Time
+2009-08-13	StsPontianHippolytus	optional-memorial	white,red	Martyrs:For Several Martyrs|Pastors:For Several Pastors	ORDINARY_TIME	3	B/I			Saints Pontian, Pope, and Hippolytus, Priest, Martyrs
+2009-08-14	StMaximilianKolbe	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			Saint Maximilian Mary Kolbe, Priest and Martyr
+2009-08-14	Assumption_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	Assumption	obligation	The Assumption of the Blessed Virgin Mary Vigil Mass
+2009-08-15	Assumption	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	The Assumption of the Blessed Virgin Mary
+2009-08-16	OrdSunday20	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,second-vespers	20th Sunday of Ordinary Time
+2009-08-17	OrdWeekday20Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Monday of the 20th Week of Ordinary Time
+2009-08-18	OrdWeekday20Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Tuesday of the 20th Week of Ordinary Time
+2009-08-19	OrdWeekday20Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Wednesday of the 20th Week of Ordinary Time
+2009-08-19	StJohnEudes	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	4	B/I			Saint John Eudes, Priest
+2009-08-20	StBernardClairvaux	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Bernard, Abbot and Doctor of the Church
+2009-08-21	StPiusX	memorial	white	Pastors:For a Pope	ORDINARY_TIME	0	B/I			Saint Pius X, Pope
+2009-08-22	QueenshipMary	memorial	white	Proper	ORDINARY_TIME	0	B/I			The Queenship of the Blessed Virgin Mary
+2009-08-22	OrdSunday21_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday21	movable	21st Sunday of Ordinary Time Vigil Mass
+2009-08-23	OrdSunday21	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	21st Sunday of Ordinary Time
+2009-08-24	StBartholomewAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Bartholomew, Apostle
+2009-08-25	OrdWeekday21Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 21st Week of Ordinary Time
+2009-08-25	StLouis	optional-memorial	white	Holy Men and Women:For One Saint	ORDINARY_TIME	1	B/I			Saint Louis
+2009-08-25	StJosephCalasanz	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Educators	ORDINARY_TIME	1	B/I			Saint Joseph Calasanz, Priest
+2009-08-26	OrdWeekday21Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 21st Week of Ordinary Time
+2009-08-27	StMonica	memorial	white	Holy Men and Women:For Holy Women	ORDINARY_TIME	0	B/I			Saint Monica
+2009-08-28	StAugustineHippo	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Augustine, Bishop and Doctor of the Church
+2009-08-29	BeheadingJohnBaptist	memorial	red	Proper	ORDINARY_TIME	0	B/I			The Beheading of Saint John the Baptist, Martyr
+2009-08-29	OrdSunday22_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday22	movable	22nd Sunday of Ordinary Time Vigil Mass
+2009-08-30	OrdSunday22	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	22nd Sunday of Ordinary Time
+2009-08-31	OrdWeekday22Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 22nd Week of Ordinary Time
+2009-09-01	OrdWeekday22Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 22nd Week of Ordinary Time
+2009-09-02	OrdWeekday22Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 22nd Week of Ordinary Time
+2009-09-03	StGregoryGreat	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Gregory the Great, Pope and Doctor of the Church
+2009-09-04	OrdWeekday22Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 22nd Week of Ordinary Time
+2009-09-05	OrdWeekday22Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Saturday of the 22nd Week of Ordinary Time
+2009-09-05	SatMemBVM7	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-09-05	OrdSunday23_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday23	movable	23rd Sunday of Ordinary Time Vigil Mass
+2009-09-06	OrdSunday23	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	23rd Sunday of Ordinary Time
+2009-09-07	OrdWeekday23Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Monday of the 23rd Week of Ordinary Time
+2009-09-08	NativityVirginMary	feast	white	Proper	ORDINARY_TIME	0	B/I			The Nativity of the Blessed Virgin Mary
+2009-09-09	OrdWeekday23Wednesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Wednesday of the 23rd Week of Ordinary Time
+2009-09-09	StPeterClaver	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			Saint Peter Claver, Priest
+2009-09-10	OrdWeekday23Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 23rd Week of Ordinary Time
+2009-09-11	OrdWeekday23Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Friday of the 23rd Week of Ordinary Time
+2009-09-12	OrdWeekday23Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Saturday of the 23rd Week of Ordinary Time
+2009-09-12	HolyNameMary	optional-memorial	white	Proper	ORDINARY_TIME	3	B/I			The Holy Name of the Blessed Virgin Mary
+2009-09-12	SatMemBVM8	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-09-12	OrdSunday24_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday24	movable	24th Sunday of Ordinary Time Vigil Mass
+2009-09-13	OrdSunday24	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	24th Sunday of Ordinary Time
+2009-09-14	ExaltationCross	feast-of-the-lord	red	Proper	ORDINARY_TIME	0	B/I			Exaltation of the Holy Cross
+2009-09-15	OurLadyOfSorrows	memorial	white	Proper	ORDINARY_TIME	0	B/I			Our Lady of Sorrows
+2009-09-16	StsCorneliusCyprian	memorial	white,red	Martyrs:For Several Martyrs|Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+2009-09-17	OrdWeekday24Thursday	weekday	green		ORDINARY_TIME	4	B/I		movable	Thursday of the 24th Week of Ordinary Time
+2009-09-17	StRobertBellarmine	optional-memorial	white	Pastors:For a Bishop|Doctors	ORDINARY_TIME	4	B/I			Saint Robert Bellarmine, Bishop and Doctor of the Church
+2009-09-18	OrdWeekday24Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 24th Week of Ordinary Time
+2009-09-19	OrdWeekday24Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Saturday of the 24th Week of Ordinary Time
+2009-09-19	StJanuarius	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	ORDINARY_TIME	4	B/I			Saint Januarius, Bishop and Martyr
+2009-09-19	SatMemBVM9	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-09-19	OrdSunday25_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday25	movable	25th Sunday of Ordinary Time Vigil Mass
+2009-09-20	OrdSunday25	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	25th Sunday of Ordinary Time
+2009-09-21	StMatthewEvangelist	feast	red	Proper	ORDINARY_TIME	0	B/I			Saint Matthew, Apostle and Evangelist
+2009-09-22	OrdWeekday25Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 25th Week of Ordinary Time
+2009-09-23	StPioPietrelcina	memorial	white	Pastors:For One Pastor|Holy Men and Women:For Religious	ORDINARY_TIME	0	B/I			Saint Pius of Pietrelcina, Priest
+2009-09-24	OrdWeekday25Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 25th Week of Ordinary Time
+2009-09-25	OrdWeekday25Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Friday of the 25th Week of Ordinary Time
+2009-09-26	OrdWeekday25Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Saturday of the 25th Week of Ordinary Time
+2009-09-26	StsCosmasDamian	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	1	B/I			Saints Cosmas and Damian, Martyrs
+2009-09-26	SatMemBVM10	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-09-26	OrdSunday26_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday26	movable	26th Sunday of Ordinary Time Vigil Mass
+2009-09-27	OrdSunday26	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	26th Sunday of Ordinary Time
+2009-09-28	OrdWeekday26Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 26th Week of Ordinary Time
+2009-09-28	StWenceslaus	optional-memorial	red	Martyrs:For One Martyr	ORDINARY_TIME	2	B/I			Saint Wenceslaus, Martyr
+2009-09-28	StsLawrenceRuiz	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	2	B/I			Saint Lawrence Ruiz and Companions, Martyrs
+2009-09-29	StsArchangels	feast	white	Proper	ORDINARY_TIME	0	B/I			Saints Michael, Gabriel and Raphael, Archangels
+2009-09-30	StJerome	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Jerome, Priest and Doctor of the Church
+2009-10-01	StThereseChildJesus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church
+2009-10-02	GuardianAngels	memorial	white	Proper	ORDINARY_TIME	0	B/I			The Holy Guardian Angels
+2009-10-03	OrdWeekday26Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Saturday of the 26th Week of Ordinary Time
+2009-10-03	SatMemBVM11	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-10-03	OrdSunday27_vigil	feast-of-the-lord	green		ORDINARY_TIME	3	B/I	OrdSunday27	movable	27th Sunday of Ordinary Time Vigil Mass
+2009-10-04	OrdSunday27	feast-of-the-lord	green		ORDINARY_TIME	3	B/I		movable,vigil-mass,first-vespers,second-vespers	27th Sunday of Ordinary Time
+2009-10-05	OrdWeekday27Monday	weekday	green		ORDINARY_TIME	3	B/I		movable	Monday of the 27th Week of Ordinary Time
+2009-10-06	OrdWeekday27Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 27th Week of Ordinary Time
+2009-10-06	StBruno	optional-memorial	white	Pastors:For One Pastor|Holy Men and Women:For a Monk	ORDINARY_TIME	3	B/I			Saint Bruno, Priest
+2009-10-07	OurLadyOfTheRosary	memorial	white	Proper	ORDINARY_TIME	0	B/I			Our Lady of the Rosary
+2009-10-08	OrdWeekday27Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 27th Week of Ordinary Time
+2009-10-09	OrdWeekday27Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Friday of the 27th Week of Ordinary Time
+2009-10-09	StDenis	optional-memorial	red	Martyrs:For Several Martyrs	ORDINARY_TIME	3	B/I			Saint Denis, Bishop, and Companions, Martyrs
+2009-10-09	StJohnLeonardi	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	3	B/I			Saint John Leonardi, Priest
+2009-10-10	OrdWeekday27Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Saturday of the 27th Week of Ordinary Time
+2009-10-10	SatMemBVM12	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-10-10	OrdSunday28_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday28	movable	28th Sunday of Ordinary Time Vigil Mass
+2009-10-11	OrdSunday28	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	28th Sunday of Ordinary Time
+2009-10-12	OrdWeekday28Monday	weekday	green		ORDINARY_TIME	4	B/I		movable	Monday of the 28th Week of Ordinary Time
+2009-10-13	OrdWeekday28Tuesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Tuesday of the 28th Week of Ordinary Time
+2009-10-14	OrdWeekday28Wednesday	weekday	green		ORDINARY_TIME	4	B/I		movable	Wednesday of the 28th Week of Ordinary Time
+2009-10-14	StCallistusIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	4	B/I			Saint Callistus I, Pope and Martyr
+2009-10-15	StTeresaJesus	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Teresa of Jesus, Virgin and Doctor of the Church
+2009-10-16	OrdWeekday28Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 28th Week of Ordinary Time
+2009-10-16	StHedwig	optional-memorial	white	Holy Men and Women:For Religious|Holy Men and Women:For Holy Women	ORDINARY_TIME	4	B/I			Saint Hedwig, Religious
+2009-10-16	StMargaretAlacoque	optional-memorial	white	Virgins:For One Virgin	ORDINARY_TIME	4	B/I			Saint Margaret Mary Alacoque, Virgin
+2009-10-17	StIgnatiusAntioch	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			Saint Ignatius of Antioch, Bishop and Martyr
+2009-10-17	OrdSunday29_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday29	movable	29th Sunday of Ordinary Time Vigil Mass
+2009-10-18	OrdSunday29	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	29th Sunday of Ordinary Time
+2009-10-19	OrdWeekday29Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 29th Week of Ordinary Time
+2009-10-19	StsJeanBrebeuf	optional-memorial	red	Martyrs:For Missionary Martyrs	ORDINARY_TIME	1	B/I			Saints John de Brébeuf and Isaac Jogues, Priests, and Companions, Martyrs
+2009-10-19	StPaulCross	optional-memorial	white	Proper	ORDINARY_TIME	1	B/I			Saint Paul of the Cross, Priest
+2009-10-20	OrdWeekday29Tuesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Tuesday of the 29th Week of Ordinary Time
+2009-10-21	OrdWeekday29Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 29th Week of Ordinary Time
+2009-10-22	OrdWeekday29Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 29th Week of Ordinary Time
+2009-10-23	OrdWeekday29Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Friday of the 29th Week of Ordinary Time
+2009-10-23	StJohnCapistrano	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For Religious	ORDINARY_TIME	1	B/I			Saint John of Capestrano, Priest
+2009-10-24	OrdWeekday29Saturday	weekday	green		ORDINARY_TIME	1	B/I		movable	Saturday of the 29th Week of Ordinary Time
+2009-10-24	StAnthonyMaryClaret	optional-memorial	white	Pastors:For a Bishop|Pastors:For Missionaries	ORDINARY_TIME	1	B/I			Saint Anthony Mary Claret, Bishop
+2009-10-24	SatMemBVM13	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	1	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-10-24	OrdSunday30_vigil	feast-of-the-lord	green		ORDINARY_TIME	2	B/I	OrdSunday30	movable	30th Sunday of Ordinary Time Vigil Mass
+2009-10-25	OrdSunday30	feast-of-the-lord	green		ORDINARY_TIME	2	B/I		movable,vigil-mass,first-vespers,second-vespers	30th Sunday of Ordinary Time
+2009-10-26	OrdWeekday30Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 30th Week of Ordinary Time
+2009-10-27	OrdWeekday30Tuesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Tuesday of the 30th Week of Ordinary Time
+2009-10-28	StSimonStJudeAp	feast	red	Proper	ORDINARY_TIME	0	B/I			Saints Simon and Jude, Apostles
+2009-10-29	OrdWeekday30Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Thursday of the 30th Week of Ordinary Time
+2009-10-30	OrdWeekday30Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 30th Week of Ordinary Time
+2009-10-31	OrdWeekday30Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Saturday of the 30th Week of Ordinary Time
+2009-10-31	SatMemBVM14	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-10-31	AllSaints_vigil	solemnity	white	Proper	ORDINARY_TIME	0	B/I	AllSaints	obligation	All Saints Vigil Mass
+2009-11-01	AllSaints	solemnity	white	Proper	ORDINARY_TIME	0	B/I		vigil-mass,first-vespers,second-vespers,obligation	All Saints
+2009-11-02	AllSouls	solemnity	purple	Proper	ORDINARY_TIME	0	B/I			The Commemoration of all the Faithful Departed (All Souls' Day)
+2009-11-03	OrdWeekday31Tuesday	weekday	green		ORDINARY_TIME	3	B/I		movable	Tuesday of the 31st Week of Ordinary Time
+2009-11-03	StMartinPorres	optional-memorial	white	Holy Men and Women:For Religious	ORDINARY_TIME	3	B/I			Saint Martin de Porres, Religious
+2009-11-04	StCharlesBorromeo	memorial	white	Pastors:For a Bishop	ORDINARY_TIME	0	B/I			Saint Charles Borromeo, Bishop
+2009-11-05	OrdWeekday31Thursday	weekday	green		ORDINARY_TIME	3	B/I		movable	Thursday of the 31st Week of Ordinary Time
+2009-11-06	OrdWeekday31Friday	weekday	green		ORDINARY_TIME	3	B/I		movable	Friday of the 31st Week of Ordinary Time
+2009-11-07	OrdWeekday31Saturday	weekday	green		ORDINARY_TIME	3	B/I		movable	Saturday of the 31st Week of Ordinary Time
+2009-11-07	SatMemBVM15	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	3	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-11-07	OrdSunday32_vigil	feast-of-the-lord	green		ORDINARY_TIME	4	B/I	OrdSunday32	movable	32nd Sunday of Ordinary Time Vigil Mass
+2009-11-08	OrdSunday32	feast-of-the-lord	green		ORDINARY_TIME	4	B/I		movable,vigil-mass,first-vespers,second-vespers	32nd Sunday of Ordinary Time
+2009-11-09	DedicationLateran	feast-of-the-lord	white	Proper	ORDINARY_TIME	0	B/I			The Dedication of the Lateran Basilica
+2009-11-10	StLeoGreat	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Leo the Great, Pope and Doctor of the Church
+2009-11-11	StMartinTours	memorial	white	Proper	ORDINARY_TIME	0	B/I			Saint Martin of Tours, Bishop
+2009-11-12	StJosaphat	memorial	white,red	Proper	ORDINARY_TIME	0	B/I			Saint Josaphat, Bishop and Martyr
+2009-11-13	OrdWeekday32Friday	weekday	green		ORDINARY_TIME	4	B/I		movable	Friday of the 32nd Week of Ordinary Time
+2009-11-14	OrdWeekday32Saturday	weekday	green		ORDINARY_TIME	4	B/I		movable	Saturday of the 32nd Week of Ordinary Time
+2009-11-14	SatMemBVM16	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	4	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-11-14	OrdSunday33_vigil	feast-of-the-lord	green		ORDINARY_TIME	1	B/I	OrdSunday33	movable	33rd Sunday of Ordinary Time Vigil Mass
+2009-11-15	OrdSunday33	feast-of-the-lord	green		ORDINARY_TIME	1	B/I		movable,vigil-mass,first-vespers,second-vespers	33rd Sunday of Ordinary Time
+2009-11-16	OrdWeekday33Monday	weekday	green		ORDINARY_TIME	1	B/I		movable	Monday of the 33rd Week of Ordinary Time
+2009-11-16	StMargaretScotland	optional-memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	1	B/I			Saint Margaret of Scotland
+2009-11-16	StGertrudeGreat	optional-memorial	white	Virgins:For One Virgin|Holy Men and Women:For a Nun	ORDINARY_TIME	1	B/I			Saint Gertrude the Great, Virgin
+2009-11-17	StElizabethHungary	memorial	white	Holy Men and Women:For Those Who Practiced Works of Mercy	ORDINARY_TIME	0	B/I			Saint Elizabeth of Hungary, Religious
+2009-11-18	OrdWeekday33Wednesday	weekday	green		ORDINARY_TIME	1	B/I		movable	Wednesday of the 33rd Week of Ordinary Time
+2009-11-18	DedicationStsPeterPaul	optional-memorial	white	Proper	ORDINARY_TIME	1	B/I			The Dedication of the Basilicas of Saints Peter and Paul, Apostles
+2009-11-19	OrdWeekday33Thursday	weekday	green		ORDINARY_TIME	1	B/I		movable	Thursday of the 33rd Week of Ordinary Time
+2009-11-20	OrdWeekday33Friday	weekday	green		ORDINARY_TIME	1	B/I		movable	Friday of the 33rd Week of Ordinary Time
+2009-11-21	PresentationMary	memorial	white	Proper	ORDINARY_TIME	0	B/I			The Presentation of the Blessed Virgin Mary
+2009-11-21	ChristKing_vigil	solemnity	white		ORDINARY_TIME	0	B/I	ChristKing	movable	Christ the King Vigil Mass
+2009-11-22	ChristKing	solemnity	white		ORDINARY_TIME	0	B/I		movable,vigil-mass,first-vespers,second-vespers	Christ the King
+2009-11-23	OrdWeekday34Monday	weekday	green		ORDINARY_TIME	2	B/I		movable	Monday of the 34th Week of Ordinary Time
+2009-11-23	StClementIPope	optional-memorial	white,red	Martyrs:For One Martyr|Pastors:For a Pope	ORDINARY_TIME	2	B/I			Saint Clement I, Pope and Martyr
+2009-11-23	StColumban	optional-memorial	white	Pastors:For Missionaries|Holy Men and Women:For an Abbot	ORDINARY_TIME	2	B/I			Saint Columban, Religious
+2009-11-24	StAndrewDungLac	memorial	red	Proper	ORDINARY_TIME	0	B/I			Saint Andrew Dũng-Lạc, Priest, and Companions, Martyrs
+2009-11-25	OrdWeekday34Wednesday	weekday	green		ORDINARY_TIME	2	B/I		movable	Wednesday of the 34th Week of Ordinary Time
+2009-11-25	StCatherineAlexandria	optional-memorial	white,red	Martyrs:For a Virgin Martyr|Virgins:For One Virgin	ORDINARY_TIME	2	B/I			Saint Catherine of Alexandria, Virgin and Martyr
+2009-11-26	OrdWeekday34Thursday	weekday	green		ORDINARY_TIME	2	B/I		movable	Thursday of the 34th Week of Ordinary Time
+2009-11-27	OrdWeekday34Friday	weekday	green		ORDINARY_TIME	2	B/I		movable	Friday of the 34th Week of Ordinary Time
+2009-11-28	OrdWeekday34Saturday	weekday	green		ORDINARY_TIME	2	B/I		movable	Saturday of the 34th Week of Ordinary Time
+2009-11-28	SatMemBVM17	optional-memorial	white	Blessed Virgin Mary	ORDINARY_TIME	2	B/I		movable	Saturday Memorial of the Blessed Virgin Mary
+2009-11-28	Advent1_vigil	higher-solemnity	purple		ADVENT	1	C/II	Advent1	movable	First Sunday of Advent Vigil Mass
+2009-11-29	Advent1	higher-solemnity	purple		ADVENT	1	C/II		movable,vigil-mass,first-vespers,second-vespers	First Sunday of Advent
+2009-11-30	StAndrewAp	feast	red	Proper	ADVENT	0	C/II			Saint Andrew, Apostle
+2009-12-01	AdventWeekday1Tuesday	weekday	purple		ADVENT	1	C/II		movable	Tuesday of the 1st Week of Advent
+2009-12-02	AdventWeekday1Wednesday	weekday	purple		ADVENT	1	C/II		movable	Wednesday of the 1st Week of Advent
+2009-12-03	StFrancisXavier	memorial	white	Proper	ADVENT	1	C/II			Saint Francis Xavier, Priest
+2009-12-04	AdventWeekday1Friday	weekday	purple		ADVENT	1	C/II		movable	Friday of the 1st Week of Advent
+2009-12-04	StJohnDamascene	optional-memorial	white	Pastors:For One Pastor|Doctors	ADVENT	1	C/II			Saint John Damascene, Priest and Doctor of the Church
+2009-12-05	AdventWeekday1Saturday	weekday	purple		ADVENT	1	C/II		movable	Saturday of the 1st Week of Advent
+2009-12-05	Advent2_vigil	higher-solemnity	purple		ADVENT	2	C/II	Advent2	movable	Second Sunday of Advent Vigil Mass
+2009-12-06	Advent2	higher-solemnity	purple		ADVENT	2	C/II		movable,vigil-mass,first-vespers,second-vespers	Second Sunday of Advent
+2009-12-07	StAmbrose	memorial	white	Proper	ADVENT	2	C/II			Saint Ambrose, Bishop and Doctor of the Church
+2009-12-07	ImmaculateConception_vigil	solemnity	white	Proper	ADVENT	0	C/II	ImmaculateConception	obligation	The Immaculate Conception of the Blessed Virgin Mary Vigil Mass
+2009-12-08	ImmaculateConception	solemnity	white	Proper	ADVENT	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	The Immaculate Conception of the Blessed Virgin Mary
+2009-12-09	AdventWeekday2Wednesday	weekday	purple		ADVENT	2	C/II		movable	Wednesday of the 2nd Week of Advent
+2009-12-09	JuanDiego	optional-memorial	white	Holy Men and Women:For One Saint	ADVENT	2	C/II			Saint Juan Diego Cuauhtlatoatzin
+2009-12-10	AdventWeekday2Thursday	weekday	purple		ADVENT	2	C/II		movable	Thursday of the 2nd Week of Advent
+2009-12-11	AdventWeekday2Friday	weekday	purple		ADVENT	2	C/II		movable	Friday of the 2nd Week of Advent
+2009-12-11	StDamasusIPope	optional-memorial	white	Pastors:For a Pope	ADVENT	2	C/II			Saint Damasus I, Pope
+2009-12-12	AdventWeekday2Saturday	weekday	purple		ADVENT	2	C/II		movable	Saturday of the 2nd Week of Advent
+2009-12-12	OurLadyOfGuadalupe	optional-memorial	white	Blessed Virgin Mary	ADVENT	2	C/II			Our Lady of Guadalupe
+2009-12-12	Advent3_vigil	higher-solemnity	rose,purple		ADVENT	3	C/II	Advent3	movable	Third Sunday of Advent (Gaudete) Vigil Mass
+2009-12-13	Advent3	higher-solemnity	rose,purple		ADVENT	3	C/II		movable,vigil-mass,first-vespers,second-vespers	Third Sunday of Advent (Gaudete)
+2009-12-14	StJohnCross	memorial	white	Proper	ADVENT	3	C/II			Saint John of the Cross, Priest and Doctor of the Church
+2009-12-15	AdventWeekday3Tuesday	weekday	purple		ADVENT	3	C/II		movable	Tuesday of the 3rd Week of Advent
+2009-12-16	AdventWeekday3Wednesday	weekday	purple		ADVENT	3	C/II		movable	Wednesday of the 3rd Week of Advent
+2009-12-17	AdventWeekdayDec17	weekday	purple		ADVENT	3	C/II		movable	Thursday of the 3rd Week of Advent
+2009-12-18	AdventWeekdayDec18	weekday	purple		ADVENT	3	C/II		movable	Friday of the 3rd Week of Advent
+2009-12-19	AdventWeekdayDec19	weekday	purple		ADVENT	3	C/II		movable	Saturday of the 3rd Week of Advent
+2009-12-19	Advent4_vigil	higher-solemnity	purple		ADVENT	4	C/II	Advent4	movable	Fourth Sunday of Advent Vigil Mass
+2009-12-20	Advent4	higher-solemnity	purple		ADVENT	4	C/II		movable,vigil-mass,first-vespers,second-vespers	Fourth Sunday of Advent
+2009-12-21	AdventWeekdayDec21	weekday	purple		ADVENT	4	C/II		movable	Monday of the 4th Week of Advent
+2009-12-21	StPeterCanisius	commemoration	white	Pastors:For One Pastor|Doctors	ADVENT	4	C/II			Saint Peter Canisius, Priest and Doctor of the Church
+2009-12-22	AdventWeekdayDec22	weekday	purple		ADVENT	4	C/II		movable	Tuesday of the 4th Week of Advent
+2009-12-23	AdventWeekdayDec23	weekday	purple		ADVENT	4	C/II		movable	Wednesday of the 4th Week of Advent
+2009-12-23	StJohnKanty	commemoration	white	Pastors:For One Pastor|Holy Men and Women:For Those Who Practiced Works of Mercy	ADVENT	4	C/II			Saint John of Kanty, Priest
+2009-12-24	AdventWeekdayDec24	weekday	purple		ADVENT	4	C/II		movable	Thursday of the 4th Week of Advent
+2009-12-24	Christmas_vigil	higher-solemnity	white		CHRISTMAS	0	C/II	Christmas	obligation	Christmas Vigil Mass
+2009-12-25	Christmas	higher-solemnity	white		CHRISTMAS	0	C/II		vigil-mass,first-vespers,second-vespers,obligation	Christmas
+2009-12-26	StStephenProtomartyr	feast	red	Proper	CHRISTMAS	0	C/II			Saint Stephen, The First Martyr
+2009-12-26	HolyFamily_vigil	feast-of-the-lord	white		CHRISTMAS	0	C/II	HolyFamily	movable	Holy Family of Jesus, Mary and Joseph Vigil Mass
+2009-12-27	HolyFamily	feast-of-the-lord	white		CHRISTMAS	0	C/II		movable,vigil-mass,first-vespers,second-vespers	Holy Family of Jesus, Mary and Joseph
+2009-12-28	HolyInnocents	feast	red	Proper	CHRISTMAS	0	C/II			The Holy Innocents, Martyrs
+2009-12-29	ChristmasWeekdayDec29	weekday	white		CHRISTMAS	0	C/II		movable	5th Day of the Octave of Christmas
+2009-12-29	StThomasBecket	commemoration	white,red	Martyrs:For One Martyr|Pastors:For a Bishop	CHRISTMAS	0	C/II			Saint Thomas Becket, Bishop and Martyr
+2009-12-30	ChristmasWeekdayDec30	weekday	white		CHRISTMAS	0	C/II		movable	6th Day of the Octave of Christmas
+2009-12-31	ChristmasWeekdayDec31	weekday	white		CHRISTMAS	0	C/II		movable	7th Day of the Octave of Christmas
+2009-12-31	StSylvesterIPope	commemoration	white	Pastors:For a Pope	CHRISTMAS	0	C/II			Saint Sylvester I, Pope

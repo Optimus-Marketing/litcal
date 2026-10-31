@@ -1,0 +1,7 @@
+litcal
+
+This product includes calendar rules and data derived from LiturgicalCalendarAPI
+(https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI), licensed under the Apache License, Version 2.0.
+
+The files in internal/definitions/data and internal/i18n/data were converted from its jsondata/sourcedata/rite/roman and
+i18n folders. The calendar rules were rewritten in Go from its PHP sources.

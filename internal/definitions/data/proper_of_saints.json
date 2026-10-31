@@ -1,0 +1,2842 @@
+[
+  {
+    "key": "StsBasilGreg",
+    "month": 1,
+    "day": 2,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StRayPenyafort",
+    "month": 1,
+    "day": 7,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StHilaryPoitiers",
+    "month": 1,
+    "day": 13,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAnthonyEgypt",
+    "month": 1,
+    "day": 17,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFabianPope",
+    "month": 1,
+    "day": 20,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StSebastian",
+    "month": 1,
+    "day": 20,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAgnes",
+    "month": 1,
+    "day": 21,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StVincentDeacon",
+    "month": 1,
+    "day": 22,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFrancisDeSales",
+    "month": 1,
+    "day": 24,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "ConversionStPaul",
+    "month": 1,
+    "day": 25,
+    "rank": 4,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsTimothyTitus",
+    "month": 1,
+    "day": 26,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAngelaMerici",
+    "month": 1,
+    "day": 27,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Holy Men and Women:For Educators"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StThomasAquinas",
+    "month": 1,
+    "day": 28,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnBosco",
+    "month": 1,
+    "day": 31,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Educators"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "Presentation",
+    "month": 2,
+    "day": 2,
+    "rank": 5,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBlase",
+    "month": 2,
+    "day": 3,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAnsgar",
+    "month": 2,
+    "day": 3,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAgatha",
+    "month": 2,
+    "day": 5,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsPaulMiki",
+    "month": 2,
+    "day": 6,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJeromeEmiliani",
+    "month": 2,
+    "day": 8,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Educators"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StScholastica",
+    "month": 2,
+    "day": 10,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Holy Men and Women:For a Nun"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "OurLadyOfLourdes",
+    "month": 2,
+    "day": 11,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Blessed Virgin Mary"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsCyrilMethodius",
+    "month": 2,
+    "day": 14,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "SevenHolyFounders",
+    "month": 2,
+    "day": 17,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPeterDamian",
+    "month": 2,
+    "day": 21,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "ChairStPeter",
+    "month": 2,
+    "day": 22,
+    "rank": 4,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPolycarp",
+    "month": 2,
+    "day": 23,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCasimir",
+    "month": 3,
+    "day": 4,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For One Saint"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsPerpetuaFelicity",
+    "month": 3,
+    "day": 7,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnGod",
+    "month": 3,
+    "day": 8,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious",
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFrancesRome",
+    "month": 3,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious",
+      "Holy Men and Women:For Holy Women"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPatrick",
+    "month": 3,
+    "day": 17,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCyrilJerusalem",
+    "month": 3,
+    "day": 18,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJoseph",
+    "month": 3,
+    "day": 19,
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "holyDayOfObligation": true,
+    "since": 1970
+  },
+  {
+    "key": "StTuribius",
+    "month": 3,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "Annunciation",
+    "month": 3,
+    "day": 25,
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFrancisPaola",
+    "month": 4,
+    "day": 2,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StIsidore",
+    "month": 4,
+    "day": 4,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StVincentFerrer",
+    "month": 4,
+    "day": 5,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnBaptistDeLaSalle",
+    "month": 4,
+    "day": 7,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Educators"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StStanislaus",
+    "month": 4,
+    "day": 11,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMartinPope",
+    "month": 4,
+    "day": 13,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAnselm",
+    "month": 4,
+    "day": 21,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StGeorge",
+    "month": 4,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFidelisSigmaringen",
+    "month": 4,
+    "day": 24,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For One Pastor"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMarkEvangelist",
+    "month": 4,
+    "day": 25,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPeterChanel",
+    "month": 4,
+    "day": 28,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCatherineSiena",
+    "month": 4,
+    "day": 29,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPiusV",
+    "month": 4,
+    "day": 30,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJosephWorker",
+    "month": 5,
+    "day": 1,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAthanasius",
+    "month": 5,
+    "day": 2,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsPhilipJames",
+    "month": 5,
+    "day": 3,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsNereusAchilleus",
+    "month": 5,
+    "day": 12,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPancras",
+    "month": 5,
+    "day": 12,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMatthiasAp",
+    "month": 5,
+    "day": 14,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnIPope",
+    "month": 5,
+    "day": 18,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBernardineSiena",
+    "month": 5,
+    "day": 20,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For Missionaries",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBedeVenerable",
+    "month": 5,
+    "day": 25,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Doctors",
+      "Holy Men and Women:For a Monk"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StGregoryVII",
+    "month": 5,
+    "day": 25,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMaryMagdalenePazzi",
+    "month": 5,
+    "day": 25,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPhilipNeri",
+    "month": 5,
+    "day": 26,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAugustineCanterbury",
+    "month": 5,
+    "day": 27,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "Visitation",
+    "month": 5,
+    "day": 31,
+    "rank": 4,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJustinMartyr",
+    "month": 6,
+    "day": 1,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsMarcellinusPeter",
+    "month": 6,
+    "day": 2,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsCharlesLwanga",
+    "month": 6,
+    "day": 3,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBoniface",
+    "month": 6,
+    "day": 5,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StNorbert",
+    "month": 6,
+    "day": 6,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StEphrem",
+    "month": 6,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBarnabasAp",
+    "month": 6,
+    "day": 11,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAnthonyPadua",
+    "month": 6,
+    "day": 13,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StRomuald",
+    "month": 6,
+    "day": 19,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For an Abbot"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAloysiusGonzaga",
+    "month": 6,
+    "day": 21,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPaulinusNola",
+    "month": 6,
+    "day": 22,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsJohnFisherThomasMore",
+    "month": 6,
+    "day": 22,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "NativityJohnBaptist",
+    "month": 6,
+    "day": 24,
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCyrilAlexandria",
+    "month": 6,
+    "day": 27,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StIrenaeus",
+    "month": 6,
+    "day": 28,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsPeterPaulAp",
+    "month": 6,
+    "day": 29,
+    "rank": 6,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "holyDayOfObligation": true,
+    "since": 1970
+  },
+  {
+    "key": "FirstMartyrsRome",
+    "month": 6,
+    "day": 30,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StThomasAp",
+    "month": 7,
+    "day": 3,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StElizabethPortugal",
+    "month": 7,
+    "day": 4,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAnthonyZaccaria",
+    "month": 7,
+    "day": 5,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Religious",
+      "Holy Men and Women:For Educators"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMariaGoretti",
+    "month": 7,
+    "day": 6,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBenedict",
+    "month": 7,
+    "day": 11,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StHenry",
+    "month": 7,
+    "day": 13,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For One Saint"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCamillusDeLellis",
+    "month": 7,
+    "day": 14,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBonaventure",
+    "month": 7,
+    "day": 15,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "OurLadyOfMountCarmel",
+    "month": 7,
+    "day": 16,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Blessed Virgin Mary"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StLawrenceBrindisi",
+    "month": 7,
+    "day": 21,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMaryMagdalene",
+    "month": 7,
+    "day": 22,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBridget",
+    "month": 7,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious",
+      "Holy Men and Women:For Holy Women"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJamesAp",
+    "month": 7,
+    "day": 25,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsJoachimAnne",
+    "month": 7,
+    "day": 26,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMartha",
+    "month": 7,
+    "day": 29,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPeterChrysologus",
+    "month": 7,
+    "day": 30,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StIgnatiusLoyola",
+    "month": 7,
+    "day": 31,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAlphonsusMariaDeLiguori",
+    "month": 8,
+    "day": 1,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StEusebius",
+    "month": 8,
+    "day": 2,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJeanVianney",
+    "month": 8,
+    "day": 4,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "DedicationStMaryMajor",
+    "month": 8,
+    "day": 5,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Blessed Virgin Mary"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "Transfiguration",
+    "month": 8,
+    "day": 6,
+    "rank": 5,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StSixtusIIPope",
+    "month": 8,
+    "day": 7,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCajetan",
+    "month": 8,
+    "day": 7,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StDominic",
+    "month": 8,
+    "day": 8,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StLawrenceDeacon",
+    "month": 8,
+    "day": 10,
+    "rank": 4,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StClare",
+    "month": 8,
+    "day": 11,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Holy Men and Women:For a Nun"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJaneFrancesDeChantal",
+    "month": 12,
+    "day": 12,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970,
+    "until": 2001
+  },
+  {
+    "key": "StsPontianHippolytus",
+    "month": 8,
+    "day": 13,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs",
+      "Pastors:For Several Pastors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "Assumption",
+    "month": 8,
+    "day": 15,
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "holyDayOfObligation": true,
+    "since": 1970
+  },
+  {
+    "key": "StStephenHungary",
+    "month": 8,
+    "day": 16,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For One Saint"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnEudes",
+    "month": 8,
+    "day": 19,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBernardClairvaux",
+    "month": 8,
+    "day": 20,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPiusX",
+    "month": 8,
+    "day": 21,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "QueenshipMary",
+    "month": 8,
+    "day": 22,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StRoseLima",
+    "month": 8,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBartholomewAp",
+    "month": 8,
+    "day": 24,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StLouis",
+    "month": 8,
+    "day": 25,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For One Saint"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJosephCalasanz",
+    "month": 8,
+    "day": 25,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Educators"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMonica",
+    "month": 8,
+    "day": 27,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Holy Women"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAugustineHippo",
+    "month": 8,
+    "day": 28,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "BeheadingJohnBaptist",
+    "month": 8,
+    "day": 29,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StGregoryGreat",
+    "month": 9,
+    "day": 3,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "NativityVirginMary",
+    "month": 9,
+    "day": 8,
+    "rank": 4,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnChrysostom",
+    "month": 9,
+    "day": 13,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "ExaltationCross",
+    "month": 9,
+    "day": 14,
+    "rank": 5,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "OurLadyOfSorrows",
+    "month": 9,
+    "day": 15,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsCorneliusCyprian",
+    "month": 9,
+    "day": 16,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs",
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StRobertBellarmine",
+    "month": 9,
+    "day": 17,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJanuarius",
+    "month": 9,
+    "day": 19,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMatthewEvangelist",
+    "month": 9,
+    "day": 21,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsCosmasDamian",
+    "month": 9,
+    "day": 26,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StVincentDePaul",
+    "month": 9,
+    "day": 27,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StWenceslaus",
+    "month": 9,
+    "day": 28,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsArchangels",
+    "month": 9,
+    "day": 29,
+    "rank": 4,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJerome",
+    "month": 9,
+    "day": 30,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StThereseChildJesus",
+    "month": 10,
+    "day": 1,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "GuardianAngels",
+    "month": 10,
+    "day": 2,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFrancisAssisi",
+    "month": 10,
+    "day": 4,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StBruno",
+    "month": 10,
+    "day": 6,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For a Monk"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "OurLadyOfTheRosary",
+    "month": 10,
+    "day": 7,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StDenis",
+    "month": 10,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnLeonardi",
+    "month": 10,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For Missionaries",
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCallistusIPope",
+    "month": 10,
+    "day": 14,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StTeresaJesus",
+    "month": 10,
+    "day": 15,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StHedwig",
+    "month": 10,
+    "day": 16,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious",
+      "Holy Men and Women:For Holy Women"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMargaretAlacoque",
+    "month": 10,
+    "day": 16,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StIgnatiusAntioch",
+    "month": 10,
+    "day": 17,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StLukeEvangelist",
+    "month": 10,
+    "day": 18,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StsJeanBrebeuf",
+    "month": 10,
+    "day": 19,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Missionary Martyrs"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPaulCross",
+    "month": 10,
+    "day": 19,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnCapistrano",
+    "month": 10,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For Missionaries",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAnthonyMaryClaret",
+    "month": 10,
+    "day": 24,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Pastors:For Missionaries"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StSimonStJudeAp",
+    "month": 10,
+    "day": 28,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "AllSaints",
+    "month": 11,
+    "day": 1,
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "holyDayOfObligation": true,
+    "since": 1970
+  },
+  {
+    "key": "AllSouls",
+    "month": 11,
+    "day": 2,
+    "rank": 6,
+    "colors": [
+      "purple"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMartinPorres",
+    "month": 11,
+    "day": 3,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCharlesBorromeo",
+    "month": 11,
+    "day": 4,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "DedicationLateran",
+    "month": 11,
+    "day": 9,
+    "rank": 5,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StLeoGreat",
+    "month": 11,
+    "day": 10,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMartinTours",
+    "month": 11,
+    "day": 11,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJosaphat",
+    "month": 11,
+    "day": 12,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAlbertGreat",
+    "month": 11,
+    "day": 15,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StMargaretScotland",
+    "month": 11,
+    "day": 16,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StGertrudeGreat",
+    "month": 11,
+    "day": 16,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin",
+      "Holy Men and Women:For a Nun"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StElizabethHungary",
+    "month": 11,
+    "day": 17,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "DedicationStsPeterPaul",
+    "month": 11,
+    "day": 18,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "PresentationMary",
+    "month": 11,
+    "day": 21,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StCecilia",
+    "month": 11,
+    "day": 22,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StClementIPope",
+    "month": 11,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StColumban",
+    "month": 11,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For Missionaries",
+      "Holy Men and Women:For an Abbot"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAndrewAp",
+    "month": 11,
+    "day": 30,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StFrancisXavier",
+    "month": 12,
+    "day": 3,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnDamascene",
+    "month": 12,
+    "day": 4,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StNicholas",
+    "month": 12,
+    "day": 6,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StAmbrose",
+    "month": 12,
+    "day": 7,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "ImmaculateConception",
+    "month": 12,
+    "day": 8,
+    "rank": 6,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "holyDayOfObligation": true,
+    "since": 1970
+  },
+  {
+    "key": "StDamasusIPope",
+    "month": 12,
+    "day": 11,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StLucySyracuse",
+    "month": 12,
+    "day": 13,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnCross",
+    "month": 12,
+    "day": 14,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StPeterCanisius",
+    "month": 12,
+    "day": 21,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Doctors"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnKanty",
+    "month": 12,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StStephenProtomartyr",
+    "month": 12,
+    "day": 26,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StJohnEvangelist",
+    "month": 12,
+    "day": 27,
+    "rank": 4,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "HolyInnocents",
+    "month": 12,
+    "day": 28,
+    "rank": 4,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StThomasBecket",
+    "month": 12,
+    "day": 29,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "StSylvesterIPope",
+    "month": 12,
+    "day": 31,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For a Pope"
+    ],
+    "since": 1970
+  },
+  {
+    "key": "NameJesus",
+    "month": 1,
+    "day": 3,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StJosephineBakhita",
+    "month": 2,
+    "day": 8,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Virgins:For One Virgin"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StAdalbert",
+    "month": 4,
+    "day": 23,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StLouisGrignionMontfort",
+    "month": 4,
+    "day": 28,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "OurLadyOfFatima",
+    "month": 5,
+    "day": 13,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Blessed Virgin Mary"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StChristopherMagallanes",
+    "month": 5,
+    "day": 21,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StRitaCascia",
+    "month": 5,
+    "day": 22,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StAugustineZhaoRong",
+    "month": 7,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StApollinaris",
+    "month": 7,
+    "day": 20,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For One Martyr",
+      "Pastors:For a Bishop"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StSharbelMakhluf",
+    "month": 7,
+    "day": 24,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For a Monk"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StPeterJulianEymard",
+    "month": 8,
+    "day": 2,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StEdithStein",
+    "month": 8,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StMaximilianKolbe",
+    "month": 8,
+    "day": 14,
+    "rank": 3,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StPeterClaver",
+    "month": 9,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Those Who Practiced Works of Mercy"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "HolyNameMary",
+    "month": 9,
+    "day": 12,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StAndrewKimTaegon",
+    "month": 9,
+    "day": 20,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StsLawrenceRuiz",
+    "month": 9,
+    "day": 28,
+    "rank": 2,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For Several Martyrs"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StAndrewDungLac",
+    "month": 11,
+    "day": 24,
+    "rank": 3,
+    "colors": [
+      "red"
+    ],
+    "commons": [
+      "Proper"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StCatherineAlexandria",
+    "month": 11,
+    "day": 25,
+    "rank": 2,
+    "colors": [
+      "white",
+      "red"
+    ],
+    "commons": [
+      "Martyrs:For a Virgin Martyr",
+      "Virgins:For One Virgin"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StJaneFrancesDeChantal",
+    "month": 8,
+    "day": 12,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 2002
+  },
+  {
+    "key": "StPioPietrelcina",
+    "month": 9,
+    "day": 23,
+    "rank": 3,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Pastors:For One Pastor",
+      "Holy Men and Women:For Religious"
+    ],
+    "since": 2008
+  },
+  {
+    "key": "OurLadyOfGuadalupe",
+    "month": 12,
+    "day": 12,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Blessed Virgin Mary"
+    ],
+    "since": 2008
+  },
+  {
+    "key": "JuanDiego",
+    "month": 12,
+    "day": 9,
+    "rank": 2,
+    "colors": [
+      "white"
+    ],
+    "commons": [
+      "Holy Men and Women:For One Saint"
+    ],
+    "since": 2008
+  }
+]
