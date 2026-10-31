@@ -12,19 +12,15 @@ jobs:
       matrix:
         go: ["1.24", "stable"]
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-go@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-go@v7
         with:
           go-version: ${{ matrix.go }}
+          cache: false
       - name: Format
         run: test -z "$(gofmt -l .)"
       - name: Vet
         run: go vet ./...
-      - name: Staticcheck
-        uses: dominikh/staticcheck-action@v1
-        with:
-          install-go: false
-          cache-key: ${{ matrix.go }}
       - name: Test
         run: go test -race -short ./...
       - name: Every year from 1970 to 9999

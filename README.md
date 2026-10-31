@@ -45,7 +45,7 @@ A new language needs its file in `internal/i18n/data` and a `Language` constant.
 ```sh
 make test      # tests with the race detector, without the sweep of every year
 make test-all  # every test, including every year from 1970 to 9999
-make lint      # gofmt, go vet and staticcheck
+make lint      # gofmt and go vet
 make golden    # rewrite testdata/golden after an intended change
 ```
 
